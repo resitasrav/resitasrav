@@ -32,6 +32,6 @@ Hello! I am a 2nd-year Computer Engineering student dedicated to mastering the i
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin](linkedin.com/in/reşit-asrav-94510b232) - **Email:** resitasrav@email.com ```
+- **LinkedIn:** [linkedin//resitasrav](linkedin.com/in/reşit-asrav-94510b232) - **Email:** resitasrav@email.com ```
 
 ---
