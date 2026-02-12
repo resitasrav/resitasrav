@@ -1,29 +1,30 @@
 # 👨‍💻 Reşit ASRAV
 ### Computer Engineering Student | Embedded Systems & Autonomous Technologies
 
-Donanım ve yazılımın kesişim noktasında, otonom sistemler ve gömülü yazılımlar üzerine uzmanlaşmaya odaklanmış bir Bilgisayar Mühendisliği öğrencisiyim. Düşük seviyeli dillerle sistem optimizasyonu yapmayı ve karmaşık backend mimarileri kurmayı seviyorum.
+I am a Computer Engineering student focused on specializing at the intersection of hardware and software, particularly in autonomous systems and embedded development. I enjoy low-level system optimization, real-time architectures, and building scalable backend infrastructures for complex applications.
 
 ---
 
-### 🚀 Stratejik Odak Noktaları
-- 🛰️ **Otonom Sistemler:** PX4 Autopilot, Gazebo simülasyonları ve MAVLink haberleşme protokolleri.
-- 💾 **Gömülü Yazılım:** C/C++ ile bare-metal ve RTOS tabanlı geliştirme, STM32 ve Orange Pi uygulamaları.
-- ⚙️ **Sistem Mimarisi:** Django tabanlı ölçeklenebilir backend sistemleri ve veritabanı optimizasyonu.
+### 🚀 Strategic Focus Areas
+
+- 🛰️ **Autonomous Systems:** PX4 Autopilot, Gazebo simulations, MAVLink communication protocols, and SITL-based validation.
+- 💾 **Embedded Software:** Bare-metal and RTOS-based development using C/C++, STM32 microcontrollers, and SBC platforms such as Orange Pi.
+- ⚙️ **System Architecture:** Scalable backend systems with Django, RESTful API design, and database performance optimization.
 
 ---
 
-### 🛠️ Teknik Yetkinlikler
+### 🛠️ Technical Competencies
 
-| Kategori | Teknolojiler |
+| Category | Technologies |
 | :--- | :--- |
-| **Diller** | `C`, `C++`, `Python`, `Java`, `Assembly (Learning)` |
-| **Gömülü & Robotik** | `PX4 Autopilot`, `Gazebo`, `MAVLink`, `SITL Testing`, `Proteus` |
-| **Web & Backend** | `Django`, `Flask`, `PostgreSQL`, `REST APIs` |
-| **Araçlar & OS** | `Linux (Ubuntu)`, `Git`, `Docker`, `VS Code`, `MacOS/Windows` |
+| **Programming Languages** | `C`, `C++`, `Python`, `Java`|
+| **Embedded & Robotics** | `PX4 Autopilot`, `Gazebo`, `MAVLink`, `SITL Testing`, `Proteus`,`Arduino`  |
+| **Web & Backend** | `Django`, `Flask`, `Jazzmin`, `REST APIs`,`HTML & CSS`  |
+| **Tools & Operating Systems** | `Linux (Ubuntu)`, `Git`, `Docker`, `VS Code`, `Windows` |
 
 ---
 
-## 🔴 MY ACTIVIT
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/drone-snake-dark.svg">
@@ -33,16 +34,12 @@ Donanım ve yazılımın kesişim noktasında, otonom sistemler ve gömülü yaz
 
 ---
 
-### 📊 Mühendislik İstatistikleri
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=resitasrav&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resitasrav&layout=compact&theme=github_dark&hide=html,css&cache_seconds=1800" height="170"/>
-</p>
+### 📫 Contact & Network
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Resit%20Asrav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resitasrav)
+
+[![Email](https://img.shields.io/badge/Email-Resit%20Asrav-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resitasrav@gmail.com)
 
 ---
 
-### 📫 İletişim & Network
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/resitasrav)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resitasrav@gmail.com)
-
-> "Gelecek otonom sistemlerde, otonom sistemler ise doğru algoritmalarla şekillenir." 🚀
+> “The future belongs to autonomous systems — and autonomous systems are shaped by precise algorithms.”
