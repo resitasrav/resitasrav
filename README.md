@@ -23,15 +23,14 @@ Donanım ve yazılımın kesişim noktasında, otonom sistemler ve gömülü yaz
 
 ---
 
-### 🛸 Autonomous Activity Tracker (UAV Flight Path)
-*GitHub aktivitelerim, simüle edilmiş bir İHA rotası üzerinden gerçek zamanlı olarak izlenmektedir.*
+## 🔴 Tactical UAV Activity Tracker  
+*Autonomous system contribution path simulation (Defense-Tech Theme).*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/snake-light.svg">
-  <img alt="UAV Flight Path" src="https://raw.githubusercontent.com/resitasrav/resitasrav/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/drone-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/drone-snake-light.svg">
+  <img alt="UAV Tactical Flight Path Simulation" src="https://raw.githubusercontent.com/resitasrav/resitasrav/output/drone-snake-dark.svg">
 </picture>
-
 ---
 
 ### 📊 Mühendislik İstatistikleri
