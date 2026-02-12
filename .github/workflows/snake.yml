@@ -2,12 +2,17 @@ name: Generate Tactical UAV Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *" # Her 12 saatte bir güncelle
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
@@ -16,8 +21,8 @@ jobs:
         with:
           github_user_name: resitasrav
           outputs: |
-            dist/drone-snake-dark.svg?color_snake=#8B0000,#B22222,#FF0000&color_dots=#1A0000,#2A0000,#3A0000,#4A0000,#5A0000
-            dist/drone-snake-light.svg?color_snake=#8B0000,#B22222,#FF0000&color_dots=#F5F5F5,#E8E8E8,#DCDCDC,#CFCFCF,#C2C2C2
+            dist/drone-snake-dark.svg?color_snake=#ff0000&color_dots=#121212,#1a0000,#2d0000,#4d0000,#7a0000
+            dist/drone-snake-light.svg?color_snake=#8b0000&color_dots=#f5f5f5,#ffdada,#ff9e9e,#ff5e5e,#ff0000
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
