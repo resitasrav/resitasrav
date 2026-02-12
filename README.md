@@ -23,8 +23,7 @@ Donanım ve yazılımın kesişim noktasında, otonom sistemler ve gömülü yaz
 
 ---
 
-## 🔴 Tactical Activity Tracker (UAV Operational Route)
-*GitHub aktivitelerim, simüle edilmiş bir İHA operasyon rotası üzerinden gerçek zamanlı izlenmektedir.*
+## 🔴 MY ACTIVIT
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/drone-snake-dark.svg">
@@ -36,8 +35,8 @@ Donanım ve yazılımın kesişim noktasında, otonom sistemler ve gömülü yaz
 
 ### 📊 Mühendislik İstatistikleri
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=resitasrav&show_icons=true&theme=tokyonight&count_private=true" alt="Resit's Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resitasrav&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=resitasrav&show_icons=true&theme=dark&count_private=true" alt="Resit Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resitasrav&layout=compact&theme=dark&hide=html,css" alt="Top Langs" height="170">
 </p>
 
 ---
