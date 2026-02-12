@@ -17,7 +17,7 @@ jobs:
       - name: generate-snake-svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: resitasrav
           outputs: |
             dist/snake.svg?palette=github-dark&color_snake=#00fbff&color_dots=#161b22
             dist/snake-light.svg?palette=github-light&color_snake=#00fbff&color_dots=#ebedf0
