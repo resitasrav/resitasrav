@@ -31,6 +31,18 @@ Hello! I am a 2nd-year Computer Engineering student dedicated to mastering the i
 
 ---
 
+
+## 🛸 Autonomous Activity Tracker
+*Monitoring code commits and system contributions via a simulated UAV flight path (Neon-Electric Edition).*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/snake-light.svg">
+  <img alt="UAV Path" src="https://raw.githubusercontent.com/resitasrav/resitasrav/output/snake.svg">
+</picture>
+
+---
+
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin//resitasrav](linkedin.com/in/reşit-asrav-94510b232) - **Email:** resitasrav@email.com ```
 
