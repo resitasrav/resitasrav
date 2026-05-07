@@ -66,7 +66,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=resitasrav&theme=nord_dark" alt="Stats" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=resitasrav&theme=nord_dark&utcOffset=3" alt="Productive Time" width="49%" />
 </div>
-
+<img align="right" alt="Embedded Systems" width="350" src="https://i.pinimg.com/originals/a0/f9/58/a0f9584b80611f71f654b41198642a8b.gif">
+<img align="right" alt="Autonomous Drone" width="350" src="https://i.pinimg.com/originals/24/76/99/247699742eb5dc63f76bd80f553a1d95.gif">
+<img align="right" alt="Robotics" width="350" src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/565d0cb66b17c91d8a1c93a02bbdbca3.gif">
+<img align="right" alt="System Architecture" width="350" src="https://i.pinimg.com/originals/d4/0b/3e/d40b3e512ce7899e31d4e0e5eb1d120a.gif">
 <br/>
 
 ## 🐍 Contribution Snake
