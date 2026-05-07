@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <img align="right" alt="Embedded Systems" width="350" src="https://i.pinimg.com/originals/a0/f9/58/a0f9584b80611f71f654b41198642a8b.gif">
 <img align="right" alt="Autonomous Drone" width="350" src="https://i.pinimg.com/originals/24/76/99/247699742eb5dc63f76bd80f553a1d95.gif">
 <img align="right" alt="Robotics" width="350" src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/565d0cb66b17c91d8a1c93a02bbdbca3.gif">
