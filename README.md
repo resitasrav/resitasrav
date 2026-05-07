@@ -1,78 +1,54 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Re%C5%9Fit+ASRAV!;Embedded+Systems+%26+Autonomous+Tech;Backend+Architecture+Enthusiast" alt="Typing SVG" />
-</h1>
-
 <div align="center">
+  <h1>⚡ Reşit ASRAV</h1>
+  <p><i>Computer Engineering Student | Embedded Systems & Autonomous Technologies</i></p>
+  
   <a href="https://www.linkedin.com/in/resitasrav">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:resitasrav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=resitasrav&style=flat-square&color=0077B5" alt="Profile Views" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=resitasrav&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/resitasrav?style=for-the-badge&color=blue" alt="Followers" />
-</div>
+### 🚀 Overview
 
-<br/>
+I am a Computer Engineering student at **Bursa Technical University**, navigating the intersection of hardware and software. My passion lies in low-level system optimization, real-time architectures, and building scalable infrastructures.
 
-## 👨‍💻 About Me
+<img align="right" alt="Hardware/System Concept" width="280" src="https://i.pinimg.com/originals/a0/f9/58/a0f9584b80611f71f654b41198642a8b.gif">
 
-
-<img align="right" alt="Embedded Systems" width="350" src="https://i.pinimg.com/originals/a0/f9/58/a0f9584b80611f71f654b41198642a8b.gif">
-<img align="right" alt="Autonomous Drone" width="350" src="https://i.pinimg.com/originals/24/76/99/247699742eb5dc63f76bd80f553a1d95.gif">
-<img align="right" alt="Robotics" width="350" src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/565d0cb66b17c91d8a1c93a02bbdbca3.gif">
-<img align="right" alt="System Architecture" width="350" src="https://i.pinimg.com/originals/d4/0b/3e/d40b3e512ce7899e31d4e0e5eb1d120a.gif">
-
-- 🎓 Computer Engineering Student at **Bursa Technical University**
-- 🛰️ Focused on specializing in **Autonomous Systems** and **Embedded Development**
-- 💻 Enjoying low-level system optimization and real-time architectures
-- 🚀 Currently working with **PX4 Autopilot, Gazebo, and C/C++**
-- ⚙️ Building scalable backend systems and APIs with **Django**
-- 📫 How to reach me: **resitasrav@gmail.com**
+*   🛸 **Autonomous Systems:** Working with PX4 Autopilot, Gazebo simulations, MAVLink, and SITL-based validation.
+*   ⚙️ **Embedded Software:** Bare-metal and RTOS-based development using C/C++, STM32, and Arduino.
+*   🌐 **System Architecture:** Designing scalable backend systems and RESTful APIs using **Django**.
+*   🎯 **Current Focus:** Bridging the gap between complex hardware operations and seamless software control.
 
 <br clear="both"/>
 
-## 🛠️ Tech Stack
+### 💻 Technology Arsenal
+
+**Low-Level & Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Autonomous & Embedded**  
+![PX4 Autopilot](https://img.shields.io/badge/PX4_Autopilot-0B2949?style=flat-square) ![Gazebo](https://img.shields.io/badge/Gazebo-FFB300?style=flat-square) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) 
+
+**Backend & Infrastructure**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+<br/>
+
+### 📈 Development Activity
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="70" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="70" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="70" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="70" title="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="70" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="70" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="70" title="Ubuntu"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="70" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70" title="Git"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=resitasrav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3B82F6" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resitasrav&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" width="49%" />
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=resitasrav&theme=nord_dark" alt="Profile Summary" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=resitasrav&theme=nord_dark" alt="Repos per Language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=resitasrav&theme=nord_dark" alt="Most Commit Language" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=resitasrav&theme=nord_dark" alt="Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=resitasrav&theme=nord_dark&utcOffset=3" alt="Productive Time" width="49%" />
-</div>
-<br/>
-
-## 🐍 Contribution Snake
+### 🐍 Autonomous Flight Path (Contributions)
 
 <div align="center">
   <picture>
@@ -82,10 +58,7 @@
   </picture>
 </div>
 
-<br/>
-
 ---
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <i>"The future belongs to autonomous systems — and autonomous systems are shaped by precise algorithms."</i>
 </div>
