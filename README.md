@@ -3,6 +3,10 @@
 </h1>
 
 <div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Resit%20Asrav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resitasrav)
+  [![Email](https://img.shields.io/badge/Email-Resit%20Asrav-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resitasrav@gmail.com)
+
   <img src="https://komarev.com/ghpvc/?username=resitasrav&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
@@ -60,11 +64,5 @@ I am a Computer Engineering student focused on specializing at the intersection 
 
 ---
 
-### 📫 Contact & Network
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Resit%20Asrav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resitasrav)
-[![Email](https://img.shields.io/badge/Email-Resit%20Asrav-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resitasrav@gmail.com)
-
----
 
 > _“The future belongs to autonomous systems — and autonomous systems are shaped by precise algorithms.”_
