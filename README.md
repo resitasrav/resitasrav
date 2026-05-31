@@ -45,23 +45,21 @@ I am a Computer Engineering student focused on specializing at the intersection 
 
 ### 📊 GitHub Stats & Insights
 
-<!-- YENİ EKLENEN DETAYLI İSTATİSTİK PANELLERİ -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-cards-output/github-dark/0-profile-details.svg" width="48%" alt="Profile Details">
-  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-cards-output/github-dark/1-repository-details.svg" width="48%" alt="Repository Details">
+  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-card-output/github-dark/0-profile-details.svg" width="48%" alt="Profile Details">
+  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-card-output/github-dark/1-repository-details.svg" width="48%" alt="Repository Details">
   <br>
-  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-cards-output/github-dark/2-commit-details.svg" width="48%" alt="Commit Details">
-  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-cards-output/github-dark/3-productive-time.svg" width="48%" alt="Productive Time">
+  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-card-output/github-dark/2-commit-details.svg" width="48%" alt="Commit Details">
+  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-card-output/github-dark/3-productive-time.svg" width="48%" alt="Productive Time">
 </div>
 
 <br/>
 
-<!-- MEVCUT GENEL İSTATİSTİKLERİN (ESKİSİ) -->
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=resitasrav&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=resitasrav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%">
 </div>
-
 ---
 
 ### 🐍 Contribution Snake
