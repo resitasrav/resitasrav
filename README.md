@@ -45,13 +45,12 @@ I am a Computer Engineering student focused on specializing at the intersection 
 
 ### 📊 GitHub Stats & Insights
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-card-output/github-dark/0-profile-details.svg" width="48%" alt="Profile Details">
-  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-card-output/github-dark/1-repository-details.svg" width="48%" alt="Repository Details">
+  <img src="./profile-summary-card-output/github-dark/0-profile-details.svg" width="48%" alt="Profile Details">
+  <img src="./profile-summary-card-output/github-dark/1-repository-details.svg" width="48%" alt="Repository Details">
   <br>
-  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-card-output/github-dark/2-commit-details.svg" width="48%" alt="Commit Details">
-  <img src="https://raw.githubusercontent.com/resitasrav/resitasrav/main/profile-summary-card-output/github-dark/3-productive-time.svg" width="48%" alt="Productive Time">
+  <img src="./profile-summary-card-output/github-dark/2-commit-details.svg" width="48%" alt="Commit Details">
+  <img src="./profile-summary-card-output/github-dark/3-productive-time.svg" width="48%" alt="Productive Time">
 </div>
 
 <br/>
