@@ -47,10 +47,12 @@ I am a Computer Engineering student focused on specializing at the intersection 
 
 <div align="center">
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="48%" alt="Profile Details">
-  <img src="profile-summary-card-output/github_dark/1-repository-details.svg" width="48%" alt="Repository Details">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="48%" alt="Stats">
   <br>
-  <img src="profile-summary-card-output/github_dark/2-commit-details.svg" width="48%" alt="Commit Details">
-  <img src="profile-summary-card-output/github_dark/3-productive-time.svg" width="48%" alt="Productive Time">
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" alt="Repos Per Language">
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="Most Commit Language">
+  <br>
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" alt="Productive Time">
 </div>
 
 <br/>
