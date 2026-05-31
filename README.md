@@ -46,14 +46,15 @@ I am a Computer Engineering student focused on specializing at the intersection 
 ### 📊 GitHub Stats & Insights
 
 <div align="center">
-  <img src="./profile-summary-card-output/github-dark/0-profile-details.svg" width="48%" alt="Profile Details">
-  <img src="./profile-summary-card-output/github-dark/1-repository-details.svg" width="48%" alt="Repository Details">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="48%" alt="Profile Details">
+  <img src="profile-summary-card-output/github_dark/1-repository-details.svg" width="48%" alt="Repository Details">
   <br>
-  <img src="./profile-summary-card-output/github-dark/2-commit-details.svg" width="48%" alt="Commit Details">
-  <img src="./profile-summary-card-output/github-dark/3-productive-time.svg" width="48%" alt="Productive Time">
+  <img src="profile-summary-card-output/github_dark/2-commit-details.svg" width="48%" alt="Commit Details">
+  <img src="profile-summary-card-output/github_dark/3-productive-time.svg" width="48%" alt="Productive Time">
 </div>
 
 <br/>
+
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=resitasrav&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%">
