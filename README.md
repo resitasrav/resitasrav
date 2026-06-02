@@ -5,8 +5,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-resitasrav-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resitasrav)
-[![Email](https://img.shields.io/badge/Email-resitasrav@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:resitasrav@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=resitasrav&style=flat-square&color=3B82F6&label=Views)](https://github.com/resitasrav)
+[![Email](https://img.shields.io/badge/Email-resitasrav%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:resitasrav@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=resitasrav&style=flat-square&color=3B82F6&label=Profile+Views)](https://github.com/resitasrav)
 
 </div>
 
@@ -49,17 +49,13 @@ Focused on the intersection of hardware and software — autonomous systems, rea
 ## 📊 GitHub Stats
 
 <div align="center">
-
-| Stats | Languages |
-|:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=resitasrav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resitasrav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=resitasrav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165" alt="Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resitasrav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-
-![Profile Details](profile-summary-card-output/github_dark/0-profile-details.svg)
-
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="96%" alt="Profile Details" />
 </div>
 
 ---
@@ -69,102 +65,29 @@ Focused on the intersection of hardware and software — autonomous systems, rea
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 02 — 2023:** A collision between two passenger trains and a parked freight train near the city of Balasore, Odisha, in eastern India resulted in 296 deaths and more than 1,200 people injured.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2023_Odisha_train_collision)
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
+_This section is auto-updated by GitHub Actions._
 
-**02 Haziran - 2023: Hindistan'ın doğusundaki Odisha'nın Balasore kenti yakınlarında iki yolcu treni ile park halindeki bir yük treni arasındaki çarpışma 296 kişinin ölümüyle ve 1.200'den fazla kişinin yaralanmasıyla sonuçlandı.**
-
-</details>
-
-*Updated: 2026-06-02 11:29 UTC*
 <!-- HISTORY_END -->
 
 <!-- LEETCODE_START -->
 ### 💻 LeetCode — Problem of the Day
 
-**[Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**  
-Difficulty: 🟢 Easy  
-Topics: `Array, Two Pointers, Binary Search, Greedy`
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
+_This section is auto-updated by GitHub Actions._
 
-**[Kara ve Su Sürüşlerinde En Erken Bitiş Zamanı I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**  
-Zorluk: 🟢 Easy  
-Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
-
-</details>
-
-*Updated: 2026-06-02 11:29 UTC*
 <!-- LEETCODE_END -->
 
 <!-- AINEWS_START -->
 ### 🤖 AI & Tech — Top Stories
 
-1. **[Adobe Sensei – Unified artificial intelligence and machine learning](http://www.adobe.com/sensei.html)** ⬆️ 12
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
+_This section is auto-updated by GitHub Actions._
 
-**Adobe Sensei – Birleşik yapay zeka ve makine öğrenimi**
-
-</details>
-
-2. **[Best Artificial Intelligence and Machine Learning Books](https://hackernoon.com/5-best-artificial-intelligence-machine-learning-books-in-2019-cc8b38f6ec8e)** ⬆️ 12
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**En İyi Yapay Zeka ve Makine Öğrenimi Kitapları**
-
-</details>
-
-3. **[Artificial Intelligence and Machine Learning in Software as a Medical Device](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-software-medical-device)** ⬆️ 11
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Tıbbi Cihaz Olarak Yazılımda Yapay Zeka ve Makine Öğrenimi**
-
-</details>
-
-
-*Updated: 2026-06-02 11:29 UTC*
 <!-- AINEWS_END -->
 
 <!-- NEWS_START -->
-### 🌍 Breaking News — BBC World
+### 🌍 Breaking News
 
-1. **[Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people](https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss)**  
-An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
+_This section is auto-updated by GitHub Actions._
 
-**Rusya'nın saldırısında 18 kişinin ölmesinin ardından Ukrayna'da kurtarma ekipleri enkaz altından çıkarıldı**  
-Yetkililer, ölenler arasında bir apartman bloğuna düzenlenen saldırıda öldürülen sekiz yaşında bir erkek çocuk ve bir kadının da bulunduğunu söyledi.
-
-</details>
-
-2. **[Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan](https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss)**  
-A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**İsrail ve Hizbullah'ın ABD'nin kısmi ateşkes planını kabul etmesine rağmen Lübnan'da çatışmalar devam ediyor**  
-İsrail ile Hizbullah arasındaki düşmanlığın sona ermesi, İran'la barış süreci açısından hayati önem taşıyor.
-
-</details>
-
-3. **[Two people shot dead amid Kenya protests against US Ebola quarantine centre plan](https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss)**  
-The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**ABD'nin Ebola karantina merkezi planına karşı Kenya'daki protestoların ortasında iki kişi vurularak öldürüldü**  
-ABD'nin planı halkın öfkesini ateşledi ve önerilen arıtma tesisinin yakınında gösterilere yol açtı.
-
-</details>
-
-
-*Updated: 2026-06-02 11:29 UTC*
 <!-- NEWS_END -->
 
 ---
@@ -175,7 +98,7 @@ ABD'nin planı halkın öfkesini ateşledi ve önerilen arıtma tesisinin yakın
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/drone-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/resitasrav/resitasrav/output/drone-snake-light.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/resitasrav/resitasrav/output/drone-snake-dark.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/resitasrav/resitasrav/output/drone-snake-dark.svg" />
   </picture>
 </div>
 
