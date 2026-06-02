@@ -48,10 +48,12 @@ Focused on the intersection of hardware and software — autonomous systems, rea
 
 ## 📊 GitHub Stats
 
+<!-- Stats cards are generated locally by GitHub Actions → stored in assets/ → zero external dependency -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=resitasrav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165" alt="Stats" />
+  <img src="assets/stats-card.svg" height="175" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resitasrav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
+  <img src="assets/langs-card.svg" height="175" alt="Top Languages" />
 </div>
 
 <div align="center">
