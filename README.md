@@ -84,8 +84,19 @@ I am a Computer Engineering student focused on specializing at the intersection 
 <!-- LEETCODE_START -->
 ### 💻 LeetCode — Problem of the Day
 
-_This section is auto-updated by GitHub Actions._
+**[Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**  
+Difficulty: 🟢 Easy  
+Topics: `Array, Two Pointers, Binary Search, Greedy`
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
 
+**[Kara ve Su Sürüşlerinde En Erken Bitiş Zamanı I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**  
+Zorluk: 🟢 Easy  
+Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
+
+</details>
+
+*Updated: 2026-06-02 11:18 UTC*
 <!-- LEETCODE_END -->
 
 ---
