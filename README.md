@@ -57,11 +57,47 @@ I am a Computer Engineering student focused on specializing at the intersection 
 
 <br/>
 
-
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=resitasrav&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=resitasrav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%">
 </div>
+
+---
+
+<!-- HISTORY_START -->
+### 📅 On This Day
+
+_This section is auto-updated by GitHub Actions._
+
+<!-- HISTORY_END -->
+
+---
+
+<!-- LEETCODE_START -->
+### 💻 LeetCode — Problem of the Day
+
+_This section is auto-updated by GitHub Actions._
+
+<!-- LEETCODE_END -->
+
+---
+
+<!-- AINEWS_START -->
+### 🤖 AI & Tech — Top Stories
+
+_This section is auto-updated by GitHub Actions._
+
+<!-- AINEWS_END -->
+
+---
+
+<!-- NEWS_START -->
+### 🌍 Breaking News — BBC World
+
+_This section is auto-updated by GitHub Actions._
+
+<!-- NEWS_END -->
+
 ---
 
 ### 🐍 Contribution Snake
@@ -76,4 +112,4 @@ I am a Computer Engineering student focused on specializing at the intersection 
 
 ---
 
-> _“The future belongs to autonomous systems — and autonomous systems are shaped by precise algorithms.”_
+> _"The future belongs to autonomous systems — and autonomous systems are shaped by precise algorithms."_
