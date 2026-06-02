@@ -137,23 +137,23 @@ Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people](https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss)**  
-An eight-year-old boy killed in a strike on an apartment block are among the dead, officials say.
+1. **[Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold](https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss)**  
+Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Ukrayna'da kurtarma ekipleri, Rusya'nın saldırılarında 22 kişinin ölmesinin ardından enkaz altından çıkarıldı**  
-Yetkililer, ölenler arasında bir apartman bloğuna düzenlenen saldırıda öldürülen sekiz yaşındaki bir çocuğun da bulunduğunu söyledi.
+**İsrail güney Lübnan'ı vurdu ancak Hizbullah'la kısmi ateşkes devam ediyor gibi görünüyor**  
+İsrail güneydeki harekâtını sürdürüyor ancak ABD'nin açıkladığı anlaşma sonrasında Beyrut'u vuramadı.
 
 </details>
 
-2. **[Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan](https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss)**  
-A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.
+2. **['They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike](https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss)**  
+Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**İsrail ve Hizbullah'ın ABD'nin kısmi ateşkes planını kabul etmesine rağmen Lübnan'da çatışmalar devam ediyor**  
-İsrail ile Hizbullah arasındaki düşmanlığın sona ermesi, İran'la barış süreci açısından hayati önem taşıyor.
+**'Binayı tamir edecekler ama ruhlarımızı değil': Rusya'nın grevinde Kiev'in uykulu mahallesi vuruldu**  
+Büyük bir Rus saldırısının ardından yeraltı sığınaklarından çıkan sakinleri yıkım sahneleri karşılıyor.
 
 </details>
 
@@ -168,7 +168,7 @@ Lindsay ve Craig Foreman, Ocak 2025'te küresel bir motosiklet yolculuğu sıras
 </details>
 
 
-*Updated: 2026-06-02 15:58 UTC*
+*Updated: 2026-06-02 20:36 UTC*
 <!-- NEWS_END -->
 
 ---
