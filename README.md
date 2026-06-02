@@ -67,8 +67,16 @@ I am a Computer Engineering student focused on specializing at the intersection 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-_This section is auto-updated by GitHub Actions._
+**June 02 — 2023:** A collision between two passenger trains and a parked freight train near the city of Balasore, Odisha, in eastern India resulted in 296 deaths and more than 1,200 people injured.
+🔗 [Wikipedia](https://en.wikipedia.org/wiki/2023_Odisha_train_collision)
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
 
+**02 Haziran - 2023: Hindistan'ın doğusundaki Odisha'nın Balasore kenti yakınlarında iki yolcu treni ile park halindeki bir yük treni arasındaki çarpışma 296 kişinin ölümüyle ve 1.200'den fazla kişinin yaralanmasıyla sonuçlandı.**
+
+</details>
+
+*Updated: 2026-06-02 11:18 UTC*
 <!-- HISTORY_END -->
 
 ---
