@@ -137,13 +137,13 @@ Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people](https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss)**  
-An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.
+1. **[Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people](https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss)**  
+An eight-year-old boy killed in a strike on an apartment block are among the dead, officials say.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Ukrayna'da kurtarma ekipleri, Rusya'nın saldırılarında 18 kişinin ölmesinin ardından enkaz altından çıkarıldı**  
-Yetkililer, ölenler arasında bir apartman bloğuna düzenlenen saldırıda öldürülen sekiz yaşında bir erkek çocuk ve bir kadının da bulunduğunu söyledi.
+**Ukrayna'da kurtarma ekipleri, Rusya'nın saldırılarında 22 kişinin ölmesinin ardından enkaz altından çıkarıldı**  
+Yetkililer, ölenler arasında bir apartman bloğuna düzenlenen saldırıda öldürülen sekiz yaşındaki bir çocuğun da bulunduğunu söyledi.
 
 </details>
 
@@ -157,18 +157,18 @@ A cessation of hostilities between Israel and Hezbollah is seen as crucial to th
 
 </details>
 
-3. **[Two people shot dead amid Kenya protests against US Ebola quarantine centre plan](https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss)**  
-The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.
+3. **[British couple lose Iran jail sentence appeal, family says](https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss)**  
+Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**ABD'nin Ebola karantina merkezi planına karşı Kenya'daki protestoların ortasında iki kişi vurularak öldürüldü**  
-ABD'nin planı halkın öfkesini ateşledi ve önerilen arıtma tesisinin yakınında gösterilere yol açtı.
+**Aile, İngiliz çiftin İran'daki hapis cezasına itirazını kaybettiğini söyledi**  
+Lindsay ve Craig Foreman, Ocak 2025'te küresel bir motosiklet yolculuğu sırasında tutuklandı.
 
 </details>
 
 
-*Updated: 2026-06-02 12:03 UTC*
+*Updated: 2026-06-02 15:58 UTC*
 <!-- NEWS_END -->
 
 ---
