@@ -2,49 +2,54 @@ name: 🔄 Auto-Update README
 
 on:
   schedule:
-    # Runs at 06:00, 12:00, 18:00 UTC every day
-    - cron: "0 6 * * *"
-    - cron: "0 12 * * *"
-    - cron: "0 18 * * *"
-  workflow_dispatch: # Allow manual trigger from GitHub UI
+    - cron: "0 6 * * *"   # 09:00 TR
+    - cron: "0 12 * * *"  # 15:00 TR
+    - cron: "0 18 * * *"  # 21:00 TR
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Fetch & Commit Dynamic Sections
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Required to push commits
+      contents: write
 
     steps:
-      # ── 1. Checkout ────────────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Full history needed for git operations
+          fetch-depth: 0
 
-      # ── 2. Python setup ────────────────────────────────────────────────────
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: "pip"
 
-      # ── 3. Install dependencies ────────────────────────────────────────────
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install deep-translator
+          pip install deep-translator requests
 
-      # ── 4. Configure Git identity ──────────────────────────────────────────
       - name: Configure Git
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # ── 5. Run the updater script ──────────────────────────────────────────
+      # ── Stats Cards: generate SVGs locally via GitHub API ─────────────────
+      - name: Generate GitHub Stats SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py
+
+      - name: Commit stats SVGs
+        run: |
+          git add assets/
+          git diff --cached --quiet && echo "No stats changes" || git commit -m "update: github stats"
+
+      # ── Dynamic README sections ────────────────────────────────────────────
       - name: Run update_readme.py
         run: python scripts/update_readme.py
 
-      # ── 6. Push all 4 commits at once ─────────────────────────────────────
-      - name: Push commits
+      - name: Push all commits
         run: git push
