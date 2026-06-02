@@ -100,8 +100,32 @@ Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
 <!-- AINEWS_START -->
 ### 🤖 AI & Tech — Top Stories
 
-_This section is auto-updated by GitHub Actions._
+1. **[Adobe Sensei – Unified artificial intelligence and machine learning](http://www.adobe.com/sensei.html)** ⬆️ 12
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
 
+**Adobe Sensei – Birleşik yapay zeka ve makine öğrenimi**
+
+</details>
+
+2. **[Best Artificial Intelligence and Machine Learning Books](https://hackernoon.com/5-best-artificial-intelligence-machine-learning-books-in-2019-cc8b38f6ec8e)** ⬆️ 12
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**En İyi Yapay Zeka ve Makine Öğrenimi Kitapları**
+
+</details>
+
+3. **[Artificial Intelligence and Machine Learning in Software as a Medical Device](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-software-medical-device)** ⬆️ 11
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**Tıbbi Cihaz Olarak Yazılımda Yapay Zeka ve Makine Öğrenimi**
+
+</details>
+
+
+*Updated: 2026-06-02 11:42 UTC*
 <!-- AINEWS_END -->
 
 <!-- NEWS_START -->
