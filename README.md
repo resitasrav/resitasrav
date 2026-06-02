@@ -62,7 +62,7 @@ Focused on the intersection of hardware and software — autonomous systems, rea
 
 ---
 
-## 🔴 Live Dashboard — Auto-updated 3× daily
+## 🔴 Continuous Integration Heartbeat
 
 <!-- HISTORY_START -->
 ### 📅 On This Day
