@@ -131,10 +131,40 @@ Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
 <!-- AINEWS_END -->
 
 <!-- NEWS_START -->
-### 🌍 Breaking News
+### 🌍 Breaking News — BBC World
 
-_This section is auto-updated by GitHub Actions._
+1. **[Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people](https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss)**  
+An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
 
+**Rusya'nın saldırısında 18 kişinin ölmesinin ardından Ukrayna'da kurtarma ekipleri enkaz altından çıkarıldı**  
+Yetkililer, ölenler arasında bir apartman bloğuna düzenlenen saldırıda öldürülen sekiz yaşında bir erkek çocuk ve bir kadının da bulunduğunu söyledi.
+
+</details>
+
+2. **[Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan](https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss)**  
+A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**İsrail ve Hizbullah'ın ABD'nin kısmi ateşkes planını kabul etmesine rağmen Lübnan'da çatışmalar devam ediyor**  
+İsrail ile Hizbullah arasındaki düşmanlığın sona ermesi, İran'la barış süreci açısından hayati önem taşıyor.
+
+</details>
+
+3. **[Two people shot dead amid Kenya protests against US Ebola quarantine centre plan](https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss)**  
+The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**ABD'nin Ebola karantina merkezi planına karşı Kenya'daki protestoların ortasında iki kişi vurularak öldürüldü**  
+ABD'nin planı halkın öfkesini ateşledi ve önerilen arıtma tesisinin yakınında gösterilere yol açtı.
+
+</details>
+
+
+*Updated: 2026-06-02 11:29 UTC*
 <!-- NEWS_END -->
 
 ---
