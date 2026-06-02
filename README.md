@@ -62,107 +62,40 @@ Focused on the intersection of hardware and software — autonomous systems, rea
 
 ---
 
-## 🔴 Continuous Integration Heartbeat
+## ⚡ Continuous Integration Pulse
+
+<div align="left">
+  <i>⏱️ Son Güncelleme: Bu alan GitHub Actions tarafından otomatik güncellenir.</i>
+</div>
+
+---
 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 02 — 2023:** A collision between two passenger trains and a parked freight train near the city of Balasore, Odisha, in eastern India resulted in 296 deaths and more than 1,200 people injured.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2023_Odisha_train_collision)
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
+_This section is auto-updated by GitHub Actions._
 
-**02 Haziran - 2023: Hindistan'ın doğusundaki Odisha'nın Balasore kenti yakınlarında iki yolcu treni ile park halindeki bir yük treni arasındaki çarpışma 296 kişinin ölümüyle ve 1.200'den fazla kişinin yaralanmasıyla sonuçlandı.**
-
-</details>
-
-*Updated: 2026-06-02 11:42 UTC*
 <!-- HISTORY_END -->
 
 <!-- LEETCODE_START -->
 ### 💻 LeetCode — Problem of the Day
 
-**[Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**  
-Difficulty: 🟢 Easy  
-Topics: `Array, Two Pointers, Binary Search, Greedy`
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
+_This section is auto-updated by GitHub Actions._
 
-**[Kara ve Su Sürüşlerinde En Erken Bitiş Zamanı I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**  
-Zorluk: 🟢 Easy  
-Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
-
-</details>
-
-*Updated: 2026-06-02 11:42 UTC*
 <!-- LEETCODE_END -->
 
 <!-- AINEWS_START -->
 ### 🤖 AI & Tech — Top Stories
 
-1. **[Adobe Sensei – Unified artificial intelligence and machine learning](http://www.adobe.com/sensei.html)** ⬆️ 12
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
+_This section is auto-updated by GitHub Actions._
 
-**Adobe Sensei – Birleşik yapay zeka ve makine öğrenimi**
-
-</details>
-
-2. **[Best Artificial Intelligence and Machine Learning Books](https://hackernoon.com/5-best-artificial-intelligence-machine-learning-books-in-2019-cc8b38f6ec8e)** ⬆️ 12
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**En İyi Yapay Zeka ve Makine Öğrenimi Kitapları**
-
-</details>
-
-3. **[Artificial Intelligence and Machine Learning in Software as a Medical Device](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-software-medical-device)** ⬆️ 11
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Tıbbi Cihaz Olarak Yazılımda Yapay Zeka ve Makine Öğrenimi**
-
-</details>
-
-
-*Updated: 2026-06-02 11:42 UTC*
 <!-- AINEWS_END -->
 
 <!-- NEWS_START -->
-### 🌍 Breaking News — BBC World
+### 🌍 Breaking News
 
-1. **[Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people](https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss)**  
-An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
+_This section is auto-updated by GitHub Actions._
 
-**Rusya'nın saldırısında 18 kişinin ölmesinin ardından Ukrayna'da kurtarma ekipleri enkaz altından çıkarıldı**  
-Yetkililer, ölenler arasında bir apartman bloğuna düzenlenen saldırıda öldürülen sekiz yaşında bir erkek çocuk ve bir kadının da bulunduğunu söyledi.
-
-</details>
-
-2. **[Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan](https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss)**  
-A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**İsrail ve Hizbullah'ın ABD'nin kısmi ateşkes planını kabul etmesine rağmen Lübnan'da çatışmalar devam ediyor**  
-İsrail ile Hizbullah arasındaki düşmanlığın sona ermesi, İran'la barış süreci açısından hayati önem taşıyor.
-
-</details>
-
-3. **[Two people shot dead amid Kenya protests against US Ebola quarantine centre plan](https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss)**  
-The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**ABD'nin Ebola karantina merkezi planına karşı Kenya'daki protestoların ortasında iki kişi vurularak öldürüldü**  
-ABD'nin planı halkın öfkesini ateşledi ve önerilen arıtma tesisinin yakınında gösterilere yol açtı.
-
-</details>
-
-
-*Updated: 2026-06-02 11:42 UTC*
 <!-- NEWS_END -->
 
 ---
