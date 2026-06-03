@@ -186,18 +186,18 @@ Israel continues its campaign in the south, though has not struck Beirut after a
 
 </details>
 
-3. **[Seven killed after drone hits bus in Russia-controlled part of Ukraine](https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss)**  
-The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says.
+3. **[Eight killed after drone hits bus in Russia-controlled part of Ukraine](https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss)**  
+The bus was travelling between Moscow and Simferopol, in Russian-controlled Crimea, an official says.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Ukrayna'nın Rusya kontrolündeki bölümünde insansız hava aracının otobüse çarpması sonucu yedi kişi öldü**  
-Bir yetkili, otobüsün Rus işgali altındaki Kırım'da, Moskova ile Simferopol arasında seyahat ettiğini söyledi.
+**Ukrayna'nın Rusya kontrolündeki bölümünde insansız hava aracının otobüse çarpması sonucu 8 kişi öldü**  
+Bir yetkili, otobüsün Rusya'nın kontrolündeki Kırım'da Moskova ile Simferopol arasında seyahat ettiğini söyledi.
 
 </details>
 
 
-*Updated: 2026-06-03 10:44 UTC*
+*Updated: 2026-06-03 12:33 UTC*
 <!-- NEWS_END -->
 
 ---
