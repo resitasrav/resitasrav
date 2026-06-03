@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=560&lines=Hi+%F0%9F%91%8B+I'm+Re%C5%9Fit+ASRAV!;Computer+Engineering+Student;Embedded+%26+Autonomous+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B+I'm+Re%C5%9Fit+ASRAV!;Computer+Engineering+Student;Drone+%26+Autonomous+Systems;Embedded+%7C+Backend+%7C+Robotics" alt="Typing SVG" />
 
 <br/>
 
@@ -12,43 +12,74 @@
 
 ---
 
-## 👨‍💻 Reşit ASRAV
-**Computer Engineering Student · Embedded Systems & Autonomous Technologies**
+## 👨‍💻 About
 
-Focused on the intersection of hardware and software — autonomous systems, real-time architectures, and scalable backend infrastructure.
+Computer Engineering student focused on the convergence of hardware and software.  
+Building systems that operate at the edge — from bare-metal embedded firmware to autonomous aerial platforms.
 
-**Focus areas:**
-🛰️ **Autonomous:** PX4 Autopilot · Gazebo · MAVLink · SITL
-💾 **Embedded:** C/C++ · STM32 · RTOS · Orange Pi
-⚙️ **Backend:** Django · REST APIs · Docker · PostgreSQL
+| | |
+|:---|:---|
+| 🎓 | Computer Engineering Student |
+| 🛰️ | Autonomous systems — PX4, MAVLink, SITL |
+| 💾 | Embedded firmware — STM32, RTOS, C/C++ |
+| ⚙️ | Backend infrastructure — Django, REST APIs, Docker |
+| 📍 | Turkey |
+
+---
+
+## 🎯 Current Focus
+
+```text
+▸ Drone autonomy     — PX4 Autopilot · MAVLink protocols · Gazebo SITL
+▸ Embedded systems   — STM32 bare-metal · FreeRTOS · real-time constraints
+▸ Backend            — Django REST APIs · containerized deployments
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<details>
+<summary><b>Languages</b></summary>
+<br>
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Embedded & Robotics**
+</details>
+
+<details>
+<summary><b>Embedded &amp; Autonomous Systems</b></summary>
+<br>
+
 ![PX4](https://img.shields.io/badge/PX4-0B2949?style=flat-square)
+![MAVLink](https://img.shields.io/badge/MAVLink-0073C6?style=flat-square)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8B0000?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FFB300?style=flat-square)
+![Orange Pi](https://img.shields.io/badge/Orange_Pi-FF6600?style=flat-square)
 
-**Web & Tools**
+</details>
+
+<details>
+<summary><b>Backend &amp; Infrastructure</b></summary>
+<br>
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
+</details>
+
 ---
 
 ## 📊 GitHub Stats
-
-<!-- Stats cards are generated locally by GitHub Actions → stored in assets/ → zero external dependency -->
 
 <div align="center">
   <img src="assets/stats-card.svg" height="175" alt="GitHub Stats" />
@@ -60,15 +91,13 @@ Focused on the intersection of hardware and software — autonomous systems, rea
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="96%" alt="Profile Details" />
 </div>
 
----
-
-## ⚡ Continuous Integration Pulse
-
-<div align="left">
-  <i>⏱️ Son Güncelleme: Bu alan GitHub Actions tarafından otomatik güncellenir.</i>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=resitasrav&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
+
+## 📡 Live Feed
 
 <!-- HISTORY_START -->
 ### 📅 On This Day
