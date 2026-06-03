@@ -166,7 +166,17 @@ Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[One killed and dozens injured in Iranian drone strikes on Kuwait airport](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)**  
+1. **[Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border](https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss)**  
+The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**Hizbullah sınıra roket fırlatırken İsrail saldırıları Lübnan'da dokuz kişiyi öldürdü**  
+Olaylar, Pazartesi günü İsrail ve Lübnan silahlı grubu tarafından kabul edilen kısmi ateşkesi zorluyor.
+
+</details>
+
+2. **[One killed and dozens injured in Iranian drone strikes on Kuwait airport](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)**  
 Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
@@ -176,28 +186,18 @@ Iran says the attack on Kuwait was in retaliation for earlier US strikes on an I
 
 </details>
 
-2. **[Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens](https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss)**  
-Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.
+3. **['Crazy' phone call between Trump and Netanyahu complicates Iran talks](https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss)**  
+Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Putin'in amiral gemisi ekonomik forumu açılırken Ukrayna insansız hava araçları St Petersburg'u vurdu**  
-Vladimir Putin'in etkinlikte konuşma yapmasına günler kala, çok sayıda uzun menzilli insansız hava aracı şehrin yakınındaki petrol depolama tesislerini vurdu.
-
-</details>
-
-3. **[Foreign nationals among at least 21 killed in Delhi fire](https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss)**  
-Many victims were South Asians who had travelled to India for treatment or to accompany relatives.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Delhi'deki yangında ölen en az 21 kişi arasında yabancı uyruklular da var**  
-Kurbanların çoğu, tedavi için veya akrabalarına eşlik etmek için Hindistan'a seyahat eden Güney Asyalılardı.
+**Trump ile Netanyahu arasındaki 'çılgın' telefon görüşmesi İran görüşmelerini zorlaştırıyor**  
+İsrail Başbakanı sürtüşme haberlerine güldü ancak diğer ABD başkanlarının sabrını sınadı.
 
 </details>
 
 
-*Updated: 2026-06-03 16:16 UTC*
+*Updated: 2026-06-03 20:47 UTC*
 <!-- NEWS_END -->
 
 ---
