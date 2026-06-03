@@ -166,38 +166,38 @@ Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)**  
-Kuwait says one person is dead after drones hit civilian buildings including its international airport.
+1. **[One killed and dozens injured in Iranian drone strikes on Kuwait airport](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)**  
+Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Kuveyt havaalanının İran insansız hava araçları tarafından vurulduğunu söylerken ABD ve İran yeni saldırılar başlattı**  
-Kuveyt, dronların uluslararası havaalanı da dahil olmak üzere sivil binalara çarpması sonucu bir kişinin öldüğünü açıkladı.
+**İran'ın Kuveyt havaalanına düzenlediği insansız hava aracı saldırısında bir kişi öldü, onlarca kişi yaralandı**  
+İran, Kuveyt'e düzenlenen saldırının ABD'nin İran petrol tankeri ve adasına daha önce düzenlediği saldırılara misilleme olduğunu söyledi.
 
 </details>
 
-2. **[Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold](https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss)**  
-Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.
+2. **[Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens](https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss)**  
+Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**İsrail güney Lübnan'ı vurdu ancak Hizbullah'la kısmi ateşkes devam ediyor gibi görünüyor**  
-İsrail güneydeki harekâtını sürdürüyor ancak ABD'nin açıkladığı anlaşma sonrasında Beyrut'u vuramadı.
+**Putin'in amiral gemisi ekonomik forumu açılırken Ukrayna insansız hava araçları St Petersburg'u vurdu**  
+Vladimir Putin'in etkinlikte konuşma yapmasına günler kala, çok sayıda uzun menzilli insansız hava aracı şehrin yakınındaki petrol depolama tesislerini vurdu.
 
 </details>
 
-3. **[Eight killed after drone hits bus in Russia-controlled part of Ukraine](https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss)**  
-The bus was travelling between Moscow and Simferopol, in Russian-controlled Crimea, an official says.
+3. **[Foreign nationals among at least 21 killed in Delhi fire](https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss)**  
+Many victims were South Asians who had travelled to India for treatment or to accompany relatives.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Ukrayna'nın Rusya kontrolündeki bölümünde insansız hava aracının otobüse çarpması sonucu 8 kişi öldü**  
-Bir yetkili, otobüsün Rusya'nın kontrolündeki Kırım'da Moskova ile Simferopol arasında seyahat ettiğini söyledi.
+**Delhi'deki yangında ölen en az 21 kişi arasında yabancı uyruklular da var**  
+Kurbanların çoğu, tedavi için veya akrabalarına eşlik etmek için Hindistan'a seyahat eden Güney Asyalılardı.
 
 </details>
 
 
-*Updated: 2026-06-03 12:33 UTC*
+*Updated: 2026-06-03 16:16 UTC*
 <!-- NEWS_END -->
 
 ---
