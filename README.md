@@ -92,7 +92,7 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=resitasrav&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=resitasrav&theme=tokyonight&column=-1" alt="GitHub Trophies" />
 </div>
 
 ---
