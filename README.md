@@ -73,16 +73,16 @@ Focused on the intersection of hardware and software — autonomous systems, rea
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 02 — 2023:** A collision between two passenger trains and a parked freight train near the city of Balasore, Odisha, in eastern India resulted in 296 deaths and more than 1,200 people injured.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2023_Odisha_train_collision)
+**June 03 — 2025:** Prime minister of Mongolia Luvsannamsrain Oyun-Erdene resigned after weeks of protests.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Prime_Minister_of_Mongolia)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**02 Haziran - 2023: Hindistan'ın doğusundaki Odisha'nın Balasore kenti yakınlarında iki yolcu treni ile park halindeki bir yük treni arasındaki çarpışma 296 kişinin ölümüyle ve 1.200'den fazla kişinin yaralanmasıyla sonuçlandı.**
+**03 Haziran 2025: Moğolistan Başbakanı Luvsannamsrain Oyun-Erdene haftalarca süren protestoların ardından istifa etti.**
 
 </details>
 
-*Updated: 2026-06-02 20:35 UTC*
+*Updated: 2026-06-03 10:33 UTC*
 <!-- HISTORY_END -->
 
 <!-- LEETCODE_START -->
