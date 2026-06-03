@@ -168,7 +168,7 @@ Bir yetkili, otobüsün Rus işgali altındaki Kırım'da, Moskova ile Simferopo
 </details>
 
 
-*Updated: 2026-06-03 10:33 UTC*
+*Updated: 2026-06-03 10:44 UTC*
 <!-- NEWS_END -->
 
 ---
