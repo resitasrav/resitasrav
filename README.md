@@ -137,7 +137,17 @@ Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold](https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss)**  
+1. **[US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)**  
+Kuwait says one person is dead after drones hit civilian buildings including its international airport.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**Kuveyt havaalanının İran insansız hava araçları tarafından vurulduğunu söylerken ABD ve İran yeni saldırılar başlattı**  
+Kuveyt, dronların uluslararası havaalanı da dahil olmak üzere sivil binalara çarpması sonucu bir kişinin öldüğünü açıkladı.
+
+</details>
+
+2. **[Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold](https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss)**  
 Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
@@ -147,28 +157,18 @@ Israel continues its campaign in the south, though has not struck Beirut after a
 
 </details>
 
-2. **['They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike](https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss)**  
-Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.
+3. **[Seven killed after drone hits bus in Russia-controlled part of Ukraine](https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss)**  
+The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**'Binayı tamir edecekler ama ruhlarımızı değil': Rusya'nın grevinde Kiev'in uykulu mahallesi vuruldu**  
-Büyük bir Rus saldırısının ardından yeraltı sığınaklarından çıkan sakinleri yıkım sahneleri karşılıyor.
-
-</details>
-
-3. **[British couple lose Iran jail sentence appeal, family says](https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss)**  
-Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Aile, İngiliz çiftin İran'daki hapis cezasına itirazını kaybettiğini söyledi**  
-Lindsay ve Craig Foreman, Ocak 2025'te küresel bir motosiklet yolculuğu sırasında tutuklandı.
+**Ukrayna'nın Rusya kontrolündeki bölümünde insansız hava aracının otobüse çarpması sonucu yedi kişi öldü**  
+Bir yetkili, otobüsün Rus işgali altındaki Kırım'da, Moskova ile Simferopol arasında seyahat ettiğini söyledi.
 
 </details>
 
 
-*Updated: 2026-06-02 20:36 UTC*
+*Updated: 2026-06-03 10:33 UTC*
 <!-- NEWS_END -->
 
 ---
