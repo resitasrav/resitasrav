@@ -88,19 +88,19 @@ Focused on the intersection of hardware and software — autonomous systems, rea
 <!-- LEETCODE_START -->
 ### 💻 LeetCode — Problem of the Day
 
-**[Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**  
-Difficulty: 🟢 Easy  
+**[Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)**  
+Difficulty: 🟡 Medium  
 Topics: `Array, Two Pointers, Binary Search, Greedy`
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**[Kara ve Su Sürüşlerinde En Erken Bitiş Zamanı I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**  
-Zorluk: 🟢 Easy  
+**[Kara ve Su Sürüşlerinde En Erken Bitiş Zamanı II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)**  
+Zorluk: 🟡 Medium  
 Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
 
 </details>
 
-*Updated: 2026-06-02 20:36 UTC*
+*Updated: 2026-06-03 10:33 UTC*
 <!-- LEETCODE_END -->
 
 <!-- AINEWS_START -->
