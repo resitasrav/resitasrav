@@ -166,38 +166,38 @@ Konular: `Matematik, Dinamik Programlama, Numaralandırma`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks](https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss)**  
-The countries reject "any attempt, by any state or non-state actor, to hold Lebanon's future hostage", the US says.
+1. **[Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon](https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss)**  
+The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**İsrail ve Lübnan, Hizbullah'ın saldırıları durdurması halinde ateşkes konusunda anlaştı**  
-ABD, ülkelerin "herhangi bir devlet veya devlet dışı aktörün Lübnan'ın gelecekteki rehinesini tutmaya yönelik her türlü girişimi" reddettiğini söylüyor.
+**Hizbullah, İsrail ve Lübnan'ın yenilediği ateşkesi reddetti**  
+ABD, yeni bir müzakere turunun ardından Çarşamba gecesi ateşkes anlaşmasını duyurdu.
 
 </details>
 
-2. **[US House delivers rebuke to Trump as it votes to halt Iran war](https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss)**  
-In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.
+2. **[Trump hits back at 'unpatriotic' vote after House rebukes him over Iran](https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss)**  
+The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**ABD Temsilciler Meclisi, İran savaşını durdurma yönünde oy kullanan Trump'ı azarladı**  
-215'e karşı 208'lik oylamada dört Cumhuriyetçi, büyük ölçüde sembolik olan tasarıyı geçirmek için Demokratlara katıldı.
+**Trump, Temsilciler Meclisi'nin kendisini İran konusunda azarlamasının ardından 'vatansever olmayan' oylamaya karşılık verdi**  
+Kongre'nin alt meclisi, büyük ölçüde sembolik olarak görülen bir oylamayla, daha fazla askeri eylemi durdurmayı amaçlayan bir tedbiri kabul etti.
 
 </details>
 
-3. **['Crazy' phone call between Trump and Netanyahu complicates Iran talks](https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss)**  
-Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.
+3. **[Ex-wife of Dubai ruler's nephew missing, says lawyer](https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss)**  
+British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Trump ile Netanyahu arasındaki 'çılgın' telefon görüşmesi İran görüşmelerini zorlaştırıyor**  
-İsrail Başbakanı sürtüşme haberlerine güldü ancak diğer ABD başkanlarının sabrını sınadı.
+**Avukat, Dubai hükümdarının yeğeninin eski karısının kayıp olduğunu söyledi**  
+İngiliz avukat David Haigh Salı günü Zeynab Javadli ile bağlantısını kaybetti ve BBC'ye onun Dubai'deki evinin kilitli ve boş olduğu söylendi.
 
 </details>
 
 
-*Updated: 2026-06-04 14:33 UTC*
+*Updated: 2026-06-04 19:55 UTC*
 <!-- NEWS_END -->
 
 ---
