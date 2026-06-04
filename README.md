@@ -166,23 +166,23 @@ Konular: `Matematik, Dinamik Programlama, Numaralandırma`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border](https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss)**  
-The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.
+1. **[Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks](https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss)**  
+The countries reject "any attempt, by any state or non-state actor, to hold Lebanon's future hostage", the US says.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Hizbullah sınıra roket fırlatırken İsrail saldırıları Lübnan'da dokuz kişiyi öldürdü**  
-Olaylar, Pazartesi günü İsrail ve Lübnan silahlı grubu tarafından kabul edilen kısmi ateşkesi zorluyor.
+**İsrail ve Lübnan, Hizbullah'ın saldırıları durdurması halinde ateşkes konusunda anlaştı**  
+ABD, ülkelerin "herhangi bir devlet veya devlet dışı aktörün Lübnan'ın gelecekteki rehinesini tutmaya yönelik her türlü girişimi" reddettiğini söylüyor.
 
 </details>
 
-2. **[One killed and dozens injured in Iranian drone strikes on Kuwait airport](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)**  
-Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.
+2. **[US House delivers rebuke to Trump as it votes to halt Iran war](https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss)**  
+In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**İran'ın Kuveyt havaalanına düzenlediği insansız hava aracı saldırısında bir kişi öldü, onlarca kişi yaralandı**  
-İran, Kuveyt'e düzenlenen saldırının ABD'nin İran petrol tankeri ve adasına daha önce düzenlediği saldırılara misilleme olduğunu söyledi.
+**ABD Temsilciler Meclisi, İran savaşını durdurma yönünde oy kullanan Trump'ı azarladı**  
+215'e karşı 208'lik oylamada dört Cumhuriyetçi, büyük ölçüde sembolik olan tasarıyı geçirmek için Demokratlara katıldı.
 
 </details>
 
@@ -197,7 +197,7 @@ Israel's PM laughed off reports of friction, but he has tested the patience of o
 </details>
 
 
-*Updated: 2026-06-03 20:47 UTC*
+*Updated: 2026-06-04 09:43 UTC*
 <!-- NEWS_END -->
 
 ---
