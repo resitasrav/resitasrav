@@ -197,7 +197,7 @@ Israel's PM laughed off reports of friction, but he has tested the patience of o
 </details>
 
 
-*Updated: 2026-06-04 09:43 UTC*
+*Updated: 2026-06-04 14:33 UTC*
 <!-- NEWS_END -->
 
 ---
