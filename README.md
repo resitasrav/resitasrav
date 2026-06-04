@@ -102,16 +102,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 03 — 2025:** Prime minister of Mongolia Luvsannamsrain Oyun-Erdene resigned after weeks of protests.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Prime_Minister_of_Mongolia)
+**June 04 — 2025:** A crowd crush outside M. Chinnaswamy Stadium during celebrations of Royal Challengers Bengaluru's Indian Premier League title killed 11 people and injured 56 others.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2025_Bengaluru_crowd_crush)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**03 Haziran 2025: Moğolistan Başbakanı Luvsannamsrain Oyun-Erdene haftalarca süren protestoların ardından istifa etti.**
+**04 Haziran - 2025: Royal Challengers Bengaluru'nun Hindistan Premier Ligi şampiyonluğu kutlamaları sırasında M. Chinnaswamy Stadyumu'nun önünde çıkan kalabalık 11 kişiyi öldürdü ve 56 kişiyi de yaraladı.**
 
 </details>
 
-*Updated: 2026-06-03 20:47 UTC*
+*Updated: 2026-06-04 09:43 UTC*
 <!-- HISTORY_END -->
 
 <!-- LEETCODE_START -->
