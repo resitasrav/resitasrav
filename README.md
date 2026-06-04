@@ -117,19 +117,19 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- LEETCODE_START -->
 ### 💻 LeetCode — Problem of the Day
 
-**[Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)**  
+**[Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)**  
 Difficulty: 🟡 Medium  
-Topics: `Array, Two Pointers, Binary Search, Greedy`
+Topics: `Math, Dynamic Programming, Enumeration`
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**[Kara ve Su Sürüşlerinde En Erken Bitiş Zamanı II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)**  
+**[Aralık I'deki Sayıların Toplam Dalgalılığı](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)**  
 Zorluk: 🟡 Medium  
-Konular: `Dizi, İki İşaretçi, İkili Arama, Açgözlü`
+Konular: `Matematik, Dinamik Programlama, Numaralandırma`
 
 </details>
 
-*Updated: 2026-06-03 20:47 UTC*
+*Updated: 2026-06-04 09:43 UTC*
 <!-- LEETCODE_END -->
 
 <!-- AINEWS_START -->
