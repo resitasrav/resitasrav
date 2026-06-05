@@ -166,7 +166,17 @@ Konular: `Matematik, Dinamik Programlama`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Zelensky proposes face-to-face talks in open letter to Putin](https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss)**  
+1. **[Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech](https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss)**  
+Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**Putin ana konuşmaya hazırlanırken Ukrayna kargo gemilerini vurdu ve Romanya'da insansız hava aracının patladığını kabul etti**  
+Ukrayna, Azak Denizi'nde ve Rus işgali altındaki toprakların kıyı sularında yasadışı yük taşıyan beş geminin vurulduğunu açıkladı.
+
+</details>
+
+2. **[Zelensky proposes face-to-face talks in open letter to Putin](https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss)**  
 Ukraine's president tells the Russian leader that only "direct engagement" between the two countries could end the war, with the US focused on Iran.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
@@ -176,28 +186,18 @@ Ukrayna cumhurbaşkanı, Rus lidere, ABD'nin İran'a odaklandığı bir dönemde
 
 </details>
 
-2. **[Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon](https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss)**  
-The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.
+3. **[Fury in France after child murder suspect's criminal record released](https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss)**  
+A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Hizbullah, İsrail ve Lübnan'ın yenilediği ateşkesi reddetti**  
-ABD, yeni bir müzakere turunun ardından Çarşamba gecesi ateşkes anlaşmasını duyurdu.
-
-</details>
-
-3. **[How Trump's White House ballroom plan has doubled in size and cost over a year](https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss)**  
-BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Trump'ın Beyaz Saray balo salonu planı bir yılda boyut ve maliyet olarak nasıl iki katına çıktı?**  
-BBC Verify, Beyaz Saray'da onlarca yıldır yaşanan en büyük değişikliğin geçen yıl nasıl dönüştüğünü inceliyor.
+**Çocuk cinayeti zanlısının sabıka kaydının açıklanması Fransa'da öfke yarattı**  
+Kayıtlar, 11 yaşındaki bir kızı öldürdüğünden şüphelenilen bir adamın daha önce potansiyel çocuk tacizcisi olarak tanımlandığını gösteriyor.
 
 </details>
 
 
-*Updated: 2026-06-05 09:31 UTC*
+*Updated: 2026-06-05 14:24 UTC*
 <!-- NEWS_END -->
 
 ---
