@@ -102,16 +102,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 04 — 2025:** A crowd crush outside M. Chinnaswamy Stadium during celebrations of Royal Challengers Bengaluru's Indian Premier League title killed 11 people and injured 56 others.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2025_Bengaluru_crowd_crush)
+**June 05 — 2009:** A fire at a day-care center kills 49 children in Mexico  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2009_Hermosillo_daycare_center_fire)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**04 Haziran - 2025: Royal Challengers Bengaluru'nun Hindistan Premier Ligi şampiyonluğu kutlamaları sırasında M. Chinnaswamy Stadyumu'nun önünde çıkan kalabalık 11 kişiyi öldürdü ve 56 kişiyi de yaraladı.**
+**05 Haziran 2009: Meksika'da bir kreşte çıkan yangında 49 çocuk öldü**
 
 </details>
 
-*Updated: 2026-06-04 19:55 UTC*
+*Updated: 2026-06-05 09:31 UTC*
 <!-- HISTORY_END -->
 
 <!-- LEETCODE_START -->
