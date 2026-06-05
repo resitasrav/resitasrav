@@ -166,7 +166,17 @@ Konular: `Matematik, Dinamik Programlama`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon](https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss)**  
+1. **[Zelensky proposes face-to-face talks in open letter to Putin](https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss)**  
+Ukraine's president tells the Russian leader that only "direct engagement" between the two countries could end the war, with the US focused on Iran.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**Zelensky, Putin'e açık mektupla yüz yüze görüşme teklifinde bulundu**  
+Ukrayna cumhurbaşkanı, Rus lidere, ABD'nin İran'a odaklandığı bir dönemde, yalnızca iki ülke arasındaki "doğrudan etkileşimin" savaşı sona erdirebileceğini söyledi.
+
+</details>
+
+2. **[Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon](https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss)**  
 The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
@@ -176,28 +186,18 @@ ABD, yeni bir müzakere turunun ardından Çarşamba gecesi ateşkes anlaşması
 
 </details>
 
-2. **[Trump hits back at 'unpatriotic' vote after House rebukes him over Iran](https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss)**  
-The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.
+3. **[How Trump's White House ballroom plan has doubled in size and cost over a year](https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss)**  
+BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Trump, Temsilciler Meclisi'nin kendisini İran konusunda azarlamasının ardından 'vatansever olmayan' oylamaya karşılık verdi**  
-Kongre'nin alt meclisi, büyük ölçüde sembolik olarak görülen bir oylamayla, daha fazla askeri eylemi durdurmayı amaçlayan bir tedbiri kabul etti.
-
-</details>
-
-3. **[Ex-wife of Dubai ruler's nephew missing, says lawyer](https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss)**  
-British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Avukat, Dubai hükümdarının yeğeninin eski karısının kayıp olduğunu söyledi**  
-İngiliz avukat David Haigh Salı günü Zeynab Javadli ile bağlantısını kaybetti ve BBC'ye onun Dubai'deki evinin kilitli ve boş olduğu söylendi.
+**Trump'ın Beyaz Saray balo salonu planı bir yılda boyut ve maliyet olarak nasıl iki katına çıktı?**  
+BBC Verify, Beyaz Saray'da onlarca yıldır yaşanan en büyük değişikliğin geçen yıl nasıl dönüştüğünü inceliyor.
 
 </details>
 
 
-*Updated: 2026-06-04 19:55 UTC*
+*Updated: 2026-06-05 09:31 UTC*
 <!-- NEWS_END -->
 
 ---
