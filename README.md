@@ -166,38 +166,38 @@ Konular: `Matematik, Dinamik Programlama`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech](https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss)**  
+1. **[Putin says there is 'no point' meeting Zelensky over ending Ukraine war](https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss)**  
+The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**Putin, Ukrayna savaşının sona erdirilmesi konusunda Zelensky ile görüşmenin bir anlamı olmadığını söyledi**  
+Rusya cumhurbaşkanının reddi, Ukraynalı mevkidaşının yüz yüze görüşme çağrısında bulunan açık bir mektup yazması sonrasında geldi.
+
+</details>
+
+2. **[Ukraine strikes cargo ships and admits Romania drone blast](https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss)**  
 Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Putin ana konuşmaya hazırlanırken Ukrayna kargo gemilerini vurdu ve Romanya'da insansız hava aracının patladığını kabul etti**  
+**Ukrayna kargo gemilerini vurdu ve Romanya'da insansız hava aracının patladığını kabul etti**  
 Ukrayna, Azak Denizi'nde ve Rus işgali altındaki toprakların kıyı sularında yasadışı yük taşıyan beş geminin vurulduğunu açıkladı.
 
 </details>
 
-2. **[Zelensky proposes face-to-face talks in open letter to Putin](https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss)**  
-Ukraine's president tells the Russian leader that only "direct engagement" between the two countries could end the war, with the US focused on Iran.
+3. **[Astronauts return to ISS after sheltering during air leak repair attempt](https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss)**  
+Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Zelensky, Putin'e açık mektupla yüz yüze görüşme teklifinde bulundu**  
-Ukrayna cumhurbaşkanı, Rus lidere, ABD'nin İran'a odaklandığı bir dönemde, yalnızca iki ülke arasındaki "doğrudan etkileşimin" savaşı sona erdirebileceğini söyledi.
-
-</details>
-
-3. **[Fury in France after child murder suspect's criminal record released](https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss)**  
-A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Çocuk cinayeti zanlısının sabıka kaydının açıklanması Fransa'da öfke yarattı**  
-Kayıtlar, 11 yaşındaki bir kızı öldürdüğünden şüphelenilen bir adamın daha önce potansiyel çocuk tacizcisi olarak tanımlandığını gösteriyor.
+**Astronotlar, hava sızıntısını onarma girişimi sırasında sığındıktan sonra ISS'ye geri dönüyor**  
+Rusya'nın tünel alanını onarma girişimi, gemideki diğer beş astronot için güvenli sığınak prosedürünü ateşledi.
 
 </details>
 
 
-*Updated: 2026-06-05 14:24 UTC*
+*Updated: 2026-06-05 19:42 UTC*
 <!-- NEWS_END -->
 
 ---
