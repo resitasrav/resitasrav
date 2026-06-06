@@ -117,19 +117,19 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- LEETCODE_START -->
 ### 💻 LeetCode — Problem of the Day
 
-**[Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/)**  
-Difficulty: 🔴 Hard  
-Topics: `Math, Dynamic Programming`
+**[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)**  
+Difficulty: 🟢 Easy  
+Topics: `Array, Prefix Sum`
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**[Aralık II'deki Sayıların Toplam Dalgalılığı](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/)**  
-Zorluk: 🔴 Hard  
-Konular: `Matematik, Dinamik Programlama`
+**[Sol ve Sağ Toplam Farkları](https://leetcode.com/problems/left-and-right-sum-differences/)**  
+Zorluk: 🟢 Easy  
+Konular: `Dizi, Önek Toplamı`
 
 </details>
 
-*Updated: 2026-06-05 19:42 UTC*
+*Updated: 2026-06-06 08:24 UTC*
 <!-- LEETCODE_END -->
 
 <!-- AINEWS_START -->
