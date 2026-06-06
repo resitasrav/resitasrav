@@ -166,7 +166,17 @@ Konular: `Dizi, Önek Toplamı`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Putin says there is 'no point' meeting Zelensky over ending Ukraine war](https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss)**  
+1. **[US and Iran exchange strikes in Gulf in latest test of ceasefire](https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss)**  
+The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**ABD ve İran, son ateşkes testinde Körfez'de karşılıklı saldırılarda bulundu**  
+ABD ordusu, İran'ın insansız hava araçlarını ve radar alanlarını vurduğunu açıkladı. Tahran, Kuveyt ve Bahreyn'deki ABD üslerini hedef alarak karşılık veriyor.
+
+</details>
+
+2. **[Putin says there is 'no point' meeting Zelensky over ending Ukraine war](https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss)**  
 The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
@@ -176,28 +186,18 @@ Rusya cumhurbaşkanının reddi, Ukraynalı mevkidaşının yüz yüze görüşm
 
 </details>
 
-2. **[Ukraine strikes cargo ships and admits Romania drone blast](https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss)**  
-Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.
+3. **[Rumours and speculation as fans forecast date of Taylor Swift's wedding](https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss)**  
+Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Ukrayna kargo gemilerini vurdu ve Romanya'da insansız hava aracının patladığını kabul etti**  
-Ukrayna, Azak Denizi'nde ve Rus işgali altındaki toprakların kıyı sularında yasadışı yük taşıyan beş geminin vurulduğunu açıkladı.
-
-</details>
-
-3. **[Astronauts return to ISS after sheltering during air leak repair attempt](https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss)**  
-Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Astronotlar, hava sızıntısını onarma girişimi sırasında sığındıktan sonra ISS'ye geri dönüyor**  
-Rusya'nın tünel alanını onarma girişimi, gemideki diğer beş astronot için güvenli sığınak prosedürünü ateşledi.
+**Hayranlar Taylor Swift'in düğün tarihini tahmin ederken söylentiler ve spekülasyonlar**  
+Dünya çapındaki Swiftie'ler, süperstarın Amerikan futbol yıldızı Travis Kelce ile olan evliliği hakkında ipuçları arıyor.
 
 </details>
 
 
-*Updated: 2026-06-05 19:42 UTC*
+*Updated: 2026-06-06 08:24 UTC*
 <!-- NEWS_END -->
 
 ---
