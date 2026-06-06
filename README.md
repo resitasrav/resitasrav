@@ -102,16 +102,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 05 — 2009:** A fire at a day-care center kills 49 children in Mexico  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2009_Hermosillo_daycare_center_fire)
+**June 06 — 2021:** A man rammed a pickup truck into Muslim Pakistani Canadian pedestrians in Ontario, Canada, killing 4 members of the same family.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2021_London%2C_Ontario%2C_truck_attack)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**05 Haziran 2009: Meksika'da bir kreşte çıkan yangında 49 çocuk öldü**
+**06 Haziran - 2021: Kanada'nın Ontario kentinde bir adam bir kamyoneti Müslüman Pakistanlı Kanadalı yayaların üzerine çarparak aynı aileden 4 kişiyi öldürdü.**
 
 </details>
 
-*Updated: 2026-06-05 19:42 UTC*
+*Updated: 2026-06-06 08:24 UTC*
 <!-- HISTORY_END -->
 
 <!-- LEETCODE_START -->
