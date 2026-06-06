@@ -177,12 +177,12 @@ Kentin valisi, savaşın başlangıcından bu yana ilk kez sakinlere evlerinde k
 </details>
 
 2. **[US and Iran exchange strikes in Gulf in latest test of ceasefire](https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss)**  
-The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.
+The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
 **ABD ve İran, son ateşkes testinde Körfez'de karşılıklı saldırılarda bulundu**  
-ABD ordusu, İran'ın insansız hava araçlarını ve radar alanlarını vurduğunu açıkladı. Tahran, Kuveyt ve Bahreyn'deki ABD üslerini hedef alarak karşılık veriyor.
+ABD ordusu İran'ın insansız hava araçlarını ve radar bölgelerini vuruyor ve Tahran, Kuveyt ve Bahreyn'deki ABD üslerini hedef aldığını söylüyor.
 
 </details>
 
@@ -197,7 +197,7 @@ Görevdeki Başbakan Nikol Paşinyan, iç desteğin azalmasına rağmen üçünc
 </details>
 
 
-*Updated: 2026-06-06 13:07 UTC*
+*Updated: 2026-06-06 19:06 UTC*
 <!-- NEWS_END -->
 
 ---
