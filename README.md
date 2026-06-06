@@ -166,7 +166,17 @@ Konular: `Dizi, Önek Toplamı`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[US and Iran exchange strikes in Gulf in latest test of ceasefire](https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss)**  
+1. **[Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'](https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss)**  
+The city's governor urges residents to remain indoors for the first time since the beginning of the war.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**Ukrayna insansız hava araçları St. Petersburg'u hedef alarak Rusya'ya 'benzeri görülmemiş' saldırıda bulundu**  
+Kentin valisi, savaşın başlangıcından bu yana ilk kez sakinlere evlerinde kalmaları çağrısında bulundu.
+
+</details>
+
+2. **[US and Iran exchange strikes in Gulf in latest test of ceasefire](https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss)**  
 The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
@@ -176,28 +186,18 @@ ABD ordusu, İran'ın insansız hava araçlarını ve radar alanlarını vurduğ
 
 </details>
 
-2. **[Putin says there is 'no point' meeting Zelensky over ending Ukraine war](https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss)**  
-The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.
+3. **[Armenia braces for election as Russia piles pressure on pro-West government](https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss)**  
+Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Putin, Ukrayna savaşının sona erdirilmesi konusunda Zelensky ile görüşmenin bir anlamı olmadığını söyledi**  
-Rusya cumhurbaşkanının reddi, Ukraynalı mevkidaşının yüz yüze görüşme çağrısında bulunan açık bir mektup yazması sonrasında geldi.
-
-</details>
-
-3. **[Rumours and speculation as fans forecast date of Taylor Swift's wedding](https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss)**  
-Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Hayranlar Taylor Swift'in düğün tarihini tahmin ederken söylentiler ve spekülasyonlar**  
-Dünya çapındaki Swiftie'ler, süperstarın Amerikan futbol yıldızı Travis Kelce ile olan evliliği hakkında ipuçları arıyor.
+**Rusya Batı yanlısı hükümete baskı yaparken Ermenistan seçime hazırlanıyor**  
+Görevdeki Başbakan Nikol Paşinyan, iç desteğin azalmasına rağmen üçüncü dönem için aday görünüyor.
 
 </details>
 
 
-*Updated: 2026-06-06 08:24 UTC*
+*Updated: 2026-06-06 13:07 UTC*
 <!-- NEWS_END -->
 
 ---
