@@ -129,7 +129,7 @@ Konular: `Dizi, Önek Toplamı`
 
 </details>
 
-*Updated: 2026-06-06 13:07 UTC*
+*Updated: 2026-06-06 19:06 UTC*
 <!-- LEETCODE_END -->
 
 <!-- AINEWS_START -->
