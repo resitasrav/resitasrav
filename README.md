@@ -117,19 +117,19 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- LEETCODE_START -->
 ### 💻 LeetCode — Problem of the Day
 
-**[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)**  
-Difficulty: 🟢 Easy  
-Topics: `Array, Prefix Sum`
+**[Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)**  
+Difficulty: 🟡 Medium  
+Topics: `Array, Hash Table, Tree, Binary Tree`
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**[Sol ve Sağ Toplam Farkları](https://leetcode.com/problems/left-and-right-sum-differences/)**  
-Zorluk: 🟢 Easy  
-Konular: `Dizi, Önek Toplamı`
+**[Açıklamalardan İkili Ağaç Oluştur](https://leetcode.com/problems/create-binary-tree-from-descriptions/)**  
+Zorluk: 🟡 Medium  
+Konular: `Dizi, Karma Tablo, Ağaç, Ikili Ağaç`
 
 </details>
 
-*Updated: 2026-06-06 19:06 UTC*
+*Updated: 2026-06-07 08:45 UTC*
 <!-- LEETCODE_END -->
 
 <!-- AINEWS_START -->
