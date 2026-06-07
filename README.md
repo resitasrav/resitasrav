@@ -166,13 +166,13 @@ Konular: `Dizi, Karma Tablo, Ağaç, Ikili Ağaç`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Hegseth attacks Europe over migration with beach 'invasion' D-Day speech](https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss)**  
-The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.
+1. **[Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks](https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss)**  
+Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Hegseth, D-Day konuşmasında sahil 'istilasıyla' göç nedeniyle Avrupa'ya saldırdı**  
-ABD savunma bakanı, müttefik kuvvetlerin Nazi işgali altındaki kuzeybatı Avrupa'yı kurtarmak için operasyonlarını başlatmasından 82 yıl sonra Normandiya'da konuşuyordu.
+**Zelensky, Londra görüşmeleri öncesinde Çernobil'deki insansız hava aracı saldırısını eleştirdi**  
+Ukraynalı yetkililer, bir Rus insansız hava aracının Çernobil nükleer santralinin yakınındaki kullanılmış nükleer yakıt depolama tesisini vurduğunu söyledi.
 
 </details>
 
@@ -186,18 +186,18 @@ BBC'nin Rusya editörü, Putin'in amiral gemisi olan ekonomik olayının, Ukrayn
 
 </details>
 
-3. **[Iran says staff blocked from entering US after players given World Cup visas](https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss)**  
-Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.
+3. **[Armenia votes as Russia piles pressure on pro-West government](https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss)**  
+Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**İran, oyunculara Dünya Kupası vizesi verilmesinin ardından personelin ABD'ye girişinin engellendiğini açıkladı**  
-İranlı yetkililer, ABD'nin oyuncuların ülkeye girebileceğini söylemesinden saatler sonra teknik personelin vizelerinin reddedildiğini söyledi.
+**Rusya Batı yanlısı hükümete baskı yaparken Ermenistan oy kullandı**  
+Görevdeki Başbakan Nikol Paşinyan, iç desteğin azalmasına rağmen üçüncü dönem için aday görünüyor.
 
 </details>
 
 
-*Updated: 2026-06-07 08:45 UTC*
+*Updated: 2026-06-07 13:20 UTC*
 <!-- NEWS_END -->
 
 ---
