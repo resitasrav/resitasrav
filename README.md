@@ -166,23 +166,23 @@ Konular: `Dizi, Karma Tablo, Ağaç, Ikili Ağaç`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks](https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss)**  
-Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.
+1. **[Israel strikes Beirut suburb days after US-brokered truce](https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss)**  
+Israel says the attacks on the Lebanese capital were ordered "in response to Hezbollah's firing at Israeli territory".
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Zelensky, Londra görüşmeleri öncesinde Çernobil'deki insansız hava aracı saldırısını eleştirdi**  
-Ukraynalı yetkililer, bir Rus insansız hava aracının Çernobil nükleer santralinin yakınındaki kullanılmış nükleer yakıt depolama tesisini vurduğunu söyledi.
+**İsrail, ABD'nin aracılık ettiği ateşkesten birkaç gün sonra Beyrut banliyösünü vurdu**  
+İsrail, Lübnan'ın başkentine yönelik saldırıların "Hizbullah'ın İsrail topraklarına ateş açmasına yanıt olarak" emredildiğini söylüyor.
 
 </details>
 
-2. **[Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg](https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss)**  
-The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.
+2. **[Zelensky in Downing Street for Ukraine war talks with European leaders](https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss)**  
+Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Steve Rosenberg: Rusya'nın ekonomik forumu St Petersburg'a yapılan drone saldırılarının gölgesinde kaldı**  
-BBC'nin Rusya editörü, Putin'in amiral gemisi olan ekonomik olayının, Ukrayna'nın insansız hava araçlarıyla yaptığı saldırıların gölgesinde kaldığını gördü.
+**Zelensky Avrupalı ​​liderlerle Ukrayna savaş görüşmeleri için Downing Street'te**  
+Zelensky'nin Ukrayna'nın en sadık Avrupalı ​​müttefikleriyle görüşmesi, ABD Başkanı Donald Trump'ın odak noktasının İran'la savaşa kaymasıyla gerçekleşti.
 
 </details>
 
@@ -197,7 +197,7 @@ Görevdeki Başbakan Nikol Paşinyan, iç desteğin azalmasına rağmen üçünc
 </details>
 
 
-*Updated: 2026-06-07 13:20 UTC*
+*Updated: 2026-06-07 19:07 UTC*
 <!-- NEWS_END -->
 
 ---
