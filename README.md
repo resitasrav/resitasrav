@@ -102,16 +102,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 06 — 2021:** A man rammed a pickup truck into Muslim Pakistani Canadian pedestrians in Ontario, Canada, killing four members of the same family.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2021_London%2C_Ontario%2C_truck_attack)
+**June 07 — 2017:** A Myanmar Air Force Shaanxi Y-8 crashed into the Andaman Sea near Dawei, killing all 122 people on board.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Myanmar_Air_Force)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**06 Haziran - 2021: Bir adam, Ontario, Kanada'da bir kamyoneti Müslüman Pakistanlı Kanadalı yayaların üzerine çarparak aynı aileden dört kişiyi öldürdü.**
+**07 Haziran — 2017: Myanmar Hava Kuvvetlerine ait bir Shaanxi Y-8, Dawei yakınlarında Andaman Denizi'ne düştü ve gemideki 122 kişinin tamamı öldü.**
 
 </details>
 
-*Updated: 2026-06-06 19:06 UTC*
+*Updated: 2026-06-07 08:45 UTC*
 <!-- HISTORY_END -->
 
 <!-- LEETCODE_START -->
