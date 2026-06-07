@@ -166,38 +166,38 @@ Konular: `Dizi, Karma Tablo, Ağaç, Ikili Ağaç`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'](https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss)**  
-The city's governor urges residents to remain indoors for the first time since the beginning of the war.
+1. **[Hegseth attacks Europe over migration with beach 'invasion' D-Day speech](https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss)**  
+The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Ukrayna insansız hava araçları St. Petersburg'u hedef alarak Rusya'ya 'benzeri görülmemiş' saldırıda bulundu**  
-Kentin valisi, savaşın başlangıcından bu yana ilk kez sakinlere evlerinde kalmaları çağrısında bulundu.
+**Hegseth, D-Day konuşmasında sahil 'istilasıyla' göç nedeniyle Avrupa'ya saldırdı**  
+ABD savunma bakanı, müttefik kuvvetlerin Nazi işgali altındaki kuzeybatı Avrupa'yı kurtarmak için operasyonlarını başlatmasından 82 yıl sonra Normandiya'da konuşuyordu.
 
 </details>
 
-2. **[US and Iran exchange strikes in Gulf in latest test of ceasefire](https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss)**  
-The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.
+2. **[Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg](https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss)**  
+The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**ABD ve İran, son ateşkes testinde Körfez'de karşılıklı saldırılarda bulundu**  
-ABD ordusu İran'ın insansız hava araçlarını ve radar bölgelerini vuruyor ve Tahran, Kuveyt ve Bahreyn'deki ABD üslerini hedef aldığını söylüyor.
+**Steve Rosenberg: Rusya'nın ekonomik forumu St Petersburg'a yapılan drone saldırılarının gölgesinde kaldı**  
+BBC'nin Rusya editörü, Putin'in amiral gemisi olan ekonomik olayının, Ukrayna'nın insansız hava araçlarıyla yaptığı saldırıların gölgesinde kaldığını gördü.
 
 </details>
 
-3. **[Armenia braces for election as Russia piles pressure on pro-West government](https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss)**  
-Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.
+3. **[Iran says staff blocked from entering US after players given World Cup visas](https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss)**  
+Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Rusya Batı yanlısı hükümete baskı yaparken Ermenistan seçime hazırlanıyor**  
-Görevdeki Başbakan Nikol Paşinyan, iç desteğin azalmasına rağmen üçüncü dönem için aday görünüyor.
+**İran, oyunculara Dünya Kupası vizesi verilmesinin ardından personelin ABD'ye girişinin engellendiğini açıkladı**  
+İranlı yetkililer, ABD'nin oyuncuların ülkeye girebileceğini söylemesinden saatler sonra teknik personelin vizelerinin reddedildiğini söyledi.
 
 </details>
 
 
-*Updated: 2026-06-06 19:06 UTC*
+*Updated: 2026-06-07 08:45 UTC*
 <!-- NEWS_END -->
 
 ---
