@@ -160,7 +160,7 @@ Konular: `Dizi, İki İşaretçi, Simülasyon`
 </details>
 
 
-*Updated: 2026-06-07 19:07 UTC*
+*Updated: 2026-06-08 10:18 UTC*
 <!-- AINEWS_END -->
 
 <!-- NEWS_START -->
