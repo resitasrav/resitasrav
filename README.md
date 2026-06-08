@@ -102,16 +102,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 07 — 2017:** A Myanmar Air Force Shaanxi Y-8 crashed into the Andaman Sea near Dawei, killing all 122 people on board.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Myanmar_Air_Force)
+**June 08 — 2009:** Two American journalists, having been arrested for illegal entry into North Korea, were sentenced to twelve years hard labor before being pardoned two months later.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2009_imprisonment_of_American_journalists_by_North_Korea)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**07 Haziran — 2017: Myanmar Hava Kuvvetlerine ait bir Shaanxi Y-8, Dawei yakınlarında Andaman Denizi'ne düştü ve gemideki 122 kişinin tamamı öldü.**
+**08 Haziran - 2009: Kuzey Kore'ye yasadışı giriş yapmaktan tutuklanan iki Amerikalı gazeteci, iki ay sonra affedilmeden önce on iki yıl ağır çalışma cezasına çarptırıldı.**
 
 </details>
 
-*Updated: 2026-06-07 19:07 UTC*
+*Updated: 2026-06-08 10:18 UTC*
 <!-- HISTORY_END -->
 
 <!-- LEETCODE_START -->
