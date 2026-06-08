@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-resitasrav-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resitasrav)
 [![Email](https://img.shields.io/badge/Email-resitasrav%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:resitasrav@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-555?style=flat-square&logo=adobeacrobatreader&logoColor=white)](ResitAsrav_CV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-555?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/resitasrav/resitasrav/raw/main/ResitAsrav_CV.pdf)
 [![Profile Views](https://komarev.com/ghpvc/?username=resitasrav&style=flat-square&color=3B82F6&label=Profile+Views)](https://github.com/resitasrav)
 
 </div>
