@@ -117,19 +117,19 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- LEETCODE_START -->
 ### 💻 LeetCode — Problem of the Day
 
-**[Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)**  
+**[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)**  
 Difficulty: 🟡 Medium  
-Topics: `Array, Hash Table, Tree, Binary Tree`
+Topics: `Array, Two Pointers, Simulation`
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**[Açıklamalardan İkili Ağaç Oluştur](https://leetcode.com/problems/create-binary-tree-from-descriptions/)**  
+**[Verilen Pivota Göre Bölümleme Dizisi](https://leetcode.com/problems/partition-array-according-to-given-pivot/)**  
 Zorluk: 🟡 Medium  
-Konular: `Dizi, Karma Tablo, Ağaç, Ikili Ağaç`
+Konular: `Dizi, İki İşaretçi, Simülasyon`
 
 </details>
 
-*Updated: 2026-06-07 19:07 UTC*
+*Updated: 2026-06-08 10:18 UTC*
 <!-- LEETCODE_END -->
 
 <!-- AINEWS_START -->
