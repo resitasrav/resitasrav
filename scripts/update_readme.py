@@ -322,7 +322,7 @@ def fetch_leetcode() -> str:
 
 
 def fetch_ainews() -> str:
-    """HackerNews Algolia API — top 3 AI/ML stories."""
+    """HackerNews Algolia API — top 2 AI/ML stories."""
     url = (
         "https://hn.algolia.com/api/v1/search"
         "?tags=story&query=artificial+intelligence+machine+learning"
@@ -331,7 +331,7 @@ def fetch_ainews() -> str:
     print("  [fetch] HackerNews AI stories …")
     raw  = http_get(url)
     data = json.loads(raw)
-    hits = [h for h in data.get("hits", []) if h.get("title") and h.get("url")][:3]
+    hits = [h for h in data.get("hits", []) if h.get("title") and h.get("url")][:2]
 
     if not hits:
         return "_No AI/ML stories found._"
@@ -356,7 +356,7 @@ def fetch_ainews() -> str:
 
 def fetch_news() -> str:
     """
-    Top 3 world headlines — tries NEWS_SOURCES in order until one works.
+    Top 2 world headlines — tries NEWS_SOURCES in order until one works.
     Each attempt:
       • sends realistic browser headers (bypasses BBC bot-block)
       • uses the robust CDATA-aware RSS parser
@@ -370,7 +370,7 @@ def fetch_news() -> str:
 
         try:
             raw   = http_get(url)
-            items = _parse_rss_items(raw, max_items=3)
+            items = _parse_rss_items(raw, max_items=2)
 
             if not items:
                 print(f"    [warn] {name}: feed parsed but no items found — trying next")

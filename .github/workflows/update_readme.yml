@@ -33,8 +33,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "Resit Asrav"
+          git config user.email "resitasrav21@gmail.com"
 
       # ── Stats Cards: generate SVGs locally via GitHub API ─────────────────
       - name: Generate GitHub Stats SVGs

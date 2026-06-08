@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-resitasrav-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resitasrav)
 [![Email](https://img.shields.io/badge/Email-resitasrav%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:resitasrav@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-555?style=flat-square&logo=adobeacrobatreader&logoColor=white)](ResitAsrav_CV.pdf)
 [![Profile Views](https://komarev.com/ghpvc/?username=resitasrav&style=flat-square&color=3B82F6&label=Profile+Views)](https://github.com/resitasrav)
 
 </div>
@@ -91,10 +92,6 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="96%" alt="Profile Details" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=resitasrav&theme=tokyonight&column=-1" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 📡 Live Feed
@@ -151,14 +148,6 @@ Konular: `Dizi, İki İşaretçi, Simülasyon`
 
 </details>
 
-3. **[Artificial Intelligence and Machine Learning in Software as a Medical Device](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-software-medical-device)** ⬆️ 11
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Tıbbi Cihaz Olarak Yazılımda Yapay Zeka ve Makine Öğrenimi**
-
-</details>
-
 
 *Updated: 2026-06-08 20:02 UTC*
 <!-- AINEWS_END -->
@@ -183,16 +172,6 @@ Iran's decision to risk jeopardising peace talks may reflect how its leaders vie
 
 **İran'ın İsrail'e saldırısı rejimin dayanıklılık duygusunun arttığını gösteriyor**  
 BBC Farsça editörü Amir Azimi, İran'ın barış görüşmelerini tehlikeye atma riskini göze alma kararının, liderlerinin mevcut pozisyonlarına bakış açısını yansıtabileceğini yazıyor.
-
-</details>
-
-3. **[At least 35 dead after major earthquake strikes southern Philippines](https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss)**  
-The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Filipinler'in güneyinde meydana gelen büyük depremde en az 35 kişi öldü**  
-7,8 büyüklüğündeki deprem Filipinler, Endonezya ve Japonya'da küçük tsunami dalgalarını tetikledi.
 
 </details>
 
