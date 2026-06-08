@@ -166,23 +166,23 @@ Konular: `Dizi, İki İşaretçi, Simülasyon`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[At least 19 dead after major earthquake strikes southern Philippines](https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss)**  
+1. **[Iran releases footage of missiles launched at Israel](https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss)**  
+Iran said its attacks were "the beginning of a full week of continuous strikes."
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**İran, İsrail'e fırlatılan füzelerin görüntülerini yayınladı**  
+İran, saldırılarının "bir hafta süren sürekli saldırıların başlangıcı" olduğunu söyledi.
+
+</details>
+
+2. **[At least 32 dead after major earthquake strikes southern Philippines](https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss)**  
 The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Filipinler'in güneyinde meydana gelen büyük depremde en az 19 kişi öldü**  
+**Filipinler'in güneyinde meydana gelen büyük depremde en az 32 kişi öldü**  
 7,8 büyüklüğündeki deprem Filipinler, Endonezya ve Japonya'da küçük tsunami dalgalarını tetikledi.
-
-</details>
-
-2. **[Rare footage captured of Great White shark in Mediterranean Sea](https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss)**  
-A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
-
-**Büyük beyaz köpekbalığının Akdeniz'de yakalanan nadir görüntüleri**  
-Gönüllü bir dalgıç, Tunus ile Sicilya arasında nesli tükenmekte olan Büyük Beyaz köpekbalığıyla karşılaşmasını filme alırken titrediğini anlattı.
 
 </details>
 
@@ -197,7 +197,7 @@ Başbakan Nikol Paşinyan'ın Sivil Sözleşme Partisi oyların neredeyse %50'si
 </details>
 
 
-*Updated: 2026-06-08 10:18 UTC*
+*Updated: 2026-06-08 15:27 UTC*
 <!-- NEWS_END -->
 
 ---
