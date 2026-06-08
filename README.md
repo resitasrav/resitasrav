@@ -166,38 +166,38 @@ Konular: `Dizi, İki İşaretçi, Simülasyon`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Iran releases footage of missiles launched at Israel](https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss)**  
-Iran said its attacks were "the beginning of a full week of continuous strikes."
+1. **[Iran and Israel say they have halted strikes after first exchange of fire since truce](https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss)**  
+Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**İran, İsrail'e fırlatılan füzelerin görüntülerini yayınladı**  
-İran, saldırılarının "bir hafta süren sürekli saldırıların başlangıcı" olduğunu söyledi.
+**İran ve İsrail, ateşkesten bu yana ilk kez karşılıklı ateş açıldıktan sonra saldırıları durdurduklarını açıkladı**  
+İran, Lübnan'daki saldırının ardından İsrail'e 30'a yakın füze fırlatırken, İsrail de İran'a iki dalga hava saldırısı düzenledi.
 
 </details>
 
-2. **[At least 32 dead after major earthquake strikes southern Philippines](https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss)**  
+2. **[Iran's strike on Israel suggests the regime's sense of resilience is growing](https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss)**  
+Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.
+<details>
+<summary>🇹🇷 Türkçe Çevirisi</summary>
+
+**İran'ın İsrail'e saldırısı rejimin dayanıklılık duygusunun arttığını gösteriyor**  
+BBC Farsça editörü Amir Azimi, İran'ın barış görüşmelerini tehlikeye atma riskini göze alma kararının, liderlerinin mevcut pozisyonlarına bakış açısını yansıtabileceğini yazıyor.
+
+</details>
+
+3. **[At least 35 dead after major earthquake strikes southern Philippines](https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss)**  
 The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Filipinler'in güneyinde meydana gelen büyük depremde en az 32 kişi öldü**  
+**Filipinler'in güneyinde meydana gelen büyük depremde en az 35 kişi öldü**  
 7,8 büyüklüğündeki deprem Filipinler, Endonezya ve Japonya'da küçük tsunami dalgalarını tetikledi.
 
 </details>
 
-3. **[Armenia's pro-West government wins election despite Russian pressure](https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss)**  
-Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.
-<details>
-<summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Ermenistan'ın Batı yanlısı hükümeti Rusya'nın baskısına rağmen seçimi kazandı**  
-Başbakan Nikol Paşinyan'ın Sivil Sözleşme Partisi oyların neredeyse %50'sini alarak diğer adayları rahatlıkla geride bırakıyor.
-
-</details>
-
-
-*Updated: 2026-06-08 15:27 UTC*
+*Updated: 2026-06-08 20:02 UTC*
 <!-- NEWS_END -->
 
 ---
