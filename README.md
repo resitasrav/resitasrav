@@ -166,38 +166,38 @@ Konular: `Dizi, İki İşaretçi, Simülasyon`
 <!-- NEWS_START -->
 ### 🌍 Breaking News — BBC World
 
-1. **[Israel strikes Beirut suburb days after US-brokered truce](https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss)**  
-Israel says the attacks on the Lebanese capital were ordered "in response to Hezbollah's firing at Israeli territory".
+1. **[At least 19 dead after major earthquake strikes southern Philippines](https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss)**  
+The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**İsrail, ABD'nin aracılık ettiği ateşkesten birkaç gün sonra Beyrut banliyösünü vurdu**  
-İsrail, Lübnan'ın başkentine yönelik saldırıların "Hizbullah'ın İsrail topraklarına ateş açmasına yanıt olarak" emredildiğini söylüyor.
+**Filipinler'in güneyinde meydana gelen büyük depremde en az 19 kişi öldü**  
+7,8 büyüklüğündeki deprem Filipinler, Endonezya ve Japonya'da küçük tsunami dalgalarını tetikledi.
 
 </details>
 
-2. **[Zelensky in Downing Street for Ukraine war talks with European leaders](https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss)**  
-Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.
+2. **[Rare footage captured of Great White shark in Mediterranean Sea](https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss)**  
+A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Zelensky Avrupalı ​​liderlerle Ukrayna savaş görüşmeleri için Downing Street'te**  
-Zelensky'nin Ukrayna'nın en sadık Avrupalı ​​müttefikleriyle görüşmesi, ABD Başkanı Donald Trump'ın odak noktasının İran'la savaşa kaymasıyla gerçekleşti.
+**Büyük beyaz köpekbalığının Akdeniz'de yakalanan nadir görüntüleri**  
+Gönüllü bir dalgıç, Tunus ile Sicilya arasında nesli tükenmekte olan Büyük Beyaz köpekbalığıyla karşılaşmasını filme alırken titrediğini anlattı.
 
 </details>
 
-3. **[Armenia votes as Russia piles pressure on pro-West government](https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss)**  
-Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.
+3. **[Armenia's pro-West government wins election despite Russian pressure](https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss)**  
+Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**Rusya Batı yanlısı hükümete baskı yaparken Ermenistan oy kullandı**  
-Görevdeki Başbakan Nikol Paşinyan, iç desteğin azalmasına rağmen üçüncü dönem için aday görünüyor.
+**Ermenistan'ın Batı yanlısı hükümeti Rusya'nın baskısına rağmen seçimi kazandı**  
+Başbakan Nikol Paşinyan'ın Sivil Sözleşme Partisi oyların neredeyse %50'sini alarak diğer adayları rahatlıkla geride bırakıyor.
 
 </details>
 
 
-*Updated: 2026-06-07 19:07 UTC*
+*Updated: 2026-06-08 10:18 UTC*
 <!-- NEWS_END -->
 
 ---
