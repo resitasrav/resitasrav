@@ -31,16 +31,10 @@ README_PATH = "README.md"
 
 SECTIONS = {
     "history":  ("<!-- HISTORY_START -->",  "<!-- HISTORY_END -->"),
-    "leetcode": ("<!-- LEETCODE_START -->", "<!-- LEETCODE_END -->"),
-    "ainews":   ("<!-- AINEWS_START -->",   "<!-- AINEWS_END -->"),
-    "news":     ("<!-- NEWS_START -->",     "<!-- NEWS_END -->"),
 }
 
 COMMIT_MESSAGES = {
     "history":  "update: history",
-    "leetcode": "update: leetcode",
-    "ainews":   "update: ai news",
-    "news":     "update: news",
 }
 
 # News RSS fallback chain — tried in order until one succeeds
@@ -419,9 +413,6 @@ def fetch_news() -> str:
 
 TASKS = [
     ("history",  fetch_history),
-    ("leetcode", fetch_leetcode),
-    ("ainews",   fetch_ainews),
-    ("news",     fetch_news),
 ]
 
 
