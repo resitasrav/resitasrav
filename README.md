@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 08 — 2009:** Two American journalists, having been arrested for illegal entry into North Korea, were sentenced to twelve years hard labor before being pardoned two months later.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2009_imprisonment_of_American_journalists_by_North_Korea)
+**June 09 — 2019:** Dominican-American retired baseball player David Ortiz  was shot and severely wounded while at a bar in Santo Domingo.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/David_Ortiz)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**08 Haziran - 2009: Kuzey Kore'ye yasadışı giriş yapmaktan tutuklanan iki Amerikalı gazeteci, iki ay sonra affedilmeden önce on iki yıl ağır çalışma cezasına çarptırıldı.**
+**09 Haziran - 2019: Dominik asıllı Amerikalı emekli beyzbol oyuncusu David Ortiz, Santo Domingo'da bir barda vurularak ağır yaralandı.**
 
 </details>
 
-*Updated: 2026-06-08 20:02 UTC*
+*Updated: 2026-06-09 09:01 UTC*
 <!-- HISTORY_END -->
 
 ---
