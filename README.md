@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 09 — 2019:** Dominican-American retired baseball player David Ortiz  was shot and severely wounded while at a bar in Santo Domingo.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/David_Ortiz)
+**June 10 — 2024:** A plane crash in Malawi, kills nine people, including Vice President Saulos Chilima.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2024_Chikangawa_Dornier_228_crash)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**09 Haziran - 2019: Dominik asıllı Amerikalı emekli beyzbol oyuncusu David Ortiz, Santo Domingo'da bir barda vurularak ağır yaralandı.**
+**10 Haziran 2024: Malavi'de meydana gelen uçak kazasında aralarında Başkan Yardımcısı Saulos Chilima'nın da bulunduğu dokuz kişi öldü.**
 
 </details>
 
-*Updated: 2026-06-09 19:57 UTC*
+*Updated: 2026-06-10 09:41 UTC*
 <!-- HISTORY_END -->
 
 ---
