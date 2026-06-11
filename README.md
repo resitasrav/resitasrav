@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 10 — 2024:** A plane crash in Malawi, kills nine people, including Vice President Saulos Chilima.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2024_Chikangawa_Dornier_228_crash)
+**June 11 — 2012:** Two earthquakes struck northern Afghanistan, triggering a massive landslide that buried a village and killed 75 people.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2012_Afghanistan_earthquakes)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**10 Haziran 2024: Malavi'de meydana gelen uçak kazasında aralarında Başkan Yardımcısı Saulos Chilima'nın da bulunduğu dokuz kişi öldü.**
+**11 Haziran — 2012: Kuzey Afganistan'da meydana gelen iki deprem, bir köyün yerle bir olmasına ve 75 kişinin ölümüne neden olan devasa bir toprak kaymasını tetikledi.**
 
 </details>
 
-*Updated: 2026-06-10 20:13 UTC*
+*Updated: 2026-06-11 10:07 UTC*
 <!-- HISTORY_END -->
 
 ---
