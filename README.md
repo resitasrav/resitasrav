@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 11 — 2012:** Two earthquakes struck northern Afghanistan, triggering a massive landslide that buried a village and killed 75 people.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2012_Afghanistan_earthquakes)
+**June 12 — 2025:** Air India Flight 171 (wreckage pictured) crashed shortly after take-off in Ahmedabad, India, killing 260 people.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Air_India_Flight_171)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**11 Haziran — 2012: Kuzey Afganistan'da meydana gelen iki deprem, bir köyün yerle bir olmasına ve 75 kişinin ölümüne neden olan devasa bir toprak kaymasını tetikledi.**
+**12 Haziran - 2025: Air India Uçuş 171 (enkaz resimde görülüyor) Hindistan'ın Ahmedabad kentinde kalkıştan kısa bir süre sonra düştü ve 260 kişi öldü.**
 
 </details>
 
-*Updated: 2026-06-11 20:10 UTC*
+*Updated: 2026-06-12 09:57 UTC*
 <!-- HISTORY_END -->
 
 ---
