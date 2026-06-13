@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 12 — 2025:** Air India Flight 171 (wreckage pictured) crashed shortly after take-off in Ahmedabad, India, killing 260 people.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Air_India_Flight_171)
+**June 13 — 2013:** Some of the closest advisors and collaborators of Czech prime minister Petr Nečas were arrested for corruption.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Petr_Ne%C4%8Das)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**12 Haziran - 2025: Air India Uçuş 171 (enkaz resimde görülüyor) Hindistan'ın Ahmedabad kentinde kalkıştan kısa bir süre sonra düştü ve 260 kişi öldü.**
+**13 Haziran - 2013: Çek başbakanı Petr Nečas'ın en yakın danışmanlarından ve işbirlikçilerinden bazıları yolsuzluk nedeniyle tutuklandı.**
 
 </details>
 
-*Updated: 2026-06-12 19:55 UTC*
+*Updated: 2026-06-13 08:47 UTC*
 <!-- HISTORY_END -->
 
 ---
