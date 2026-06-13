@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**13 Haziran 2013: Çek başbakanı Petr Nečas'ın en yakın danışmanlarından ve işbirlikçilerinden bazıları yolsuzluk nedeniyle tutuklandı.**
+**13 Haziran - 2013: Çek başbakanı Petr Nečas'ın en yakın danışmanlarından ve işbirlikçilerinden bazıları yolsuzluk nedeniyle tutuklandı.**
 
 </details>
 
-*Updated: 2026-06-13 13:24 UTC*
+*Updated: 2026-06-13 19:09 UTC*
 <!-- HISTORY_END -->
 
 ---
