@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 13 — 2013:** Some of the closest advisors and collaborators of Czech prime minister Petr Nečas were arrested for corruption.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Petr_Ne%C4%8Das)
+**June 14 — 2017:** A fire severely damaged Grenfell Tower in North Kensington, London, killing 72 people.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Grenfell_Tower_fire)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**13 Haziran - 2013: Çek başbakanı Petr Nečas'ın en yakın danışmanlarından ve işbirlikçilerinden bazıları yolsuzluk nedeniyle tutuklandı.**
+**14 Haziran 2017: Londra'nın Kuzey Kensington kentindeki Grenfell Tower'da çıkan yangında 72 kişi öldü.**
 
 </details>
 
-*Updated: 2026-06-13 19:09 UTC*
+*Updated: 2026-06-14 09:18 UTC*
 <!-- HISTORY_END -->
 
 ---
