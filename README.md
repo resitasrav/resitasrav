@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 14 — 2017:** A fire severely damaged Grenfell Tower in North Kensington, London, killing 72 people.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Grenfell_Tower_fire)
+**June 15 — 2006:** US president George W. Bush designated 140,000 square miles (360,000 km2) around the Northwestern Hawaiian Islands as the Papahānaumokuākea Marine National Monument, now one of the world's largest protected areas.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/George_W._Bush)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**14 Haziran 2017: Londra'nın Kuzey Kensington kentindeki Grenfell Tower'da çıkan yangında 72 kişi öldü.**
+**15 Haziran — 2006: ABD başkanı George W. Bush, Kuzeybatı Hawaii Adaları çevresindeki 140.000 mil kareyi (360.000 km2) Papahānaumokuākea Ulusal Deniz Anıtı olarak belirledi; şu anda dünyanın en büyük korunan alanlarından biri.**
 
 </details>
 
-*Updated: 2026-06-14 19:10 UTC*
+*Updated: 2026-06-15 11:46 UTC*
 <!-- HISTORY_END -->
 
 ---
