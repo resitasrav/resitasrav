@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 15 — 2006:** US president George W. Bush designated 140,000 square miles (360,000 km2) around the Northwestern Hawaiian Islands as the Papahānaumokuākea Marine National Monument, now one of the world's largest protected areas.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/George_W._Bush)
+**June 16 — 2016:** Jo Cox, a British Member of Parliament, was murdered in her constituency.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Jo_Cox)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**15 Haziran — 2006: ABD başkanı George W. Bush, Kuzeybatı Hawaii Adaları çevresindeki 140.000 mil kareyi (360.000 km2) Papahānaumokuākea Ulusal Deniz Anıtı olarak belirledi; şu anda dünyanın en büyük korunan alanlarından biri.**
+**16 Haziran - 2016: İngiliz Parlamento Üyesi Jo Cox, kendi seçim bölgesinde öldürüldü.**
 
 </details>
 
-*Updated: 2026-06-15 20:46 UTC*
+*Updated: 2026-06-16 10:54 UTC*
 <!-- HISTORY_END -->
 
 ---
