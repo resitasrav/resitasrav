@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**16 Haziran 2016: İngiliz Parlamento Üyesi Jo Cox kendi seçim bölgesinde öldürüldü.**
+**16 Haziran - 2016: İngiliz Parlamento Üyesi Jo Cox, kendi seçim bölgesinde öldürüldü.**
 
 </details>
 
-*Updated: 2026-06-16 16:22 UTC*
+*Updated: 2026-06-16 20:39 UTC*
 <!-- HISTORY_END -->
 
 ---
