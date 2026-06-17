@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 16 — 2016:** Jo Cox, a British Member of Parliament, was murdered in her constituency.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Jo_Cox)
+**June 17 — 2017:** Wildfires erupted across central Portugal, eventually causing the deaths of 66 people.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/June_2017_Portugal_wildfires)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**16 Haziran - 2016: İngiliz Parlamento Üyesi Jo Cox, kendi seçim bölgesinde öldürüldü.**
+**17 Haziran - 2017: Portekiz'in merkezinde çıkan orman yangınları 66 kişinin ölümüne neden oldu.**
 
 </details>
 
-*Updated: 2026-06-16 20:39 UTC*
+*Updated: 2026-06-17 10:26 UTC*
 <!-- HISTORY_END -->
 
 ---
