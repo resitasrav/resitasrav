@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 17 — 2017:** Wildfires erupted across central Portugal, eventually causing the deaths of 66 people.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/June_2017_Portugal_wildfires)
+**June 18 — 2023:** The Titan submersible imploded during a dive to the RMS Titanic wreck, killing all five people aboard.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Titan_(submersible))
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**17 Haziran - 2017: Portekiz'in merkezinde çıkan orman yangınları 66 kişinin ölümüne neden oldu.**
+**18 Haziran - 2023: Titan denizaltısı, RMS Titanic enkazına dalış sırasında patladı ve gemideki beş kişinin tamamı öldü.**
 
 </details>
 
-*Updated: 2026-06-17 20:01 UTC*
+*Updated: 2026-06-18 10:06 UTC*
 <!-- HISTORY_END -->
 
 ---
