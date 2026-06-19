@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 18 — 2023:** The Titan submersible imploded during a dive to the RMS Titanic wreck, killing all five people aboard.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Titan_(submersible))
+**June 19 — 2012:** Facing allegations of sexual assault in Sweden, Julian Assange (pictured), the founder of WikiLeaks, requested asylum at the Ecuadorian embassy in London.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Assange_v_Swedish_Prosecution_Authority)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**18 Haziran - 2023: Titan denizaltısı, RMS Titanic enkazına dalış sırasında patladı ve gemideki beş kişinin tamamı öldü.**
+**19 Haziran — 2012: İsveç'te cinsel saldırı iddialarıyla karşı karşıya kalan WikiLeaks'in kurucusu Julian Assange (resimdeki), Londra'daki Ekvador büyükelçiliğine sığınma talebinde bulundu.**
 
 </details>
 
-*Updated: 2026-06-18 20:12 UTC*
+*Updated: 2026-06-19 10:13 UTC*
 <!-- HISTORY_END -->
 
 ---
