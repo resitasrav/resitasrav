@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 19 — 2012:** Facing allegations of sexual assault in Sweden, Julian Assange (pictured), the founder of WikiLeaks, requested asylum at the Ecuadorian embassy in London.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Assange_v_Swedish_Prosecution_Authority)
+**June 20 — 2019:** Iranian aircraft shot down an American drone over the Strait of Hormuz amid heightened tensions between the two countries.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019_Iranian_shoot-down_of_American_drone)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**19 Haziran — 2012: İsveç'te cinsel saldırı iddialarıyla karşı karşıya kalan WikiLeaks'in kurucusu Julian Assange (resimdeki), Londra'daki Ekvador büyükelçiliğine sığınma talebinde bulundu.**
+**20 Haziran 2019: İran uçakları, iki ülke arasındaki gerilimin arttığı bir dönemde Hürmüz Boğazı üzerinde bir Amerikan insansız hava aracını düşürdü.**
 
 </details>
 
-*Updated: 2026-06-19 19:26 UTC*
+*Updated: 2026-06-20 08:41 UTC*
 <!-- HISTORY_END -->
 
 ---
