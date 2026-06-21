@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 20 — 2019:** Iranian aircraft shot down an American drone over the Strait of Hormuz amid heightened tensions between the two countries.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019_Iranian_shoot-down_of_American_drone)
+**June 21 — 2000:** President Bill Clinton awarded the Medal of Honor to 22 Asian Americans, mostly from the 442nd Regimental Combat Team, for actions during World War II.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Bill_Clinton)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**20 Haziran 2019: İran uçakları, iki ülke arasındaki gerilimin arttığı bir dönemde Hürmüz Boğazı üzerinde bir Amerikan insansız hava aracını düşürdü.**
+**21 Haziran - 2000: Başkan Bill Clinton, İkinci Dünya Savaşı sırasındaki eylemlerinden dolayı çoğu 442. Alay Muharebe Ekibinden olmak üzere 22 Asyalı Amerikalıya Onur Madalyası verdi.**
 
 </details>
 
-*Updated: 2026-06-20 19:10 UTC*
+*Updated: 2026-06-21 09:36 UTC*
 <!-- HISTORY_END -->
 
 ---
