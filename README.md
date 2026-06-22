@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 21 — 2000:** President Bill Clinton awarded the Medal of Honor to 22 Asian Americans, mostly from the 442nd Regimental Combat Team, for actions during World War II.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Bill_Clinton)
+**June 22 — 2023:** Irish broadcaster RTÉ announced that between 2017 and 2022 it had paid €345,000 more than had been previously disclosed to presenter Ryan Tubridy (pictured).  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/RT%C3%89)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**21 Haziran - 2000: Başkan Bill Clinton, İkinci Dünya Savaşı sırasındaki eylemlerinden dolayı çoğu 442. Alay Muharebe Ekibinden olmak üzere 22 Asyalı Amerikalıya Onur Madalyası verdi.**
+**22 Haziran 2023: İrlandalı yayıncı RTÉ, 2017 ile 2022 yılları arasında sunucu Ryan Tubridy'ye (resimde) daha önce açıklanandan 345.000 € daha fazla ödeme yaptığını duyurdu.**
 
 </details>
 
-*Updated: 2026-06-21 19:16 UTC*
+*Updated: 2026-06-22 11:35 UTC*
 <!-- HISTORY_END -->
 
 ---
