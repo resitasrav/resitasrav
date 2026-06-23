@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 22 — 2023:** Irish broadcaster RTÉ announced that between 2017 and 2022 it had paid €345,000 more than had been previously disclosed to presenter Ryan Tubridy (pictured).  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/RT%C3%89)
+**June 23 — 2016:** Citizens of the United Kingdom voted in favour of leaving the European Union.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**22 Haziran 2023: İrlandalı yayıncı RTÉ, 2017 ile 2022 yılları arasında sunucu Ryan Tubridy'ye (resimde) daha önce açıklanandan 345.000 € daha fazla ödeme yaptığını duyurdu.**
+**23 Haziran 2016: Birleşik Krallık vatandaşları Avrupa Birliği'nden ayrılma lehine oy kullandı.**
 
 </details>
 
-*Updated: 2026-06-22 20:35 UTC*
+*Updated: 2026-06-23 08:59 UTC*
 <!-- HISTORY_END -->
 
 ---
