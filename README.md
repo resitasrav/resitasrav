@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 23 — 2016:** Citizens of the United Kingdom voted in favour of leaving the European Union.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum)
+**June 24 — 2021:** A portion of a 12-story condominium building collapsed (aftermath pictured) in Surfside, Florida, killing 98 people and injuring 11 others.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Surfside_condominium_collapse)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**23 Haziran 2016: Birleşik Krallık vatandaşları Avrupa Birliği'nden ayrılma lehine oy kullandı.**
+**24 Haziran - 2021: Surfside, Florida'da 12 katlı bir apartmanın bir kısmı çöktü (sonrası resimde görülüyor), 98 kişi öldü ve 11 kişi yaralandı.**
 
 </details>
 
-*Updated: 2026-06-23 19:50 UTC*
+*Updated: 2026-06-24 08:53 UTC*
 <!-- HISTORY_END -->
 
 ---
