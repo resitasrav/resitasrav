@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 24 — 2021:** A portion of a 12-story condominium building collapsed (aftermath pictured) in Surfside, Florida, killing 98 people and injuring 11 others.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Surfside_condominium_collapse)
+**June 25 — 2022:** Russian invasion of Ukraine: Russian forces captured the city of Sievierodonetsk, Ukraine, after six weeks of fighting.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022%E2%80%93present))
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**24 Haziran - 2021: Surfside, Florida'da 12 katlı bir apartmanın bir kısmı çöktü (sonrası resimde görülüyor), 98 kişi öldü ve 11 kişi yaralandı.**
+**25 Haziran - 2022: Rusya'nın Ukrayna'yı işgali: Rus kuvvetleri, altı hafta süren çatışmaların ardından Ukrayna'nın Sievierodonetsk şehrini ele geçirdi.**
 
 </details>
 
-*Updated: 2026-06-24 19:26 UTC*
+*Updated: 2026-06-25 08:47 UTC*
 <!-- HISTORY_END -->
 
 ---
