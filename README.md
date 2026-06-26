@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 25 — 2022:** Russian invasion of Ukraine: Russian forces captured the city of Sievierodonetsk, Ukraine, after six weeks of fighting.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022%E2%80%93present))
+**June 26 — 2015:** The U.S. Supreme Court ruled in Obergefell v. Hodges that the right of same-sex couples to marry is guaranteed by the Fourteenth Amendment.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**25 Haziran - 2022: Rusya'nın Ukrayna'yı işgali: Rus kuvvetleri, altı hafta süren çatışmaların ardından Ukrayna'nın Sievierodonetsk şehrini ele geçirdi.**
+**26 Haziran - 2015: ABD Yüksek Mahkemesi, Obergefell v. Hodges davasında eşcinsel çiftlerin evlenme hakkının On Dördüncü Değişiklik ile garanti altına alındığına karar verdi.**
 
 </details>
 
-*Updated: 2026-06-25 19:46 UTC*
+*Updated: 2026-06-26 08:50 UTC*
 <!-- HISTORY_END -->
 
 ---
