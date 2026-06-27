@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 26 — 2015:** The U.S. Supreme Court ruled in Obergefell v. Hodges that the right of same-sex couples to marry is guaranteed by the Fourteenth Amendment.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
+**June 27 — 2018:** The Japanese space probe Hayabusa2 (artist's impression pictured) arrived at the asteroid Ryugu to collect samples for return to Earth.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Hayabusa2)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**26 Haziran - 2015: ABD Yüksek Mahkemesi, Obergefell v. Hodges davasında eşcinsel çiftlerin evlenme hakkının On Dördüncü Değişiklik ile garanti altına alındığına karar verdi.**
+**27 Haziran — 2018: Japon uzay sondası Hayabusa2 (resimde sanatçının izlenimi), Dünya'ya dönmek üzere örnekler toplamak üzere Ryugu asteroitine ulaştı.**
 
 </details>
 
-*Updated: 2026-06-26 19:28 UTC*
+*Updated: 2026-06-27 08:26 UTC*
 <!-- HISTORY_END -->
 
 ---
