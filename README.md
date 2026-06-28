@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**28 Haziran - 2016: Silahlı kişiler İstanbul Atatürk Havalimanı'na saldırdı, 45 kişi öldü, 230'dan fazla kişi de yaralandı.**
+**28 Haziran 2016: Silahlı kişiler İstanbul Atatürk Havalimanı'na saldırdı, 45 kişi öldü, 230'dan fazla kişi de yaralandı.**
 
 </details>
 
-*Updated: 2026-06-28 08:40 UTC*
+*Updated: 2026-06-28 13:14 UTC*
 <!-- HISTORY_END -->
 
 ---
