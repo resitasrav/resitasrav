@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 27 — 2018:** The Japanese space probe Hayabusa2 (artist's impression pictured) arrived at the asteroid Ryugu to collect samples for return to Earth.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Hayabusa2)
+**June 28 — 2016:** Gunmen attacked Istanbul's Atatürk Airport, killing 45 people and injuring more than 230 others.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2016_Atat%C3%BCrk_Airport_attack)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**27 Haziran — 2018: Japon uzay sondası Hayabusa2 (resimde sanatçının izlenimi), Dünya'ya dönmek üzere örnekler toplamak üzere Ryugu asteroitine ulaştı.**
+**28 Haziran - 2016: Silahlı kişiler İstanbul Atatürk Havalimanı'na saldırdı, 45 kişi öldü, 230'dan fazla kişi de yaralandı.**
 
 </details>
 
-*Updated: 2026-06-27 19:05 UTC*
+*Updated: 2026-06-28 08:40 UTC*
 <!-- HISTORY_END -->
 
 ---
