@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 28 — 2016:** Gunmen attacked Istanbul's Atatürk Airport, killing 45 people and injuring more than 230 others.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2016_Atat%C3%BCrk_Airport_attack)
+**June 29 — 2020:** Reddit banned r/The_Donald, a pro-Trump subreddit, for rule violations and antagonizing the company.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Reddit)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**28 Haziran 2016: Silahlı kişiler İstanbul Atatürk Havalimanı'na saldırdı, 45 kişi öldü, 230'dan fazla kişi de yaralandı.**
+**29 Haziran - 2020: Reddit, Trump yanlısı bir alt dizi olan r/The_Donald'ı kural ihlalleri ve şirkete düşmanlık oluşturması nedeniyle yasakladı.**
 
 </details>
 
-*Updated: 2026-06-28 19:03 UTC*
+*Updated: 2026-06-29 10:22 UTC*
 <!-- HISTORY_END -->
 
 ---
