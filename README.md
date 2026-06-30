@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**30 Haziran - 2015: Endonezya Hava Kuvvetleri'ne ait bir askeri nakliye uçağı (resimde) Medan'da bir yerleşim bölgesinin yakınında düştü ve 139 kişi öldü.**
+**30 Haziran — 2015: Endonezya Hava Kuvvetleri'ne ait bir askeri nakliye uçağı (resimde) Medan'da bir yerleşim bölgesinin yakınında düştü ve 139 kişi öldü.**
 
 </details>
 
-*Updated: 2026-06-30 13:54 UTC*
+*Updated: 2026-06-30 19:43 UTC*
 <!-- HISTORY_END -->
 
 ---
