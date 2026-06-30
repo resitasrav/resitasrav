@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 29 — 2020:** Reddit banned r/The_Donald, a pro-Trump subreddit, for rule violations and antagonizing the company.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Reddit)
+**June 30 — 2015:** An Indonesian Air Force military transport aircraft (pictured) crashed near a residential neighborhood in Medan, killing 139 people.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Indonesian_Air_Force)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**29 Haziran - 2020: Reddit, Trump yanlısı bir alt dizi olan r/The_Donald'ı kural ihlalleri ve şirkete düşmanlık oluşturması nedeniyle yasakladı.**
+**30 Haziran - 2015: Endonezya Hava Kuvvetleri'ne ait bir askeri nakliye uçağı (resimde) Medan'da bir yerleşim bölgesinin yakınında düştü ve 139 kişi öldü.**
 
 </details>
 
-*Updated: 2026-06-29 19:43 UTC*
+*Updated: 2026-06-30 08:57 UTC*
 <!-- HISTORY_END -->
 
 ---
