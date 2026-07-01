@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**June 30 — 2015:** An Indonesian Air Force military transport aircraft (pictured) crashed near a residential neighborhood in Medan, killing 139 people.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Indonesian_Air_Force)
+**July 01 — 2008:** Rioting erupted in Ulaanbaatar, Mongolia, over allegations of fraud surrounding the recent legislative election.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2008_riot_in_Mongolia)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**30 Haziran — 2015: Endonezya Hava Kuvvetleri'ne ait bir askeri nakliye uçağı (resimde) Medan'da bir yerleşim bölgesinin yakınında düştü ve 139 kişi öldü.**
+**01 Temmuz - 2008: Moğolistan'ın Ulaanbaatar kentinde, son yasama seçimleriyle ilgili yolsuzluk iddiaları üzerine isyan çıktı.**
 
 </details>
 
-*Updated: 2026-06-30 19:43 UTC*
+*Updated: 2026-07-01 09:29 UTC*
 <!-- HISTORY_END -->
 
 ---
