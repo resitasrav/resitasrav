@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 01 — 2008:** Rioting erupted in Ulaanbaatar, Mongolia, over allegations of fraud surrounding the recent legislative election.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2008_riot_in_Mongolia)
+**July 02 — 2020:** A landslide at a jade mine in Hpakant killed 175–200 miners, the deadliest mining accident in Burmese history.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_Hpakant_jade_mine_disaster)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**01 Temmuz - 2008: Moğolistan'ın Ulaanbaatar kentinde, son yasama seçimleriyle ilgili yolsuzluk iddiaları üzerine isyan çıktı.**
+**02 Temmuz - 2020: Hpakant'taki bir yeşim madeninde meydana gelen toprak kayması 175-200 madencinin ölümüne neden oldu ve Burma tarihindeki en ölümcül maden kazası oldu.**
 
 </details>
 
-*Updated: 2026-07-01 19:39 UTC*
+*Updated: 2026-07-02 08:42 UTC*
 <!-- HISTORY_END -->
 
 ---
