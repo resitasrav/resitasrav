@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**03 Temmuz - 2017: ABD'nin Arizona eyaletinde, Sınır Yangını (resimde) 32 gün sonra yanarak Coconino ve Kaibab Ulusal Ormanlarının 17.788 dönümlük (7.199 hektar) alanını yaktı.**
+**03 Temmuz - 2017: ABD'nin Arizona eyaletinde Sınır Yangını (resimde) 32 gün sonra söndü ve Coconino ve Kaibab Ulusal Ormanlarının 17.788 dönümlük (7.199 hektar) alanı yandı.**
 
 </details>
 
-*Updated: 2026-07-03 08:49 UTC*
+*Updated: 2026-07-03 13:40 UTC*
 <!-- HISTORY_END -->
 
 ---
