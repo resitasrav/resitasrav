@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 02 — 2020:** A landslide at a jade mine in Hpakant killed 175–200 miners, the deadliest mining accident in Burmese history.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_Hpakant_jade_mine_disaster)
+**July 03 — 2017:** In the U.S. state of Arizona, the Boundary Fire (pictured) burned out after 32 days, burning 17,788 acres (7,199 ha) of the Coconino and Kaibab National Forests.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Boundary_Fire_(2017))
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**02 Temmuz - 2020: Hpakant'taki bir yeşim madeninde meydana gelen toprak kayması 175-200 madencinin ölümüne neden oldu ve Burma tarihindeki en ölümcül maden kazası oldu.**
+**03 Temmuz - 2017: ABD'nin Arizona eyaletinde, Sınır Yangını (resimde) 32 gün sonra yanarak Coconino ve Kaibab Ulusal Ormanlarının 17.788 dönümlük (7.199 hektar) alanını yaktı.**
 
 </details>
 
-*Updated: 2026-07-02 19:10 UTC*
+*Updated: 2026-07-03 08:49 UTC*
 <!-- HISTORY_END -->
 
 ---
