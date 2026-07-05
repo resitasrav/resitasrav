@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 04 — 2024:** Keir Starmer led the Labour Party to a landslide victory in the United Kingdom general election, ending fourteen years of Conservative rule.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Keir_Starmer)
+**July 05 — 2012:** The Shard (pictured) in London was inaugurated as the tallest building in Europe, with a height of 310 m (1,020 ft), but was surpassed by Moscow's Mercury City Tower four months later.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/The_Shard)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**04 Temmuz 2024: Keir Starmer, İşçi Partisi'ni Birleşik Krallık genel seçimlerinde ezici bir zafere taşıyarak on dört yıllık Muhafazakar yönetime son verdi.**
+**05 Temmuz — 2012: Londra'daki Shard (resimde), 310 m (1.020 ft) yüksekliğiyle Avrupa'nın en yüksek binası olarak açıldı, ancak dört ay sonra Moskova'daki Mercury City Tower onu geride bıraktı.**
 
 </details>
 
-*Updated: 2026-07-04 18:57 UTC*
+*Updated: 2026-07-05 08:41 UTC*
 <!-- HISTORY_END -->
 
 ---
