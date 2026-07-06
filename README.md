@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 05 — 2012:** The Shard (pictured) in London was inaugurated as the tallest building in Europe, with a height of 310 m (1,020 ft), but was surpassed by Moscow's Mercury City Tower four months later.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/The_Shard)
+**July 06 — 2013:** Gunmen attacked a secondary school in Mamudo, Yobe State, Nigeria, killing 42 people, mostly students.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mamudo_school_massacre)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**05 Temmuz — 2012: Londra'daki Shard (resimde), 310 m (1.020 ft) yüksekliğiyle Avrupa'nın en yüksek binası olarak açıldı, ancak dört ay sonra Moskova'daki Mercury City Tower onu geride bıraktı.**
+**06 Temmuz 2013: Nijerya'nın Yobe Eyaleti, Mamudo'da silahlı kişiler bir ortaokula saldırdı ve çoğu öğrenci olmak üzere 42 kişiyi öldürdü.**
 
 </details>
 
-*Updated: 2026-07-05 19:03 UTC*
+*Updated: 2026-07-06 09:56 UTC*
 <!-- HISTORY_END -->
 
 ---
