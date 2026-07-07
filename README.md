@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 06 — 2013:** Gunmen attacked a secondary school in Mamudo, Yobe State, Nigeria, killing 42 people, mostly students.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mamudo_school_massacre)
+**July 07 — 2016:** A U.S. Army Reserve veteran ambushed and shot at police officers (memorial service pictured) in Dallas, killing five of them and injuring nine others, before being killed by a bomb attached to a police robot.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/United_States_Army_Reserve)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**06 Temmuz 2013: Nijerya'nın Yobe Eyaleti, Mamudo'da silahlı kişiler bir ortaokula saldırdı ve çoğu öğrenci olmak üzere 42 kişiyi öldürdü.**
+**07 Temmuz - 2016: Bir ABD Ordusu Yedek gazisi, Dallas'ta polis memurlarına pusuya düşürüldü ve ateş edildi (resimde anma töreni), beşini öldürdü ve dokuzunu da yaraladı, ardından bir polis robotuna takılan bomba tarafından öldürüldü.**
 
 </details>
 
-*Updated: 2026-07-06 19:43 UTC*
+*Updated: 2026-07-07 09:24 UTC*
 <!-- HISTORY_END -->
 
 ---
