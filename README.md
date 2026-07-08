@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 08 — 2022:** Former Japanese prime minister Shinzo Abe (pictured) was assassinated with an improvised firearm due to resentment against the Unification Church.  
+**July 08 — 2022:** Former Japanese prime minister Shinzo Abe (pictured) was assassinated with an improvised firearm.  
 🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Shinzo_Abe)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**08 Temmuz - 2022: Eski Japonya başbakanı Shinzo Abe (resimde), Birleşme Kilisesi'ne duyulan kızgınlık nedeniyle el yapımı ateşli silahla suikasta kurban gitti.**
+**08 Temmuz 2022: Eski Japonya başbakanı Shinzo Abe (resimde) el yapımı ateşli silahla suikasta kurban gitti.**
 
 </details>
 
-*Updated: 2026-07-08 08:08 UTC*
+*Updated: 2026-07-08 13:29 UTC*
 <!-- HISTORY_END -->
 
 ---
