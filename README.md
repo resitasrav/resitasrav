@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 07 — 2016:** A U.S. Army Reserve veteran ambushed and shot at police officers (memorial service pictured) in Dallas, killing five of them and injuring nine others, before being killed by a bomb attached to a police robot.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/United_States_Army_Reserve)
+**July 08 — 2022:** Former Japanese prime minister Shinzo Abe (pictured) was assassinated with an improvised firearm due to resentment against the Unification Church.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Shinzo_Abe)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**07 Temmuz - 2016: Bir ABD Ordusu Yedek gazisi, Dallas'ta polis memurlarına pusuya düşürüldü ve ateş edildi (resimde anma töreni), beşini öldürdü ve dokuzunu da yaraladı, ardından bir polis robotuna takılan bomba tarafından öldürüldü.**
+**08 Temmuz - 2022: Eski Japonya başbakanı Shinzo Abe (resimde), Birleşme Kilisesi'ne duyulan kızgınlık nedeniyle el yapımı ateşli silahla suikasta kurban gitti.**
 
 </details>
 
-*Updated: 2026-07-07 19:42 UTC*
+*Updated: 2026-07-08 08:08 UTC*
 <!-- HISTORY_END -->
 
 ---
