@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 08 — 2022:** Former Japanese prime minister Shinzo Abe (pictured) was assassinated with an improvised firearm.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Shinzo_Abe)
+**July 09 — 2008:** Under the belief that Israel and the United States were planning to attack its nuclear program, Iran conducted the Great Prophet III missile test and war games.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Nuclear_program_of_Iran)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**08 Temmuz 2022: Eski Japonya başbakanı Shinzo Abe (resimde) el yapımı ateşli silahla suikasta kurban gitti.**
+**09 Temmuz — 2008: İsrail ve ABD'nin nükleer programına saldırmayı planladığı inancıyla İran, Büyük Peygamber III füze testi ve savaş oyunları düzenledi.**
 
 </details>
 
-*Updated: 2026-07-08 19:08 UTC*
+*Updated: 2026-07-09 09:21 UTC*
 <!-- HISTORY_END -->
 
 ---
