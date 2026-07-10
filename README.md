@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**10 Temmuz - 2018: Genç futbol takımının son üyeleri ve antrenörleri, Tayland'ın kuzeyindeki sular altında kalan Tham Luang Nang Non mağarasından kurtarıldı.**
+**10 Temmuz - 2018: Gençler futbol takımının son üyeleri ve antrenörleri, Tayland'ın kuzeyindeki sular altında kalan Tham Luang Nang Non mağarasından kurtarıldı.**
 
 </details>
 
-*Updated: 2026-07-10 13:56 UTC*
+*Updated: 2026-07-10 19:16 UTC*
 <!-- HISTORY_END -->
 
 ---
