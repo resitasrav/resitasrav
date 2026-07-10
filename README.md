@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 09 — 2008:** Under the belief that Israel and the United States were planning to attack its nuclear program, Iran conducted the Great Prophet III missile test and war games.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Nuclear_program_of_Iran)
+**July 10 — 2018:** The last members of a junior association football team and their coach were rescued from Tham Luang Nang Non, a flooded cave in northern Thailand.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Association_football)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**09 Temmuz — 2008: İsrail ve ABD'nin nükleer programına saldırmayı planladığı inancıyla İran, Büyük Peygamber III füze testi ve savaş oyunları düzenledi.**
+**10 Temmuz - 2018: Gençler futbol takımının son üyeleri ve antrenörleri, Tayland'ın kuzeyindeki sular altında kalan Tham Luang Nang Non mağarasından kurtarıldı.**
 
 </details>
 
-*Updated: 2026-07-09 19:23 UTC*
+*Updated: 2026-07-10 09:19 UTC*
 <!-- HISTORY_END -->
 
 ---
