@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 10 — 2018:** The last members of a junior association football team and their coach were rescued from Tham Luang Nang Non, a flooded cave in northern Thailand.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Association_football)
+**July 11 — 2011:** An explosion at the Evangelos Florakis Naval Base killed 13 people, including the head of the Cyprus Navy.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Evangelos_Florakis_Naval_Base_explosion)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**10 Temmuz - 2018: Gençler futbol takımının son üyeleri ve antrenörleri, Tayland'ın kuzeyindeki sular altında kalan Tham Luang Nang Non mağarasından kurtarıldı.**
+**11 Temmuz 2011: Evangelos Florakis Deniz Üssü'nde meydana gelen patlamada aralarında Kıbrıs Deniz Kuvvetleri Komutanı'nın da bulunduğu 13 kişi öldü.**
 
 </details>
 
-*Updated: 2026-07-10 19:16 UTC*
+*Updated: 2026-07-11 07:40 UTC*
 <!-- HISTORY_END -->
 
 ---
