@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 11 — 2011:** An explosion at the Evangelos Florakis Naval Base killed 13 people, including the head of the Cyprus Navy.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Evangelos_Florakis_Naval_Base_explosion)
+**July 12 — 2008:** An edit on the page of the coati nicknamed it the Brazilian aardvark, in which multiple news channels followed in pursuit.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Coati)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**11 Temmuz 2011: Evangelos Florakis Deniz Üssü'nde meydana gelen patlamada aralarında Kıbrıs Deniz Kuvvetleri Komutanı'nın da bulunduğu 13 kişi öldü.**
+**12 Temmuz — 2008: Coati'nin sayfasındaki bir düzenlemede ona Brezilya yerdomuzu adı verildi ve birden fazla haber kanalı da onu takip etti.**
 
 </details>
 
-*Updated: 2026-07-11 18:46 UTC*
+*Updated: 2026-07-12 08:00 UTC*
 <!-- HISTORY_END -->
 
 ---
