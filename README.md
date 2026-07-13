@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 12 — 2008:** An edit on the page of the coati nicknamed it the Brazilian aardvark, in which multiple news channels followed in pursuit.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Coati)
+**July 13 — 2020:** After a five day search, the body of American actress and singer Naya Rivera was recovered from Lake Piru, confirming her death.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Naya_Rivera)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**12 Temmuz — 2008: Coati'nin sayfasındaki bir düzenlemede ona Brezilya yerdomuzu adı verildi ve birden fazla haber kanalı da onu takip etti.**
+**13 Temmuz - 2020: Beş günlük bir aramanın ardından Amerikalı aktris ve şarkıcı Naya Rivera'nın cesedi Piru Gölü'nde çıkarıldı ve onun öldüğü doğrulandı.**
 
 </details>
 
-*Updated: 2026-07-12 18:52 UTC*
+*Updated: 2026-07-13 08:49 UTC*
 <!-- HISTORY_END -->
 
 ---
