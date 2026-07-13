@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**13 Temmuz 2020: Beş günlük aramanın ardından Amerikalı aktris ve şarkıcı Naya Rivera'nın cesedi Piru Gölü'nde çıkarıldı ve onun öldüğü doğrulandı.**
+**13 Temmuz - 2020: Beş günlük bir aramanın ardından Amerikalı aktris ve şarkıcı Naya Rivera'nın cesedi Piru Gölü'nde çıkarıldı ve onun öldüğü doğrulandı.**
 
 </details>
 
-*Updated: 2026-07-13 14:03 UTC*
+*Updated: 2026-07-13 19:13 UTC*
 <!-- HISTORY_END -->
 
 ---
