@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 13 — 2020:** After a five day search, the body of American actress and singer Naya Rivera was recovered from Lake Piru, confirming her death.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Naya_Rivera)
+**July 14 — 2016:** A man deliberately drove a truck into crowds in Nice, France, resulting in 86 deaths.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2016_Nice_truck_attack)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**13 Temmuz - 2020: Beş günlük bir aramanın ardından Amerikalı aktris ve şarkıcı Naya Rivera'nın cesedi Piru Gölü'nde çıkarıldı ve onun öldüğü doğrulandı.**
+**14 Temmuz 2016: Fransa'nın Nice kentinde bir adam kasıtlı olarak kamyonu kalabalığın üzerine sürdü ve 86 kişinin ölümüyle sonuçlandı.**
 
 </details>
 
-*Updated: 2026-07-13 19:13 UTC*
+*Updated: 2026-07-14 07:47 UTC*
 <!-- HISTORY_END -->
 
 ---
