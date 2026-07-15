@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 14 — 2016:** A man deliberately drove a truck into crowds in Nice, France, resulting in 86 deaths.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2016_Nice_truck_attack)
+**July 15 — 2018:** Croatian Mario Mandžukić scored the first own goal in a FIFA World Cup final in their defeat to France.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mario_Mand%C5%BEuki%C4%87)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**14 Temmuz 2016: Fransa'nın Nice kentinde bir adam kasıtlı olarak kamyonu kalabalığın üzerine sürdü ve 86 kişinin ölümüyle sonuçlandı.**
+**15 Temmuz - 2018: Hırvat Mario Mandžukić, Fransa'ya mağlup oldukları FIFA Dünya Kupası finalinde kendi kalesine ilk golü attı.**
 
 </details>
 
-*Updated: 2026-07-14 19:03 UTC*
+*Updated: 2026-07-15 07:51 UTC*
 <!-- HISTORY_END -->
 
 ---
