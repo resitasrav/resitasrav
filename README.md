@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 15 — 2018:** Croatian Mario Mandžukić scored the first own goal in a FIFA World Cup final in their defeat to France.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mario_Mand%C5%BEuki%C4%87)
+**July 16 — 2013:** At least 23 students died and dozens more fell ill at a primary school in the Indian state of Bihar after consuming a Midday Meal that was contaminated with pesticide.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Bihar)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**15 Temmuz - 2018: Hırvat Mario Mandžukić, Fransa'ya mağlup oldukları FIFA Dünya Kupası finalinde kendi kalesine ilk golü attı.**
+**16 Temmuz 2013: Hindistan'ın Bihar eyaletindeki bir ilkokulda böcek ilacı bulaşmış öğle yemeğini yedikten sonra en az 23 öğrenci öldü ve düzinelerce öğrenci de hastalandı.**
 
 </details>
 
-*Updated: 2026-07-15 18:55 UTC*
+*Updated: 2026-07-16 07:55 UTC*
 <!-- HISTORY_END -->
 
 ---
