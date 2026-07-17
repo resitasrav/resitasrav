@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 16 — 2013:** At least 23 students died and dozens more fell ill at a primary school in the Indian state of Bihar after consuming a Midday Meal that was contaminated with pesticide.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Bihar)
+**July 17 — 2014:** Malaysia Airlines Flight 17 was shot down over eastern Ukraine, killing all 298 people on board.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**16 Temmuz 2013: Hindistan'ın Bihar eyaletindeki bir ilkokulda böcek ilacı bulaşmış öğle yemeğini yedikten sonra en az 23 öğrenci öldü ve düzinelerce öğrenci de hastalandı.**
+**17 Temmuz - 2014: Malezya Havayolları'na ait 17 sefer sayılı uçuş Ukrayna'nın doğusunda düşürüldü ve uçaktaki 298 kişinin tamamı öldü.**
 
 </details>
 
-*Updated: 2026-07-16 18:57 UTC*
+*Updated: 2026-07-17 07:52 UTC*
 <!-- HISTORY_END -->
 
 ---
