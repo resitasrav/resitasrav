@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 17 — 2014:** Malaysia Airlines Flight 17 was shot down over eastern Ukraine, killing all 298 people on board.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17)
+**July 18 — 2019:** An arson attack at the studio of Kyoto Animation in Japan led to the deaths of 36 people.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Kyoto_Animation_arson_attack)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**17 Temmuz - 2014: Malezya Havayolları'na ait 17 sefer sayılı uçuş Ukrayna'nın doğusunda düşürüldü ve uçaktaki 298 kişinin tamamı öldü.**
+**18 Temmuz 2019: Japonya'da Kyoto Animation'ın stüdyosuna kundaklama saldırısı 36 kişinin ölümüne yol açtı.**
 
 </details>
 
-*Updated: 2026-07-17 18:53 UTC*
+*Updated: 2026-07-18 07:27 UTC*
 <!-- HISTORY_END -->
 
 ---
