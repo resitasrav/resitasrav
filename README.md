@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**18 Temmuz 2019: Japonya'da Kyoto Animation'ın stüdyosuna kundaklama saldırısı 36 kişinin ölümüne yol açtı.**
+**18 Temmuz 2019: Japonya'daki Kyoto Animation stüdyosuna kundaklama saldırısı 36 kişinin ölümüne yol açtı.**
 
 </details>
 
-*Updated: 2026-07-18 07:27 UTC*
+*Updated: 2026-07-18 12:49 UTC*
 <!-- HISTORY_END -->
 
 ---
