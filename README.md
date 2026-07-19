@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 18 — 2019:** An arson attack at the studio of Kyoto Animation in Japan led to the deaths of 36 people.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Kyoto_Animation_arson_attack)
+**July 19 — 2024:** Neary's, a New York City Irish pub popular with political elites, closed.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Neary's)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**18 Temmuz 2019: Japonya'daki Kyoto Animation stüdyosuna kundaklama saldırısı 36 kişinin ölümüne yol açtı.**
+**19 Temmuz - 2024: New York City'de siyasi seçkinler arasında popüler olan İrlanda barı Neary's kapandı.**
 
 </details>
 
-*Updated: 2026-07-18 18:48 UTC*
+*Updated: 2026-07-19 07:59 UTC*
 <!-- HISTORY_END -->
 
 ---
