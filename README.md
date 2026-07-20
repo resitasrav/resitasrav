@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 19 — 2024:** Neary's, a New York City Irish pub popular with political elites, closed.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Neary's)
+**July 20 — 2015:** A suicide attack (aftermath pictured) in Suruç, Turkey, for which Islamic State of Iraq and the Levant (ISIL) claimed responsibility, killed 34 people and injured 104 others.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Suru%C3%A7_bombing)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**19 Temmuz - 2024: New York City'de siyasi seçkinler arasında popüler olan İrlanda barı Neary's kapandı.**
+**20 Temmuz 2015: Türkiye'nin Suruç kentinde Irak ve Şam İslam Devleti'nin (IŞİD) üstlendiği intihar saldırısında (sonrası resimde) 34 kişi öldü, 104 kişi de yaralandı.**
 
 </details>
 
-*Updated: 2026-07-19 18:52 UTC*
+*Updated: 2026-07-20 08:40 UTC*
 <!-- HISTORY_END -->
 
 ---
