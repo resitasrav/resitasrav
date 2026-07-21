@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 20 — 2015:** A suicide attack (aftermath pictured) in Suruç, Turkey, for which Islamic State of Iraq and the Levant (ISIL) claimed responsibility, killed 34 people and injured 104 others.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Suru%C3%A7_bombing)
+**July 21 — 2019:** People returning from anti–extradition bill protests in Hong Kong were attacked (pictured) by suspected triad members in Yuen Long, leaving 45 people injured.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**20 Temmuz 2015: Türkiye'nin Suruç kentinde Irak ve Şam İslam Devleti'nin (IŞİD) üstlendiği intihar saldırısında (sonrası resimde) 34 kişi öldü, 104 kişi de yaralandı.**
+**21 Temmuz - 2019: Hong Kong'daki iade karşıtı yasa tasarısı protestolarından dönen insanlar, Yuen Long'da şüpheli üçlü üyeleri tarafından saldırıya uğradı (resimde) ve 45 kişi yaralandı.**
 
 </details>
 
-*Updated: 2026-07-20 19:25 UTC*
+*Updated: 2026-07-21 08:07 UTC*
 <!-- HISTORY_END -->
 
 ---
