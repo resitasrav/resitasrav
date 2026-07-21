@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**21 Temmuz - 2019: Hong Kong'daki iade karşıtı yasa tasarısı protestolarından dönen insanlar, Yuen Long'da şüpheli üçlü üyeleri tarafından saldırıya uğradı (resimde) ve 45 kişi yaralandı.**
+**21 Temmuz - 2019: Hong Kong'daki suçluların iadesi karşıtı yasa tasarısı protestolarından dönen insanlar, Yuen Long'da şüpheli üçlü üyeleri tarafından saldırıya uğradı (resimde) ve 45 kişi yaralandı.**
 
 </details>
 
-*Updated: 2026-07-21 13:15 UTC*
+*Updated: 2026-07-21 19:04 UTC*
 <!-- HISTORY_END -->
 
 ---
