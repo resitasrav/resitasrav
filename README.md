@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 21 — 2019:** People returning from anti–extradition bill protests in Hong Kong were attacked (pictured) by suspected triad members in Yuen Long, leaving 45 people injured.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests)
+**July 22 — 2002:** The Israel Defense Forces bombed the home of Salah Shehade, the leader of the military arm of Hamas, killing him, his family and neighboring civilians.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Israel_Defense_Forces)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**21 Temmuz - 2019: Hong Kong'daki suçluların iadesi karşıtı yasa tasarısı protestolarından dönen insanlar, Yuen Long'da şüpheli üçlü üyeleri tarafından saldırıya uğradı (resimde) ve 45 kişi yaralandı.**
+**22 Temmuz 2002: İsrail Savunma Kuvvetleri, Hamas'ın askeri kolunun lideri Salah Şehade'nin evini bombalayarak onu, ailesini ve komşu sivilleri öldürdü.**
 
 </details>
 
-*Updated: 2026-07-21 19:04 UTC*
+*Updated: 2026-07-22 08:08 UTC*
 <!-- HISTORY_END -->
 
 ---
