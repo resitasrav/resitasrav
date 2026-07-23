@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 22 — 2002:** The Israel Defense Forces bombed the home of Salah Shehade, the leader of the military arm of Hamas, killing him, his family and neighboring civilians.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Israel_Defense_Forces)
+**July 23 — 2010:** The English-Irish boy band One Direction (pictured) were formed while auditioning for the 2010 series of the British singing competition The X Factor.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/One_Direction)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**22 Temmuz 2002: İsrail Savunma Kuvvetleri, Hamas'ın askeri kolunun lideri Salah Şehade'nin evini bombalayarak onu, ailesini ve komşu sivilleri öldürdü.**
+**23 Temmuz - 2010: İngiliz-İrlandalı erkek grubu One Direction (resimde), İngiliz şarkı yarışması The X Factor'un 2010 serisi seçmeleri sırasında kuruldu.**
 
 </details>
 
-*Updated: 2026-07-22 18:58 UTC*
+*Updated: 2026-07-23 08:12 UTC*
 <!-- HISTORY_END -->
 
 ---
