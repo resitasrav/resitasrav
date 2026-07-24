@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 23 — 2010:** The English-Irish boy band One Direction (pictured) were formed while auditioning for the 2010 series of the British singing competition The X Factor.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/One_Direction)
+**July 24 — 2019:** Boris Johnson became Prime Minister of the United Kingdom after winning the Conservative Party leadership election.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Boris_Johnson)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**23 Temmuz - 2010: İngiliz-İrlandalı erkek grubu One Direction (resimde), İngiliz şarkı yarışması The X Factor'un 2010 serisi seçmeleri sırasında kuruldu.**
+**24 Temmuz 2019: Boris Johnson, Muhafazakar Parti liderlik seçimini kazandıktan sonra Birleşik Krallık Başbakanı oldu.**
 
 </details>
 
-*Updated: 2026-07-23 18:59 UTC*
+*Updated: 2026-07-24 08:08 UTC*
 <!-- HISTORY_END -->
 
 ---
