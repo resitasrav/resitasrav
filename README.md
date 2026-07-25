@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 24 — 2019:** Boris Johnson became Prime Minister of the United Kingdom after winning the Conservative Party leadership election.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Boris_Johnson)
+**July 25 — 2022:** The Duffield Memorial (central medallion pictured) in Great Baddow, an "unusual example of Art Nouveau design in metal work", was designated a listed building by Historic England.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Duffield_Memorial)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**24 Temmuz 2019: Boris Johnson, Muhafazakar Parti liderlik seçimini kazandıktan sonra Birleşik Krallık Başbakanı oldu.**
+**25 Temmuz - 2022: Great Baddow'daki "Metal işçiliğinde Art Nouveau tasarımının alışılmadık bir örneği" olan Duffield Anıtı (resimde görülen merkezi madalyon), Tarihi İngiltere tarafından koruma altındaki bir bina olarak belirlendi.**
 
 </details>
 
-*Updated: 2026-07-24 19:13 UTC*
+*Updated: 2026-07-25 07:50 UTC*
 <!-- HISTORY_END -->
 
 ---
