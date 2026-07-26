@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 25 — 2022:** The Duffield Memorial (central medallion pictured) in Great Baddow, an "unusual example of Art Nouveau design in metal work", was designated a listed building by Historic England.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Duffield_Memorial)
+**July 26 — 2016:** Hillary Clinton (pictured) became the first female nominee for president of the United States by a major political party at the Democratic National Convention in Philadelphia.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Hillary_Clinton)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**25 Temmuz - 2022: Great Baddow'daki "Metal işçiliğinde Art Nouveau tasarımının alışılmadık bir örneği" olan Duffield Anıtı (resimde görülen merkezi madalyon), Tarihi İngiltere tarafından koruma altındaki bir bina olarak belirlendi.**
+**26 Temmuz - 2016: Hillary Clinton (resimde), Philadelphia'daki Demokratik Ulusal Kongre'de büyük bir siyasi parti tarafından ABD başkanlığına aday gösterilen ilk kadın oldu.**
 
 </details>
 
-*Updated: 2026-07-25 18:53 UTC*
+*Updated: 2026-07-26 08:08 UTC*
 <!-- HISTORY_END -->
 
 ---
