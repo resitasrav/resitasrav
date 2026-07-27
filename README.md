@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 26 — 2016:** Hillary Clinton (pictured) became the first female nominee for president of the United States by a major political party at the Democratic National Convention in Philadelphia.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Hillary_Clinton)
+**July 27 — 2020:** A major oil spill from the Colonial Pipeline was discovered in Mecklenburg County, North Carolina (system map pictured).  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_Colonial_Pipeline_oil_spill)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**26 Temmuz - 2016: Hillary Clinton (resimde), Philadelphia'daki Demokratik Ulusal Kongre'de büyük bir siyasi parti tarafından ABD başkanlığına aday gösterilen ilk kadın oldu.**
+**27 Temmuz - 2020: Kuzey Carolina'nın Mecklenburg İlçesinde Colonial Boru Hattı'ndan büyük bir petrol sızıntısı keşfedildi (sistem haritası resimdedir).**
 
 </details>
 
-*Updated: 2026-07-26 18:57 UTC*
+*Updated: 2026-07-27 09:32 UTC*
 <!-- HISTORY_END -->
 
 ---
