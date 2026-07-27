@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**27 Temmuz - 2020: Kuzey Carolina'nın Mecklenburg İlçesinde Colonial Boru Hattından büyük bir petrol sızıntısı keşfedildi (sistem haritası resimdedir).**
+**27 Temmuz - 2020: Kuzey Carolina'nın Mecklenburg İlçesinde Colonial Boru Hattı'ndan büyük bir petrol sızıntısı keşfedildi (sistem haritası resimdedir).**
 
 </details>
 
-*Updated: 2026-07-27 14:09 UTC*
+*Updated: 2026-07-27 19:13 UTC*
 <!-- HISTORY_END -->
 
 ---
