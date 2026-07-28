@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 27 — 2020:** A major oil spill from the Colonial Pipeline was discovered in Mecklenburg County, North Carolina (system map pictured).  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_Colonial_Pipeline_oil_spill)
+**July 28 — 2010:** In the deadliest air accident in Pakistan's history, Airblue Flight 202 crashed into the Margalla Hills north of Islamabad, killing all 152 aboard.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Airblue_Flight_202)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**27 Temmuz - 2020: Kuzey Carolina'nın Mecklenburg İlçesinde Colonial Boru Hattı'ndan büyük bir petrol sızıntısı keşfedildi (sistem haritası resimdedir).**
+**28 Temmuz - 2010: Pakistan tarihindeki en ölümcül hava kazasında Airblue Flight 202, İslamabad'ın kuzeyindeki Margalla Tepeleri'ne düştü ve gemideki 152 kişinin tamamı öldü.**
 
 </details>
 
-*Updated: 2026-07-27 19:13 UTC*
+*Updated: 2026-07-28 08:14 UTC*
 <!-- HISTORY_END -->
 
 ---
