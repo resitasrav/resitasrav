@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 28 — 2010:** In the deadliest air accident in Pakistan's history, Airblue Flight 202 crashed into the Margalla Hills north of Islamabad, killing all 152 aboard.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Airblue_Flight_202)
+**July 29 — 1981:** An estimated worldwide television audience of 750 million watched the wedding of Prince Charles and Lady Diana Spencer (combined coat of arms pictured) at St Paul's Cathedral in London.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**28 Temmuz - 2010: Pakistan tarihindeki en ölümcül hava kazasında Airblue Flight 202, İslamabad'ın kuzeyindeki Margalla Tepeleri'ne düştü ve gemideki 152 kişinin tamamı öldü.**
+**29 Temmuz — 1981: Dünya çapında tahminen 750 milyonluk bir televizyon izleyicisi, Prens Charles ve Leydi Diana Spencer'ın (birleşik arma resimde) Londra'daki St Paul Katedrali'ndeki düğününü izledi.**
 
 </details>
 
-*Updated: 2026-07-28 19:08 UTC*
+*Updated: 2026-07-29 08:20 UTC*
 <!-- HISTORY_END -->
 
 ---
