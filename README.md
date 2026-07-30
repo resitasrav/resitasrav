@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**30 Temmuz - 2023: Pakistan'da IŞİD-KP, Khar'daki siyasi bir mitingde düzenlediği intihar saldırısında 60'tan fazla kişiyi öldürdü.**
+**30 Temmuz 2023: Pakistan'da IŞİD-KP, Khar'daki siyasi bir mitingde düzenlediği intihar saldırısında 60'tan fazla kişiyi öldürdü.**
 
 </details>
 
-*Updated: 2026-07-30 08:08 UTC*
+*Updated: 2026-07-30 13:25 UTC*
 <!-- HISTORY_END -->
 
 ---
