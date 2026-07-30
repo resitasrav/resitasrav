@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 29 — 1981:** An estimated worldwide television audience of 750 million watched the wedding of Prince Charles and Lady Diana Spencer (combined coat of arms pictured) at St Paul's Cathedral in London.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer)
+**July 30 — 2023:** In Pakistan, IS–KP kill over 60 people in a suicide bombing at a political rally in Khar.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Islamic_State_%E2%80%93_Khorasan_Province)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**29 Temmuz — 1981: Dünya çapında tahminen 750 milyonluk bir televizyon izleyicisi, Prens Charles ve Leydi Diana Spencer'ın (birleşik arma resimde) Londra'daki St Paul Katedrali'ndeki düğününü izledi.**
+**30 Temmuz - 2023: Pakistan'da IŞİD-KP, Khar'daki siyasi bir mitingde düzenlediği intihar saldırısında 60'tan fazla kişiyi öldürdü.**
 
 </details>
 
-*Updated: 2026-07-29 18:58 UTC*
+*Updated: 2026-07-30 08:08 UTC*
 <!-- HISTORY_END -->
 
 ---
