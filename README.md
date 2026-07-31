@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 30 — 2023:** In Pakistan, IS–KP kill over 60 people in a suicide bombing at a political rally in Khar.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Islamic_State_%E2%80%93_Khorasan_Province)
+**July 31 — 2020:** A mid-air collision in Soldotna, Alaska, United States, killed seven people, including state representative Gary Knopp.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_Alaska_mid-air_collision)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**30 Temmuz 2023: Pakistan'da IŞİD-KP, Khar'daki siyasi bir mitingde düzenlediği intihar saldırısında 60'tan fazla kişiyi öldürdü.**
+**31 Temmuz - 2020: Amerika Birleşik Devletleri'nin Alaska eyaletinin Soldotna şehrinde meydana gelen havada çarpışmada eyalet temsilcisi Gary Knopp da dahil olmak üzere yedi kişi öldü.**
 
 </details>
 
-*Updated: 2026-07-30 19:10 UTC*
+*Updated: 2026-07-31 08:34 UTC*
 <!-- HISTORY_END -->
 
 ---
