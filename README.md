@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**31 Temmuz - 2020: Amerika Birleşik Devletleri'nin Alaska eyaletinin Soldotna şehrinde meydana gelen havada çarpışmada eyalet temsilcisi Gary Knopp da dahil olmak üzere yedi kişi öldü.**
+**31 Temmuz - 2020: Amerika Birleşik Devletleri'nin Alaska eyaletinin Soldotna kentinde meydana gelen havada çarpışmada eyalet temsilcisi Gary Knopp da dahil olmak üzere yedi kişi öldü.**
 
 </details>
 
-*Updated: 2026-07-31 13:29 UTC*
+*Updated: 2026-07-31 19:08 UTC*
 <!-- HISTORY_END -->
 
 ---
