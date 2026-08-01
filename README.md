@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**July 31 — 2020:** A mid-air collision in Soldotna, Alaska, United States, killed seven people, including state representative Gary Knopp.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_Alaska_mid-air_collision)
+**August 01 — 2009:** A shooting at a branch of the Israeli LGBT organization the Aguda in Tel Aviv resulted in two deaths.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Tel_Aviv_gay_centre_shooting)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**31 Temmuz - 2020: Amerika Birleşik Devletleri'nin Alaska eyaletinin Soldotna kentinde meydana gelen havada çarpışmada eyalet temsilcisi Gary Knopp da dahil olmak üzere yedi kişi öldü.**
+**01 Ağustos 2009: İsrail LGBT örgütü Aguda'nın Tel Aviv'deki bir şubesine düzenlenen silahlı saldırı iki ölümle sonuçlandı.**
 
 </details>
 
-*Updated: 2026-07-31 19:08 UTC*
+*Updated: 2026-08-01 08:03 UTC*
 <!-- HISTORY_END -->
 
 ---
