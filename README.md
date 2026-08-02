@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**02 Ağustos 2008: Bangkok'ta bir taksi şoförünün video oyunları bağımlısı bir genç tarafından öldürülmesi, Tayland hükümetinin Grand Theft Auto'nun satışını yasaklamasına yol açtı.**
+**02 Ağustos 2008: Bangkok'ta bir taksi şoförünün video oyunu bağımlısı bir genç tarafından öldürülmesi, Tayland hükümetinin Grand Theft Auto'nun satışını yasaklamasına yol açtı.**
 
 </details>
 
-*Updated: 2026-08-02 12:56 UTC*
+*Updated: 2026-08-02 18:56 UTC*
 <!-- HISTORY_END -->
 
 ---
