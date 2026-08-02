@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 01 — 2009:** A shooting at a branch of the Israeli LGBT organization the Aguda in Tel Aviv resulted in two deaths.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Tel_Aviv_gay_centre_shooting)
+**August 02 — 2008:** A taxi driver is murdered in Bangkok by a teenager addicted to video games leading to the Thai government banning the sale of Grand Theft Auto.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Murder_of_Khuan_Phokaeng)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**01 Ağustos 2009: İsrail LGBT örgütü Aguda'nın Tel Aviv'deki bir şubesine düzenlenen silahlı saldırı iki ölümle sonuçlandı.**
+**02 Ağustos 2008: Bangkok'ta bir taksi şoförünün video oyunları bağımlısı bir genç tarafından öldürülmesi, Tayland hükümetinin Grand Theft Auto'nun satışını yasaklamasına yol açtı.**
 
 </details>
 
-*Updated: 2026-08-01 18:55 UTC*
+*Updated: 2026-08-02 08:05 UTC*
 <!-- HISTORY_END -->
 
 ---
