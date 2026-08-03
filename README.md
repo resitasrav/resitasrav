@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**03 Ağustos 2019: Teksas'ın El Paso kentindeki Walmart'ta toplu silahlı saldırı meydana geldi, 23 kişi öldü, 22 kişi de yaralandı.**
+**August 03 — 2019: A mass shooting occurred at a Walmart in El Paso, Texas, killing 23 people and injuring 22 others.**
 
 </details>
 
-*Updated: 2026-08-03 14:14 UTC*
+*Updated: 2026-08-03 19:19 UTC*
 <!-- HISTORY_END -->
 
 ---
