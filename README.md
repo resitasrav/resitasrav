@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 02 — 2008:** A taxi driver is murdered in Bangkok by a teenager addicted to video games leading to the Thai government banning the sale of Grand Theft Auto.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Murder_of_Khuan_Phokaeng)
+**August 03 — 2019:** A mass shooting occurred at a Walmart in El Paso, Texas, killing 23 people and injuring 22 others.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019_El_Paso_Walmart_shooting)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**02 Ağustos 2008: Bangkok'ta bir taksi şoförünün video oyunu bağımlısı bir genç tarafından öldürülmesi, Tayland hükümetinin Grand Theft Auto'nun satışını yasaklamasına yol açtı.**
+**03 Ağustos 2019: Teksas'ın El Paso kentindeki Walmart'ta toplu silahlı saldırı meydana geldi, 23 kişi öldü, 22 kişi de yaralandı.**
 
 </details>
 
-*Updated: 2026-08-02 18:56 UTC*
+*Updated: 2026-08-03 09:21 UTC*
 <!-- HISTORY_END -->
 
 ---
