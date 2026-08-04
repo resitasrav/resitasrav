@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 03 — 2019:** A mass shooting occurred at a Walmart in El Paso, Texas, killing 23 people and injuring 22 others.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019_El_Paso_Walmart_shooting)
+**August 04 — 2020:** A large explosion of ammonium nitrate stored at the Port of Beirut in Lebanon killed 218 people and caused US$15 billion in damage.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_Beirut_explosion)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**August 03 — 2019: A mass shooting occurred at a Walmart in El Paso, Texas, killing 23 people and injuring 22 others.**
+**04 Ağustos 2020: Lübnan'ın Beyrut Limanı'nda depolanan büyük bir amonyum nitrat patlaması 218 kişinin ölümüne ve 15 milyar ABD doları tutarında hasara neden oldu.**
 
 </details>
 
-*Updated: 2026-08-03 19:19 UTC*
+*Updated: 2026-08-04 08:20 UTC*
 <!-- HISTORY_END -->
 
 ---
