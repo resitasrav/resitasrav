@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 05 — 2015:** United States Environmental Protection Agency personnel accidentally caused a spillage (aftermath pictured) of 3 million gallons (11 million litres) of mine waste water and tailings trapped inside the Gold King Mine near Silverton, Colorado.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency)
+**August 06 — 2013:** A gas leak caused an explosion that collapsed a building and led to the deaths of 22 people in Rosario, Argentina.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2013_Rosario_gas_explosion)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**05 Ağustos - 2015: Amerika Birleşik Devletleri Çevre Koruma Ajansı personeli yanlışlıkla Silverton, Colorado yakınlarındaki Gold King Madeni'nde sıkışan 3 milyon galonluk (11 milyon litre) maden atık suyunun ve atıkların dökülmesine (sonrası resimde) neden oldu.**
+**06 Ağustos 2013: Arjantin'in Rosario kentinde bir gaz sızıntısı, bir binanın çökmesine ve 22 kişinin ölümüne yol açan patlamaya neden oldu.**
 
 </details>
 
-*Updated: 2026-08-05 19:15 UTC*
+*Updated: 2026-08-06 08:15 UTC*
 <!-- HISTORY_END -->
 
 ---
