@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 06 — 2013:** A gas leak caused an explosion that collapsed a building and led to the deaths of 22 people in Rosario, Argentina.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2013_Rosario_gas_explosion)
+**August 07 — 2020:** Air India Express Flight 1344 overshot the runway at Calicut International Airport in Kerala, India, and crashed, killing 21 of the 190 people on board.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Air_India_Express_Flight_1344)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**06 Ağustos 2013: Arjantin'in Rosario kentinde bir gaz sızıntısı, bir binanın çökmesine ve 22 kişinin ölümüne yol açan patlamaya neden oldu.**
+**07 Ağustos - 2020: Air India Ekspres Uçuşu 1344, Hindistan'ın Kerala kentindeki Calicut Uluslararası Havaalanı'ndaki pisti aştı ve düştü ve uçaktaki 190 kişiden 21'i öldü.**
 
 </details>
 
-*Updated: 2026-08-06 23:50 UTC*
+*Updated: 2026-08-07 07:00 UTC*
 <!-- HISTORY_END -->
 
 ---
