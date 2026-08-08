@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 07 — 2020:** Air India Express Flight 1344 overshot the runway at Calicut International Airport in Kerala, India, and crashed, killing 21 of the 190 people on board.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Air_India_Express_Flight_1344)
+**August 08 — 2014:** The World Health Organization declared the Western African Ebola epidemic, which began in December 2013, to be a public health emergency of international concern.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/World_Health_Organization)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**07 Ağustos - 2020: Air India Ekspres Uçuşu 1344, Hindistan'ın Kerala kentindeki Calicut Uluslararası Havaalanı'ndaki pisti aştı ve düştü ve uçaktaki 190 kişiden 21'i öldü.**
+**08 Ağustos 2014: Dünya Sağlık Örgütü, Aralık 2013'te başlayan Batı Afrika Ebola salgınını uluslararası önemi haiz bir halk sağlığı acil durumu olarak ilan etti.**
 
 </details>
 
-*Updated: 2026-08-07 18:40 UTC*
+*Updated: 2026-08-08 06:34 UTC*
 <!-- HISTORY_END -->
 
 ---
