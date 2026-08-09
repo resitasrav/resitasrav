@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 08 — 2014:** The World Health Organization declared the Western African Ebola epidemic, which began in December 2013, to be a public health emergency of international concern.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/World_Health_Organization)
+**August 09 — 2024:** Voepass Linhas Aéreas Flight 2283] crashed near Vinhedo, São Paulo, Brazil, killing all 62 people on board.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Voepass_Flight_2283)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**08 Ağustos 2014: Dünya Sağlık Örgütü, Aralık 2013'te başlayan Batı Afrika Ebola salgınını uluslararası önemi haiz bir halk sağlığı acil durumu olarak ilan etti.**
+**09 Ağustos - 2024: Voepass Linhas Aéreas Uçuş 2283] Brezilya'nın São Paulo kentindeki Vinhedo yakınlarında düştü ve uçaktaki 62 kişinin tamamı öldü.**
 
 </details>
 
-*Updated: 2026-08-08 18:23 UTC*
+*Updated: 2026-08-09 06:38 UTC*
 <!-- HISTORY_END -->
 
 ---
