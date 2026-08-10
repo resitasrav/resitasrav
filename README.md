@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 09 — 2024:** Voepass Linhas Aéreas Flight 2283] crashed near Vinhedo, São Paulo, Brazil, killing all 62 people on board.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Voepass_Flight_2283)
+**August 10 — 2019:** Having already caused severe flooding in the Philippines, Typhoon Lekima made landfall in Zhejiang, China, killing 45 people in the province.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Typhoon_Lekima)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**09 Ağustos - 2024: Voepass Linhas Aéreas Uçuş 2283] Brezilya'nın São Paulo kentindeki Vinhedo yakınlarında düştü ve uçaktaki 62 kişinin tamamı öldü.**
+**10 Ağustos 2019: Filipinler'de zaten şiddetli su baskınlarına neden olan Lekima Tayfunu, Çin'in Zhejiang kentine inerek eyalette 45 kişinin ölümüne neden oldu.**
 
 </details>
 
-*Updated: 2026-08-09 18:25 UTC*
+*Updated: 2026-08-10 07:10 UTC*
 <!-- HISTORY_END -->
 
 ---
