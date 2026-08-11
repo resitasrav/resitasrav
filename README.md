@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 10 — 2019:** Having already caused severe flooding in the Philippines, Typhoon Lekima made landfall in Zhejiang, China, killing 45 people in the province.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Typhoon_Lekima)
+**August 11 — 2012:** At least 306 people were killed and 3,000 others injured in a pair of earthquakes near Tabriz, Iran.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**10 Ağustos 2019: Filipinler'de zaten şiddetli su baskınlarına neden olan Lekima Tayfunu, Çin'in Zhejiang kentine inerek eyalette 45 kişinin ölümüne neden oldu.**
+**11 Ağustos 2012: İran'ın Tebriz kenti yakınlarında meydana gelen iki depremde en az 306 kişi öldü, 3.000 kişi de yaralandı.**
 
 </details>
 
-*Updated: 2026-08-10 18:42 UTC*
+*Updated: 2026-08-11 06:48 UTC*
 <!-- HISTORY_END -->
 
 ---
