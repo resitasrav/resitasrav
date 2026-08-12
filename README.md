@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 11 — 2012:** At least 306 people were killed and 3,000 others injured in a pair of earthquakes near Tabriz, Iran.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes)
+**August 12 — 2021:** Six people, including the perpetrator, were killed in a mass shooting in Plymouth, England.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Plymouth_shooting)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**11 Ağustos 2012: İran'ın Tebriz kenti yakınlarında meydana gelen iki depremde en az 306 kişi öldü, 3.000 kişi de yaralandı.**
+**12 Ağustos 2021: İngiltere'nin Plymouth kentinde düzenlenen toplu silahlı saldırıda failin de aralarında bulunduğu altı kişi hayatını kaybetti.**
 
 </details>
 
-*Updated: 2026-08-11 18:47 UTC*
+*Updated: 2026-08-12 07:08 UTC*
 <!-- HISTORY_END -->
 
 ---
