@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 12 — 2021:** Six people, including the perpetrator, were killed in a mass shooting in Plymouth, England.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Plymouth_shooting)
+**August 13 — 2010:** After being boarded by Canadian authorities, MV Sun Sea docked in British Columbia and the 492 Sri Lankan Tamil refugee claimants on board were placed in detention.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/MV_Sun_Sea_incident)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**12 Ağustos 2021: İngiltere'nin Plymouth kentinde düzenlenen toplu silahlı saldırıda failin de aralarında bulunduğu altı kişi hayatını kaybetti.**
+**13 Ağustos - 2010: MV Sun Sea, Kanadalı yetkililer tarafından gemiye alındıktan sonra Britanya Kolumbiyası'na yanaştı ve gemideki 492 Sri Lankalı Tamil mülteci başvuru sahibi gözaltına alındı.**
 
 </details>
 
-*Updated: 2026-08-12 18:49 UTC*
+*Updated: 2026-08-13 07:12 UTC*
 <!-- HISTORY_END -->
 
 ---
