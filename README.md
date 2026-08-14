@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 13 — 2010:** After being boarded by Canadian authorities, MV Sun Sea docked in British Columbia and the 492 Sri Lankan Tamil refugee claimants on board were placed in detention.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/MV_Sun_Sea_incident)
+**August 14 — 2021:** A magnitude 7.2 earthquake struck in Haiti, killing at least 2,248 people and causing $1.5 billion in damages and economic loss.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2021_Haiti_earthquake)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**13 Ağustos - 2010: MV Sun Sea, Kanadalı yetkililer tarafından gemiye alındıktan sonra Britanya Kolumbiyası'na yanaştı ve gemideki 492 Sri Lankalı Tamil mülteci başvuru sahibi gözaltına alındı.**
+**14 Ağustos 2021: Haiti'de 7,2 büyüklüğünde bir deprem meydana geldi, en az 2.248 kişi öldü ve 1,5 milyar dolar hasar ve ekonomik kayıp oluştu.**
 
 </details>
 
-*Updated: 2026-08-13 18:49 UTC*
+*Updated: 2026-08-14 07:09 UTC*
 <!-- HISTORY_END -->
 
 ---
