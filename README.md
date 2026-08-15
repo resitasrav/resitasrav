@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 14 — 2021:** A magnitude 7.2 earthquake struck in Haiti, killing at least 2,248 people and causing $1.5 billion in damages and economic loss.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2021_Haiti_earthquake)
+**August 15 — 2005:** The Helsinki Agreement between the Free Aceh Movement and the Government of Indonesia was signed, ending more than 28 years of fighting.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Free_Aceh_Movement)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**14 Ağustos 2021: Haiti'de 7,2 büyüklüğünde bir deprem meydana geldi, en az 2.248 kişi öldü ve 1,5 milyar dolar hasar ve ekonomik kayıp oluştu.**
+**15 Ağustos - 2005: Özgür Açe Hareketi ile Endonezya Hükümeti arasında Helsinki Anlaşması imzalandı ve 28 yıldan fazla süren çatışmalara son verildi.**
 
 </details>
 
-*Updated: 2026-08-14 18:40 UTC*
+*Updated: 2026-08-15 06:20 UTC*
 <!-- HISTORY_END -->
 
 ---
