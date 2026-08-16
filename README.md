@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 15 — 2005:** The Helsinki Agreement between the Free Aceh Movement and the Government of Indonesia was signed, ending more than 28 years of fighting.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Free_Aceh_Movement)
+**August 16 — 2015:** Suicide bombers assassinated Pakistani politician Shuja Khanzada and killed at least 21 others at his home in Attock District.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Shuja_Khanzada)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**15 Ağustos - 2005: Özgür Açe Hareketi ile Endonezya Hükümeti arasında Helsinki Anlaşması imzalandı ve 28 yıldan fazla süren çatışmalara son verildi.**
+**16 Ağustos 2015: İntihar bombacıları Pakistanlı politikacı Shuja Khanzada'ya suikast düzenledi ve Attock Bölgesi'ndeki evinde en az 21 kişiyi öldürdü.**
 
 </details>
 
-*Updated: 2026-08-15 18:15 UTC*
+*Updated: 2026-08-16 06:23 UTC*
 <!-- HISTORY_END -->
 
 ---
