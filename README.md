@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 16 — 2015:** Suicide bombers assassinated Pakistani politician Shuja Khanzada and killed at least 21 others at his home in Attock District.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Shuja_Khanzada)
+**August 17 — 2008:** Michael Phelps won his eighth gold medal of the Summer Olympics in Beijing, setting the record for the most gold medals won by an athlete at a single games.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Michael_Phelps)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**16 Ağustos 2015: İntihar bombacıları Pakistanlı politikacı Shuja Khanzada'ya suikast düzenledi ve Attock Bölgesi'ndeki evinde en az 21 kişiyi öldürdü.**
+**17 Ağustos 2008: Michael Phelps, Pekin'deki Yaz Olimpiyatları'nda sekizinci altın madalyasını kazanarak bir sporcunun tek maçta kazandığı en fazla altın madalya rekorunu kırdı.**
 
 </details>
 
-*Updated: 2026-08-16 12:17 UTC*
+*Updated: 2026-08-17 06:33 UTC*
 <!-- HISTORY_END -->
 
 ---
