@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 17 — 2008:** Michael Phelps won his eighth gold medal of the Summer Olympics in Beijing, setting the record for the most gold medals won by an athlete at a single games.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Michael_Phelps)
+**August 18 — 2017:** Two people were fatally stabbed and eight others wounded by a rejected asylum seeker in an Islamist terrorist attack in Turku, Finland.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Asylum_seeker)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**17 Ağustos 2008: Michael Phelps, Pekin'deki Yaz Olimpiyatları'nda sekizinci altın madalyasını kazanarak bir sporcunun tek maçta kazandığı en fazla altın madalya rekorunu kırdı.**
+**18 Ağustos 2017: Finlandiya'nın Turku kentinde düzenlenen İslamcı terör saldırısında, sığınma talebi reddedilen bir kişi iki kişiyi ölümcül şekilde bıçakladı ve sekiz kişi de yaralandı.**
 
 </details>
 
-*Updated: 2026-08-17 12:20 UTC*
+*Updated: 2026-08-18 06:25 UTC*
 <!-- HISTORY_END -->
 
 ---
