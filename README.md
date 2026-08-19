@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**19 Ağustos - 2017: Yaklaşık 250.000 yerli olmayan çiftlikte yetiştirilen Atlantik somonu, Washington'daki Cypress Island yakınlarında yanlışlıkla doğaya salıverildi.**
+**August 19 — 2017: Around 250,000 farmed non-native Atlantic salmon were accidentally released into the wild near Cypress Island, Washington.**
 
 </details>
 
-*Updated: 2026-08-19 12:22 UTC*
+*Updated: 2026-08-19 18:19 UTC*
 <!-- HISTORY_END -->
 
 ---
