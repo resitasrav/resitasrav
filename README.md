@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 18 — 2017:** Two people were fatally stabbed and eight others wounded by a rejected asylum seeker in an Islamist terrorist attack in Turku, Finland.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Asylum_seeker)
+**August 19 — 2017:** Around 250,000 farmed non-native Atlantic salmon were accidentally released into the wild near Cypress Island, Washington.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Fish_farming)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**18 Ağustos 2017: Finlandiya'nın Turku kentinde düzenlenen İslamcı terör saldırısında, sığınma talebi reddedilen bir kişi iki kişiyi ölümcül şekilde bıçakladı ve sekiz kişi de yaralandı.**
+**19 Ağustos - 2017: Yaklaşık 250.000 yerli olmayan çiftlikte yetiştirilen Atlantik somonu, Washington'daki Cypress Island yakınlarında yanlışlıkla doğaya salıverildi.**
 
 </details>
 
-*Updated: 2026-08-18 18:23 UTC*
+*Updated: 2026-08-19 06:26 UTC*
 <!-- HISTORY_END -->
 
 ---
