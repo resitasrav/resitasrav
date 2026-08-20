@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 19 — 2017:** Around 250,000 farmed non-native Atlantic salmon were accidentally released into the wild near Cypress Island, Washington.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Fish_farming)
+**August 20 — 2018:** Silent Sam, a Confederate monument on the campus of the University of North Carolina at Chapel Hill, was toppled by protestors.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Silent_Sam)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**August 19 — 2017: Around 250,000 farmed non-native Atlantic salmon were accidentally released into the wild near Cypress Island, Washington.**
+**20 Ağustos 2018: Kuzey Carolina Üniversitesi'nin Chapel Hill kampüsünde bulunan Konfederasyon anıtı Sessiz Sam, protestocular tarafından devrildi.**
 
 </details>
 
-*Updated: 2026-08-19 18:19 UTC*
+*Updated: 2026-08-20 06:28 UTC*
 <!-- HISTORY_END -->
 
 ---
