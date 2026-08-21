@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 20 — 2018:** Silent Sam, a Confederate monument on the campus of the University of North Carolina at Chapel Hill, was toppled by protestors.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Silent_Sam)
+**August 21 — 2015:** Passengers on a Thalys train from Amsterdam to Paris confronted and subdued an attacker who attempted a mass shooting.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Thalys)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**20 Ağustos 2018: Kuzey Carolina Üniversitesi'nin Chapel Hill kampüsünde bulunan Konfederasyon anıtı Sessiz Sam, protestocular tarafından devrildi.**
+**21 Ağustos 2015: Amsterdam'dan Paris'e giden Thalys trenindeki yolcular, toplu ateş açmaya çalışan bir saldırganla karşılaştı ve onu bastırdı.**
 
 </details>
 
-*Updated: 2026-08-20 18:24 UTC*
+*Updated: 2026-08-21 06:28 UTC*
 <!-- HISTORY_END -->
 
 ---
