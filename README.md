@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 21 — 2015:** Passengers on a Thalys train from Amsterdam to Paris confronted and subdued an attacker who attempted a mass shooting.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Thalys)
+**August 22 — 2015:** A former military aircraft crashed at an airshow at Shoreham Airport in southern England, killing eleven people.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2015_Shoreham_Airshow_crash)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**21 Ağustos 2015: Amsterdam'dan Paris'e giden Thalys trenindeki yolcular, toplu ateş açmaya çalışan bir saldırganla karşılaştı ve onu bastırdı.**
+**22 Ağustos 2015: Eski bir askeri uçak, İngiltere'nin güneyindeki Shoreham Havalimanı'ndaki bir hava gösterisinde düştü ve on bir kişi öldü.**
 
 </details>
 
-*Updated: 2026-08-21 18:23 UTC*
+*Updated: 2026-08-22 06:22 UTC*
 <!-- HISTORY_END -->
 
 ---
