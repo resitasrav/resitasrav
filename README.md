@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**23 Ağustos 2011: 5,8 MW'lık bir deprem Virginia'nın Piedmont bölgesini vurdu ve ABD tarihindeki diğer depremlerden daha fazla insan tarafından hissedildi.**
+**August 23 — 2011: A 5.8 MW earthquake struck the Piedmont region of Virginia, and was felt by more people than any other quake in U.S. history.**
 
 </details>
 
-*Updated: 2026-08-23 12:17 UTC*
+*Updated: 2026-08-23 18:15 UTC*
 <!-- HISTORY_END -->
 
 ---
