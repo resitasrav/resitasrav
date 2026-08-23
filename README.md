@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 22 — 2015:** A former military aircraft crashed at an airshow at Shoreham Airport in southern England, killing eleven people.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2015_Shoreham_Airshow_crash)
+**August 23 — 2011:** A 5.8 MW earthquake struck the Piedmont region of Virginia, and was felt by more people than any other quake in U.S. history.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Moment_magnitude_scale)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**22 Ağustos 2015: Eski bir askeri uçak, İngiltere'nin güneyindeki Shoreham Havalimanı'ndaki bir hava gösterisinde düştü ve on bir kişi öldü.**
+**23 Ağustos 2011: 5,8 MW'lık bir deprem Virginia'nın Piedmont bölgesini vurdu ve ABD tarihindeki diğer depremlerden daha fazla insan tarafından hissedildi.**
 
 </details>
 
-*Updated: 2026-08-22 18:15 UTC*
+*Updated: 2026-08-23 06:23 UTC*
 <!-- HISTORY_END -->
 
 ---
