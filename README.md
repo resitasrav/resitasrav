@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 23 — 2011:** A 5.8 MW earthquake struck the Piedmont region of Virginia, and was felt by more people than any other quake in U.S. history.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Moment_magnitude_scale)
+**August 24 — 2006:** The International Astronomical Union passed a resolution redefining the term planet and classifying Pluto as a dwarf planet.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/International_Astronomical_Union)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**August 23 — 2011: A 5.8 MW earthquake struck the Piedmont region of Virginia, and was felt by more people than any other quake in U.S. history.**
+**24 Ağustos 2006: Uluslararası Astronomi Birliği, gezegen terimini yeniden tanımlayan ve Plüton'u cüce gezegen olarak sınıflandıran bir kararı kabul etti.**
 
 </details>
 
-*Updated: 2026-08-23 18:15 UTC*
+*Updated: 2026-08-24 06:36 UTC*
 <!-- HISTORY_END -->
 
 ---
