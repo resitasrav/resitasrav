@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**24 Ağustos 2006: Uluslararası Astronomi Birliği, gezegen terimini yeniden tanımlayan ve Plüton'u cüce gezegen olarak sınıflandıran bir kararı kabul etti.**
+**August 24 — 2006: The International Astronomical Union passed a resolution redefining the term planet and classifying Pluto as a dwarf planet.**
 
 </details>
 
-*Updated: 2026-08-24 12:24 UTC*
+*Updated: 2026-08-24 18:26 UTC*
 <!-- HISTORY_END -->
 
 ---
