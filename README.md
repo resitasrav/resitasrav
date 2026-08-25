@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**25 Ağustos 2012: NASA uzay sondası Voyager 1, yıldızlararası uzaya giren ilk insan yapımı nesne oldu.**
+**August 25 — 2012: The NASA space probe Voyager 1 became the first man-made object to enter interstellar space.**
 
 </details>
 
-*Updated: 2026-08-25 06:29 UTC*
+*Updated: 2026-08-25 12:25 UTC*
 <!-- HISTORY_END -->
 
 ---
