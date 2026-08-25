@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 24 — 2006:** The International Astronomical Union passed a resolution redefining the term planet and classifying Pluto as a dwarf planet.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/International_Astronomical_Union)
+**August 25 — 2012:** The NASA space probe Voyager 1 became the first man-made object to enter interstellar space.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/NASA)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**August 24 — 2006: The International Astronomical Union passed a resolution redefining the term planet and classifying Pluto as a dwarf planet.**
+**25 Ağustos 2012: NASA uzay sondası Voyager 1, yıldızlararası uzaya giren ilk insan yapımı nesne oldu.**
 
 </details>
 
-*Updated: 2026-08-24 18:26 UTC*
+*Updated: 2026-08-25 06:29 UTC*
 <!-- HISTORY_END -->
 
 ---
