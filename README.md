@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 25 — 2012:** The NASA space probe Voyager 1 became the first man-made object to enter interstellar space.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/NASA)
+**August 26 — 2008:** After a ceasefire was reached in the Russo-Georgian War, Russia recognized the independence of Abkhazia and South Ossetia.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Russo-Georgian_War)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**August 25 — 2012: The NASA space probe Voyager 1 became the first man-made object to enter interstellar space.**
+**26 Ağustos 2008: Rus-Gürcistan Savaşı'nda ateşkes sağlandıktan sonra Rusya, Abhazya ve Güney Osetya'nın bağımsızlığını tanıdı.**
 
 </details>
 
-*Updated: 2026-08-25 18:25 UTC*
+*Updated: 2026-08-26 06:30 UTC*
 <!-- HISTORY_END -->
 
 ---
