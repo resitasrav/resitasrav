@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**26 Ağustos 2008: Rus-Gürcistan Savaşı'nda ateşkes sağlandıktan sonra Rusya, Abhazya ve Güney Osetya'nın bağımsızlığını tanıdı.**
+**August 26 — 2008: After a ceasefire was reached in the Russo-Georgian War, Russia recognized the independence of Abkhazia and South Ossetia.**
 
 </details>
 
-*Updated: 2026-08-26 12:28 UTC*
+*Updated: 2026-08-26 19:38 UTC*
 <!-- HISTORY_END -->
 
 ---
