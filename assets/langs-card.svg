@@ -6,25 +6,25 @@
   <text x="20" y="32" font-family="Segoe UI,Ubuntu,sans-serif" font-size="15" font-weight="600" fill="#e6edf3" text-anchor="start">Most Used Languages</text>
   <line x1="20" y1="42" x2="360" y2="42" stroke="#30363d" stroke-width="0.8"/>
   <text x="20" y="58" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="start">HTML</text>
-  <text x="360" y="58" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">30.9%</text>
+  <text x="360" y="58" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">29.8%</text>
   <rect x="20" y="62" width="300" height="7" rx="3" fill="#30363d"/>
-  <rect x="20" y="62" width="92" height="7" rx="3" fill="#e34c26"/>
-  <text x="20" y="86" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="start">JavaScript</text>
-  <text x="360" y="86" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">30.0%</text>
+  <rect x="20" y="62" width="89" height="7" rx="3" fill="#e34c26"/>
+  <text x="20" y="86" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="start">Python</text>
+  <text x="360" y="86" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">29.2%</text>
   <rect x="20" y="90" width="300" height="7" rx="3" fill="#30363d"/>
-  <rect x="20" y="90" width="90" height="7" rx="3" fill="#f1e05a"/>
-  <text x="20" y="114" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="start">Python</text>
-  <text x="360" y="114" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">26.6%</text>
+  <rect x="20" y="90" width="87" height="7" rx="3" fill="#3572A5"/>
+  <text x="20" y="114" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="start">JavaScript</text>
+  <text x="360" y="114" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">28.9%</text>
   <rect x="20" y="118" width="300" height="7" rx="3" fill="#30363d"/>
-  <rect x="20" y="118" width="79" height="7" rx="3" fill="#3572A5"/>
+  <rect x="20" y="118" width="86" height="7" rx="3" fill="#f1e05a"/>
   <text x="20" y="142" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="start">PHP</text>
-  <text x="360" y="142" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">6.3%</text>
+  <text x="360" y="142" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">6.1%</text>
   <rect x="20" y="146" width="300" height="7" rx="3" fill="#30363d"/>
   <rect x="20" y="146" width="18" height="7" rx="3" fill="#4F5D95"/>
   <text x="20" y="170" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="start">CSS</text>
-  <text x="360" y="170" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">4.5%</text>
+  <text x="360" y="170" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">4.3%</text>
   <rect x="20" y="174" width="300" height="7" rx="3" fill="#30363d"/>
-  <rect x="20" y="174" width="13" height="7" rx="3" fill="#663399"/>
+  <rect x="20" y="174" width="12" height="7" rx="3" fill="#663399"/>
   <text x="20" y="198" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="start">C</text>
   <text x="360" y="198" font-family="Segoe UI,Ubuntu,sans-serif" font-size="11" font-weight="normal" fill="#e6edf3" text-anchor="end">1.6%</text>
   <rect x="20" y="202" width="300" height="7" rx="3" fill="#30363d"/>
