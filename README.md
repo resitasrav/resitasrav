@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 26 — 2008:** After a ceasefire was reached in the Russo-Georgian War, Russia recognized the independence of Abkhazia and South Ossetia.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Russo-Georgian_War)
+**August 27 — 2013:** Religious violence between Hindus and Muslims erupted in Muzaffarnagar district, Uttar Pradesh, India, leaving 62 people dead.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2013_Muzaffarnagar_riots)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**August 26 — 2008: After a ceasefire was reached in the Russo-Georgian War, Russia recognized the independence of Abkhazia and South Ossetia.**
+**27 Ağustos 2013: Hindistan'ın Uttar Pradesh kentinin Muzaffarnagar bölgesinde Hindular ve Müslümanlar arasındaki dini şiddet patlak verdi ve 62 kişi öldü.**
 
 </details>
 
-*Updated: 2026-08-26 19:38 UTC*
+*Updated: 2026-08-27 17:06 UTC*
 <!-- HISTORY_END -->
 
 ---
