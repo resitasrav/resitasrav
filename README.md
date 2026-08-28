@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 27 — 2013:** Religious violence between Hindus and Muslims erupted in Muzaffarnagar district, Uttar Pradesh, India, leaving 62 people dead.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2013_Muzaffarnagar_riots)
+**August 28 — 2022:** A mass shooting took place in Phoenix, Arizona, leaving three dead and five others injured.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2022_Phoenix_shooting)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**27 Ağustos 2013: Hindistan'ın Uttar Pradesh kentinin Muzaffarnagar bölgesinde Hindular ve Müslümanlar arasındaki dini şiddet patlak verdi ve 62 kişi öldü.**
+**28 Ağustos 2022: Phoenix, Arizona'da toplu bir silahlı saldırı gerçekleşti ve üç kişi öldü, beş kişi de yaralandı.**
 
 </details>
 
-*Updated: 2026-08-27 21:25 UTC*
+*Updated: 2026-08-28 01:55 UTC*
 <!-- HISTORY_END -->
 
 ---
