@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 28 — 2022:** A mass shooting took place in Phoenix, Arizona, leaving three dead and five others injured.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2022_Phoenix_shooting)
+**August 28 — 2021:** The second phase of the Thomson-East Coast MRT line was opened for service.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Thomson%E2%80%93East_Coast_Line)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**28 Ağustos 2022: Phoenix, Arizona'da toplu bir silahlı saldırı gerçekleşti ve üç kişi öldü, beş kişi de yaralandı.**
+**August 28 — 2021: The second phase of the Thomson-East Coast MRT line was opened for service.**
 
 </details>
 
-*Updated: 2026-08-28 01:55 UTC*
+*Updated: 2026-08-28 17:53 UTC*
 <!-- HISTORY_END -->
 
 ---
