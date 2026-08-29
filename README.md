@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**August 29 — 2016: Chen Quanguo became the Chinese Communist Party secretary of Xinjiang, and in that role later oversaw the creation of the Xinjiang internment camps.**
+**29 Ağustos 2016: Chen Quanguo, Çin Komünist Partisi'nin Sincan sekreteri oldu ve daha sonra bu görevde Sincan toplama kamplarının kurulmasını denetledi.**
 
 </details>
 
-*Updated: 2026-08-29 01:19 UTC*
+*Updated: 2026-08-29 11:58 UTC*
 <!-- HISTORY_END -->
 
 ---
