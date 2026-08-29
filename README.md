@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 28 — 2021:** The second phase of the Thomson-East Coast MRT line was opened for service.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Thomson%E2%80%93East_Coast_Line)
+**August 29 — 2016:** Chen Quanguo became the Chinese Communist Party secretary of Xinjiang, and in that role later oversaw the creation of the Xinjiang internment camps.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Chen_Quanguo)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**August 28 — 2021: The second phase of the Thomson-East Coast MRT line was opened for service.**
+**August 29 — 2016: Chen Quanguo became the Chinese Communist Party secretary of Xinjiang, and in that role later oversaw the creation of the Xinjiang internment camps.**
 
 </details>
 
-*Updated: 2026-08-28 21:34 UTC*
+*Updated: 2026-08-29 01:19 UTC*
 <!-- HISTORY_END -->
 
 ---
