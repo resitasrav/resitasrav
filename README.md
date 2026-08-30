@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**30 Ağustos 2025: Ukraynalı politikacı Andriy Parubiy (resimde) Ukrayna'nın Lviv kentinde suikasta kurban gitti.**
+**August 30 — 2025: Ukrainian politician Andriy Parubiy (pictured) was assassinated in Lviv, Ukraine.**
 
 </details>
 
-*Updated: 2026-08-30 10:54 UTC*
+*Updated: 2026-08-30 15:40 UTC*
 <!-- HISTORY_END -->
 
 ---
