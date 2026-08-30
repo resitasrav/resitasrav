@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 29 — 2016:** Chen Quanguo became the Chinese Communist Party secretary of Xinjiang, and in that role later oversaw the creation of the Xinjiang internment camps.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Chen_Quanguo)
+**August 30 — 2025:** Ukrainian politician Andriy Parubiy (pictured) was assassinated in Lviv, Ukraine.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Andriy_Parubiy)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**29 Ağustos 2016: Chen Quanguo, Çin Komünist Partisi'nin Sincan sekreteri oldu ve daha sonra bu görevde Sincan toplama kamplarının kurulmasını denetledi.**
+**30 Ağustos 2025: Ukraynalı politikacı Andriy Parubiy (resimde) Ukrayna'nın Lviv kentinde suikasta kurban gitti.**
 
 </details>
 
-*Updated: 2026-08-29 20:11 UTC*
+*Updated: 2026-08-30 10:54 UTC*
 <!-- HISTORY_END -->
 
 ---
