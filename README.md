@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 30 — 2025:** Ukrainian politician Andriy Parubiy (pictured) was assassinated in Lviv, Ukraine.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Andriy_Parubiy)
+**August 31 — 2019:** A sightseeing helicopter crashed in the mountains of Skoddevarre in Alta, Norway, killing all six people on board.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019_Alta_helicopter_crash)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**30 Ağustos 2025: Ukraynalı politikacı Andriy Parubiy (resimde) Ukrayna'nın Lviv kentinde suikasta kurban gitti.**
+**August 31 — 2019: A sightseeing helicopter crashed in the mountains of Skoddevarre in Alta, Norway, killing all six people on board.**
 
 </details>
 
-*Updated: 2026-08-30 20:18 UTC*
+*Updated: 2026-08-31 12:10 UTC*
 <!-- HISTORY_END -->
 
 ---
