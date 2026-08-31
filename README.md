@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**August 31 — 2019: A sightseeing helicopter crashed in the mountains of Skoddevarre in Alta, Norway, killing all six people on board.**
+**31 Ağustos 2019: Norveç'in Alta kentindeki Skoddevarre dağlarına bir gezi helikopteri düştü ve uçaktaki altı kişinin tamamı öldü.**
 
 </details>
 
-*Updated: 2026-08-31 18:23 UTC*
+*Updated: 2026-08-31 22:12 UTC*
 <!-- HISTORY_END -->
 
 ---
