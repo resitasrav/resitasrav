@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**01 Eylül - 2000: Singapur'daki Hong Lim Park'ta bir özgür konuşma alanı olan Konuşmacılar Köşesi açıldı.**
+**September 01 — 2000: Speakers' Corner, a free speech area in Hong Lim Park in Singapore, was launched.**
 
 </details>
 
-*Updated: 2026-09-01 10:46 UTC*
+*Updated: 2026-09-01 15:43 UTC*
 <!-- HISTORY_END -->
 
 ---
