@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**August 31 — 2019:** A sightseeing helicopter crashed in the mountains of Skoddevarre in Alta, Norway, killing all six people on board.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019_Alta_helicopter_crash)
+**September 01 — 2000:** Speakers' Corner, a free speech area in Hong Lim Park in Singapore, was launched.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Speakers'_Corner%2C_Singapore)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**31 Ağustos 2019: Norveç'in Alta kentindeki Skoddevarre dağlarına bir gezi helikopteri düştü ve uçaktaki altı kişinin tamamı öldü.**
+**01 Eylül - 2000: Singapur'daki Hong Lim Park'ta bir özgür konuşma alanı olan Konuşmacılar Köşesi açıldı.**
 
 </details>
 
-*Updated: 2026-08-31 22:12 UTC*
+*Updated: 2026-09-01 10:46 UTC*
 <!-- HISTORY_END -->
 
 ---
