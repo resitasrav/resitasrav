@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 01 — 2000:** Speakers' Corner, a free speech area in Hong Lim Park in Singapore, was launched.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Speakers'_Corner%2C_Singapore)
+**September 02 — 2011:** Bad weather caused a Chilean Air Force aircraft to crash into the Pacific Ocean, killing all 21 people on board.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Chilean_Air_Force)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**01 Eylül 2000: Singapur'daki Hong Lim Park'ta bir özgür konuşma alanı olan Konuşmacılar Köşesi açıldı.**
+**02 Eylül 2011: Kötü hava koşulları Şili Hava Kuvvetleri'ne ait bir uçağın Pasifik Okyanusu'na düşmesine neden oldu ve uçaktaki 21 kişinin tamamı öldü.**
 
 </details>
 
-*Updated: 2026-09-01 20:19 UTC*
+*Updated: 2026-09-02 10:11 UTC*
 <!-- HISTORY_END -->
 
 ---
