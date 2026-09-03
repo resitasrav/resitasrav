@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 03 — 2017: North Korea conducted its sixth and most powerful nuclear test at Punggye-ri, causing a magnitude-6.3 earthquake.**
+**03 Eylül 2017: Kuzey Kore altıncı ve en güçlü nükleer testini Punggye-ri'de gerçekleştirdi ve 6,3 büyüklüğünde bir depreme neden oldu.**
 
 </details>
 
-*Updated: 2026-09-03 10:23 UTC*
+*Updated: 2026-09-03 15:26 UTC*
 <!-- HISTORY_END -->
 
 ---
