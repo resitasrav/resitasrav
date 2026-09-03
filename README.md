@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 02 — 2011:** Bad weather caused a Chilean Air Force aircraft to crash into the Pacific Ocean, killing all 21 people on board.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Chilean_Air_Force)
+**September 03 — 2017:** North Korea conducted its sixth and most powerful nuclear test at Punggye-ri, causing a magnitude-6.3 earthquake.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2017_North_Korean_nuclear_test)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**02 Eylül 2011: Kötü hava koşulları Şili Hava Kuvvetleri'ne ait bir uçağın Pasifik Okyanusu'na düşmesine neden oldu ve uçaktaki 21 kişinin tamamı öldü.**
+**September 03 — 2017: North Korea conducted its sixth and most powerful nuclear test at Punggye-ri, causing a magnitude-6.3 earthquake.**
 
 </details>
 
-*Updated: 2026-09-02 20:18 UTC*
+*Updated: 2026-09-03 10:23 UTC*
 <!-- HISTORY_END -->
 
 ---
