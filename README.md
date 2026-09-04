@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 03 — 2017:** North Korea conducted its sixth and most powerful nuclear test at Punggye-ri, causing a magnitude-6.3 earthquake.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2017_North_Korean_nuclear_test)
+**September 04 — 2010:** A magnitude-7.1 earthquake (damage pictured) struck the Canterbury Region of New Zealand, causing two deaths and up to NZ$40 billion in damages.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2010_Canterbury_earthquake)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**03 Eylül 2017: Kuzey Kore altıncı ve en güçlü nükleer testini Punggye-ri'de gerçekleştirdi ve 6,3 büyüklüğünde bir depreme neden oldu.**
+**04 Eylül 2010: Yeni Zelanda'nın Canterbury Bölgesi'nde 7,1 büyüklüğünde bir deprem (resimde görülen hasar) iki kişinin ölümüne ve 40 milyar Yeni Zelanda dolarına varan hasara neden oldu.**
 
 </details>
 
-*Updated: 2026-09-03 20:18 UTC*
+*Updated: 2026-09-04 10:10 UTC*
 <!-- HISTORY_END -->
 
 ---
