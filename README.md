@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**05 Eylül - 2020: Kaliforniya'daki orman yangınları: Cinsiyet açıklama partisindeki bir piroteknik cihaz, El Dorado Yangınını (resimde) ateşledi, 71 gün boyunca yandı ve bir itfaiyecinin ölümüne neden oldu.**
+**September 05 — 2020: California wildfires: A pyrotechnic device at a gender reveal party ignited the El Dorado Fire (pictured), burning for 71 days and killing one firefighter.**
 
 </details>
 
-*Updated: 2026-09-05 14:11 UTC*
+*Updated: 2026-09-05 19:43 UTC*
 <!-- HISTORY_END -->
 
 ---
