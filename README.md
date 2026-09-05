@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 04 — 2010:** A magnitude-7.1 earthquake (damage pictured) struck the Canterbury Region of New Zealand, causing two deaths and up to NZ$40 billion in damages.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2010_Canterbury_earthquake)
+**September 05 — 2020:** California wildfires: A pyrotechnic device at a gender reveal party ignited the El Dorado Fire (pictured), burning for 71 days and killing one firefighter.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_California_wildfires)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 04 — 2010: A magnitude-7.1 earthquake (damage pictured) struck the Canterbury Region of New Zealand, causing two deaths and up to NZ$40 billion in damages.**
+**05 Eylül - 2020: Kaliforniya'daki orman yangınları: Cinsiyet açıklama partisindeki bir piroteknik cihaz, El Dorado Yangınını (resimde) ateşledi, 71 gün boyunca yandı ve bir itfaiyecinin ölümüne neden oldu.**
 
 </details>
 
-*Updated: 2026-09-04 20:03 UTC*
+*Updated: 2026-09-05 09:39 UTC*
 <!-- HISTORY_END -->
 
 ---
