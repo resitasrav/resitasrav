@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 06 — 2022: Liz Truss (pictured) succeeded Boris Johnson as prime minister following the July 2022 United Kingdom government crisis.**
+**06 Eylül 2022: Liz Truss (resimde), Temmuz 2022'deki Birleşik Krallık hükümet krizinin ardından Boris Johnson'ın yerine başbakan oldu.**
 
 </details>
 
-*Updated: 2026-09-06 14:34 UTC*
+*Updated: 2026-09-06 19:46 UTC*
 <!-- HISTORY_END -->
 
 ---
