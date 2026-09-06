@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 05 — 2020:** California wildfires: A pyrotechnic device at a gender reveal party ignited the El Dorado Fire (pictured), burning for 71 days and killing one firefighter.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_California_wildfires)
+**September 06 — 2022:** Liz Truss (pictured) succeeded Boris Johnson as prime minister following the July 2022 United Kingdom government crisis.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Liz_Truss)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 05 — 2020: California wildfires: A pyrotechnic device at a gender reveal party ignited the El Dorado Fire (pictured), burning for 71 days and killing one firefighter.**
+**September 06 — 2022: Liz Truss (pictured) succeeded Boris Johnson as prime minister following the July 2022 United Kingdom government crisis.**
 
 </details>
 
-*Updated: 2026-09-05 19:43 UTC*
+*Updated: 2026-09-06 09:55 UTC*
 <!-- HISTORY_END -->
 
 ---
