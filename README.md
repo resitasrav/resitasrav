@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 07 — 2011: Yak-Service Flight 9633, carrying the players and coaching staff of the ice hockey team Lokomotiv Yaroslavl, crashed on take-off near Yaroslavl, Russia, resulting in the deaths of 44 of the 45 people on board.**
+**07 Eylül - 2011: Buz hokeyi takımı Lokomotiv Yaroslavl'ın oyuncularını ve antrenör personelini taşıyan Yak-Service Flight 9633, Rusya'nın Yaroslavl kenti yakınlarında kalkış sırasında düştü ve uçaktaki 45 kişiden 44'ü öldü.**
 
 </details>
 
-*Updated: 2026-09-07 16:49 UTC*
+*Updated: 2026-09-07 20:55 UTC*
 <!-- HISTORY_END -->
 
 ---
