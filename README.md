@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 06 — 2022:** Liz Truss (pictured) succeeded Boris Johnson as prime minister following the July 2022 United Kingdom government crisis.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Liz_Truss)
+**September 07 — 2011:** Yak-Service Flight 9633, carrying the players and coaching staff of the ice hockey team Lokomotiv Yaroslavl, crashed on take-off near Yaroslavl, Russia, resulting in the deaths of 44 of the 45 people on board.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Lokomotiv_Yaroslavl_plane_crash)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**06 Eylül 2022: Liz Truss (resimde), Temmuz 2022'deki Birleşik Krallık hükümet krizinin ardından Boris Johnson'ın yerine başbakan oldu.**
+**September 07 — 2011: Yak-Service Flight 9633, carrying the players and coaching staff of the ice hockey team Lokomotiv Yaroslavl, crashed on take-off near Yaroslavl, Russia, resulting in the deaths of 44 of the 45 people on board.**
 
 </details>
 
-*Updated: 2026-09-06 19:46 UTC*
+*Updated: 2026-09-07 11:02 UTC*
 <!-- HISTORY_END -->
 
 ---
