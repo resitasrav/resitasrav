@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 07 — 2011:** Yak-Service Flight 9633, carrying the players and coaching staff of the ice hockey team Lokomotiv Yaroslavl, crashed on take-off near Yaroslavl, Russia, resulting in the deaths of 44 of the 45 people on board.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Lokomotiv_Yaroslavl_plane_crash)
+**September 08 — 2022:** Queen Elizabeth II (pictured) died at Balmoral Castle in Scotland; her eldest son Charles III acceded to the throne as King of the United Kingdom and other Commonwealth realms.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_II)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**07 Eylül - 2011: Buz hokeyi takımı Lokomotiv Yaroslavl'ın oyuncularını ve antrenör personelini taşıyan Yak-Service Flight 9633, Rusya'nın Yaroslavl kenti yakınlarında kalkış sırasında düştü ve uçaktaki 45 kişiden 44'ü öldü.**
+**September 08 — 2022: Queen Elizabeth II (pictured) died at Balmoral Castle in Scotland; her eldest son Charles III acceded to the throne as King of the United Kingdom and other Commonwealth realms.**
 
 </details>
 
-*Updated: 2026-09-07 20:55 UTC*
+*Updated: 2026-09-08 10:17 UTC*
 <!-- HISTORY_END -->
 
 ---
