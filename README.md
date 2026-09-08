@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 08 — 2022: Queen Elizabeth II (pictured) died at Balmoral Castle in Scotland; her eldest son Charles III acceded to the throne as King of the United Kingdom and other Commonwealth realms.**
+**08 Eylül 2022: Kraliçe II. Elizabeth (resimde) İskoçya'daki Balmoral Kalesi'nde öldü; en büyük oğlu Charles III, Birleşik Krallık Kralı ve diğer İngiliz Milletler Topluluğu krallıkları olarak tahta çıktı.**
 
 </details>
 
-*Updated: 2026-09-08 10:17 UTC*
+*Updated: 2026-09-08 15:37 UTC*
 <!-- HISTORY_END -->
 
 ---
