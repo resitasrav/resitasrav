@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**09 Eylül - 2015: II. Elizabeth (resimde), Kraliçe Victoria'yı geride bırakarak Birleşik Krallık'ın en uzun süre hüküm süren hükümdarı oldu.**
+**September 09 — 2015: Elizabeth II (pictured) became the longest-reigning monarch of the United Kingdom, surpassing Queen Victoria.**
 
 </details>
 
-*Updated: 2026-09-09 15:31 UTC*
+*Updated: 2026-09-09 20:12 UTC*
 <!-- HISTORY_END -->
 
 ---
