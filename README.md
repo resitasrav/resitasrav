@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 08 — 2022:** Queen Elizabeth II (pictured) died at Balmoral Castle in Scotland; her eldest son Charles III acceded to the throne as King of the United Kingdom and other Commonwealth realms.  
+**September 09 — 2015:** Elizabeth II (pictured) became the longest-reigning monarch of the United Kingdom, surpassing Queen Victoria.  
 🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_II)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**08 Eylül 2022: Kraliçe II. Elizabeth (resimde) İskoçya'daki Balmoral Kalesi'nde öldü; en büyük oğlu Charles III, Birleşik Krallık Kralı ve diğer İngiliz Milletler Topluluğu krallıkları olarak tahta çıktı.**
+**09 Eylül - 2015: II. Elizabeth (resimde), Kraliçe Victoria'yı geride bırakarak Birleşik Krallık'ın en uzun süre hüküm süren hükümdarı oldu.**
 
 </details>
 
-*Updated: 2026-09-08 20:30 UTC*
+*Updated: 2026-09-09 10:24 UTC*
 <!-- HISTORY_END -->
 
 ---
