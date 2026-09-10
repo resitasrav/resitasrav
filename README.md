@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 09 — 2015:** Elizabeth II (pictured) became the longest-reigning monarch of the United Kingdom, surpassing Queen Victoria.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_II)
+**September 10 — 2025:** American political activist Charlie Kirk (pictured) was shot and killed at an event at Utah Valley University.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Charlie_Kirk)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 09 — 2015: Elizabeth II (pictured) became the longest-reigning monarch of the United Kingdom, surpassing Queen Victoria.**
+**10 Eylül 2025: Amerikalı siyasi aktivist Charlie Kirk (resimde) Utah Valley Üniversitesi'ndeki bir etkinlikte vurularak öldürüldü.**
 
 </details>
 
-*Updated: 2026-09-09 20:12 UTC*
+*Updated: 2026-09-10 10:15 UTC*
 <!-- HISTORY_END -->
 
 ---
