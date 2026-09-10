@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**10 Eylül 2025: Amerikalı siyasi aktivist Charlie Kirk (resimde) Utah Valley Üniversitesi'ndeki bir etkinlikte vurularak öldürüldü.**
+**September 10 — 2025: American political activist Charlie Kirk (pictured) was shot and killed at an event at Utah Valley University.**
 
 </details>
 
-*Updated: 2026-09-10 15:26 UTC*
+*Updated: 2026-09-10 20:14 UTC*
 <!-- HISTORY_END -->
 
 ---
