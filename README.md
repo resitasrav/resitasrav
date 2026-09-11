@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 10 — 2025:** American political activist Charlie Kirk (pictured) was shot and killed at an event at Utah Valley University.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Charlie_Kirk)
+**September 11 — 2025:** Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Jair_Bolsonaro)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 10 — 2025: American political activist Charlie Kirk (pictured) was shot and killed at an event at Utah Valley University.**
+**September 11 — 2025: Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.**
 
 </details>
 
-*Updated: 2026-09-10 20:14 UTC*
+*Updated: 2026-09-11 10:13 UTC*
 <!-- HISTORY_END -->
 
 ---
