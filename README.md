@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 11 — 2025: Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.**
+**11 Eylül 2025: Eski Brezilya Devlet Başkanı Jair Bolsonaro, darbe planına karışmaktan 27 yıl hapis cezasına çarptırıldı.**
 
 </details>
 
-*Updated: 2026-09-11 10:13 UTC*
+*Updated: 2026-09-11 15:28 UTC*
 <!-- HISTORY_END -->
 
 ---
