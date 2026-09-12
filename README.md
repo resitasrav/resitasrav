@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 11 — 2025:** Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Jair_Bolsonaro)
+**September 12 — 2015:** An explosion involving illegally stored mining detonators in Petlawad, India, killed 104 people and injured more than 150 others.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Petlawad_explosion)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**11 Eylül 2025: Eski Brezilya Devlet Başkanı Jair Bolsonaro, darbe planına karışmaktan 27 yıl hapis cezasına çarptırıldı.**
+**12 Eylül 2015: Hindistan'ın Petlawad kentinde yasa dışı olarak depolanan maden patlatıcılarının karıştığı patlamada 104 kişi öldü ve 150'den fazla kişi de yaralandı.**
 
 </details>
 
-*Updated: 2026-09-11 20:13 UTC*
+*Updated: 2026-09-12 09:47 UTC*
 <!-- HISTORY_END -->
 
 ---
