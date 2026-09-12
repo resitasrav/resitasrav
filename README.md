@@ -104,11 +104,11 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**12 Eylül 2015: Hindistan'ın Petlawad kentinde yasa dışı olarak depolanan maden patlatıcılarının karıştığı patlamada 104 kişi öldü ve 150'den fazla kişi de yaralandı.**
+**September 12 — 2015: An explosion involving illegally stored mining detonators in Petlawad, India, killed 104 people and injured more than 150 others.**
 
 </details>
 
-*Updated: 2026-09-12 09:47 UTC*
+*Updated: 2026-09-12 14:36 UTC*
 <!-- HISTORY_END -->
 
 ---
