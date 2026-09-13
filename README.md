@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 12 — 2015:** An explosion involving illegally stored mining detonators in Petlawad, India, killed 104 people and injured more than 150 others.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Petlawad_explosion)
+**September 13 — 2008:** Five bomb blasts took place in Delhi, India, killing at least 20 people as part of a series of attacks perpetrated by the Indian Mujahideen.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/13_September_2008_Delhi_bombings)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 12 — 2015: An explosion involving illegally stored mining detonators in Petlawad, India, killed 104 people and injured more than 150 others.**
+**September 13 — 2008: Five bomb blasts took place in Delhi, India, killing at least 20 people as part of a series of attacks perpetrated by the Indian Mujahideen.**
 
 </details>
 
-*Updated: 2026-09-12 19:52 UTC*
+*Updated: 2026-09-13 10:48 UTC*
 <!-- HISTORY_END -->
 
 ---
