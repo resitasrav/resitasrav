@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 13 — 2008:** Five bomb blasts took place in Delhi, India, killing at least 20 people as part of a series of attacks perpetrated by the Indian Mujahideen.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/13_September_2008_Delhi_bombings)
+**September 14 — 2019:** Drone attacks on major processing facilities at Abqaiq and Khurais forced Saudi Arabia to cut more than half of its oil production.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Abqaiq%E2%80%93Khurais_attack)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 13 — 2008: Five bomb blasts took place in Delhi, India, killing at least 20 people as part of a series of attacks perpetrated by the Indian Mujahideen.**
+**September 14 — 2019: Drone attacks on major processing facilities at Abqaiq and Khurais forced Saudi Arabia to cut more than half of its oil production.**
 
 </details>
 
-*Updated: 2026-09-13 20:01 UTC*
+*Updated: 2026-09-14 11:15 UTC*
 <!-- HISTORY_END -->
 
 ---
