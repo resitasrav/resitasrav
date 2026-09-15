@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 14 — 2019:** Drone attacks on major processing facilities at Abqaiq and Khurais forced Saudi Arabia to cut more than half of its oil production.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Abqaiq%E2%80%93Khurais_attack)
+**September 15 — 2020:** The Abraham Accords were signed in Washington, D.C. (signatories pictured), normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Abraham_Accords)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 14 — 2019: Drone attacks on major processing facilities at Abqaiq and Khurais forced Saudi Arabia to cut more than half of its oil production.**
+**September 15 — 2020: The Abraham Accords were signed in Washington, D.C. (signatories pictured), normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.**
 
 </details>
 
-*Updated: 2026-09-14 21:11 UTC*
+*Updated: 2026-09-15 10:41 UTC*
 <!-- HISTORY_END -->
 
 ---
