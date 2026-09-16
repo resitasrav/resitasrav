@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 15 — 2020:** The Abraham Accords were signed in Washington, D.C. (signatories pictured), normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Abraham_Accords)
+**September 16 — 2013:** A lone gunman fatally shot twelve people and injured three others at the headquarters of the Naval Sea Systems Command in Washington, D.C.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Washington_Navy_Yard_shooting)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 15 — 2020: The Abraham Accords were signed in Washington, D.C. (signatories pictured), normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.**
+**September 16 — 2013: A lone gunman fatally shot twelve people and injured three others at the headquarters of the Naval Sea Systems Command in Washington, D.C.**
 
 </details>
 
-*Updated: 2026-09-15 20:39 UTC*
+*Updated: 2026-09-16 10:29 UTC*
 <!-- HISTORY_END -->
 
 ---
