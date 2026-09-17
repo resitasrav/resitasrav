@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 16 — 2013:** A lone gunman fatally shot twelve people and injured three others at the headquarters of the Naval Sea Systems Command in Washington, D.C.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Washington_Navy_Yard_shooting)
+**September 17 — 2018:** The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria; Syrian air defences responding to the strikes accidentally downed a Russian plane.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Israeli_Air_Force)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 16 — 2013: A lone gunman fatally shot twelve people and injured three others at the headquarters of the Naval Sea Systems Command in Washington, D.C.**
+**September 17 — 2018: The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria; Syrian air defences responding to the strikes accidentally downed a Russian plane.**
 
 </details>
 
-*Updated: 2026-09-16 20:39 UTC*
+*Updated: 2026-09-17 10:39 UTC*
 <!-- HISTORY_END -->
 
 ---
