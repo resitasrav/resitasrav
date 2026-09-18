@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 17 — 2018:** The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria; Syrian air defences responding to the strikes accidentally downed a Russian plane.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Israeli_Air_Force)
+**September 18 — 1981:** While posing as an aristocrat, Belgian serial killer Nestor Pirotte murdered an antiques dealer in Brussels, for which crime he was sentenced to death.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Nestor_Pirotte)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 17 — 2018: The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria; Syrian air defences responding to the strikes accidentally downed a Russian plane.**
+**September 18 — 1981: While posing as an aristocrat, Belgian serial killer Nestor Pirotte murdered an antiques dealer in Brussels, for which crime he was sentenced to death.**
 
 </details>
 
-*Updated: 2026-09-17 20:46 UTC*
+*Updated: 2026-09-18 10:15 UTC*
 <!-- HISTORY_END -->
 
 ---
