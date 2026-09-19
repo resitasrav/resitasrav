@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 18 — 1981:** While posing as an aristocrat, Belgian serial killer Nestor Pirotte murdered an antiques dealer in Brussels, for which crime he was sentenced to death.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Nestor_Pirotte)
+**September 19 — 2023:** Chinese authorities cancelled a run of performances of The Mongol Khan, the first Mongolian play to be performed internationally, forty minutes before its planned premiere in Hohhot.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/The_Mongol_Khan)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 18 — 1981: While posing as an aristocrat, Belgian serial killer Nestor Pirotte murdered an antiques dealer in Brussels, for which crime he was sentenced to death.**
+**September 19 — 2023: Chinese authorities cancelled a run of performances of The Mongol Khan, the first Mongolian play to be performed internationally, forty minutes before its planned premiere in Hohhot.**
 
 </details>
 
-*Updated: 2026-09-18 20:09 UTC*
+*Updated: 2026-09-19 09:57 UTC*
 <!-- HISTORY_END -->
 
 ---
