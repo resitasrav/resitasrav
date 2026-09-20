@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 19 — 2023:** Chinese authorities cancelled a run of performances of The Mongol Khan, the first Mongolian play to be performed internationally, forty minutes before its planned premiere in Hohhot.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/The_Mongol_Khan)
+**September 20 — 2011:** The United States military ended its "don't ask, don't tell" policy, consequently allowing gay and lesbian people to serve openly.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Don't_ask%2C_don't_tell)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 19 — 2023: Chinese authorities cancelled a run of performances of The Mongol Khan, the first Mongolian play to be performed internationally, forty minutes before its planned premiere in Hohhot.**
+**September 20 — 2011: The United States military ended its "don't ask, don't tell" policy, consequently allowing gay and lesbian people to serve openly.**
 
 </details>
 
-*Updated: 2026-09-19 19:46 UTC*
+*Updated: 2026-09-20 10:17 UTC*
 <!-- HISTORY_END -->
 
 ---
