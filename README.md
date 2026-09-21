@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 20 — 2011:** The United States military ended its "don't ask, don't tell" policy, consequently allowing gay and lesbian people to serve openly.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Don't_ask%2C_don't_tell)
+**September 21 — 2013:** Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nairobi, Kenya, resulting in the deaths of 67 people with at least another 175 wounded.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Westgate_shopping_mall_attack)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 20 — 2011: The United States military ended its "don't ask, don't tell" policy, consequently allowing gay and lesbian people to serve openly.**
+**September 21 — 2013: Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nairobi, Kenya, resulting in the deaths of 67 people with at least another 175 wounded.**
 
 </details>
 
-*Updated: 2026-09-20 20:00 UTC*
+*Updated: 2026-09-21 11:27 UTC*
 <!-- HISTORY_END -->
 
 ---
