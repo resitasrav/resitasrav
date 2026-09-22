@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 21 — 2013:** Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nairobi, Kenya, resulting in the deaths of 67 people with at least another 175 wounded.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Westgate_shopping_mall_attack)
+**September 22 — 2014:** The NASA spacecraft MAVEN entered into orbit around Mars to study the planet's atmosphere.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/NASA)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 21 — 2013: Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nairobi, Kenya, resulting in the deaths of 67 people with at least another 175 wounded.**
+**September 22 — 2014: The NASA spacecraft MAVEN entered into orbit around Mars to study the planet's atmosphere.**
 
 </details>
 
-*Updated: 2026-09-21 21:25 UTC*
+*Updated: 2026-09-22 10:35 UTC*
 <!-- HISTORY_END -->
 
 ---
