@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 22 — 2014:** The NASA spacecraft MAVEN entered into orbit around Mars to study the planet's atmosphere.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/NASA)
+**September 23 — 2019:** The British travel company Thomas Cook Group ceased operations with immediate effect, leaving around 600,000 tourists stranded around the world.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Thomas_Cook_Group)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 22 — 2014: The NASA spacecraft MAVEN entered into orbit around Mars to study the planet's atmosphere.**
+**September 23 — 2019: The British travel company Thomas Cook Group ceased operations with immediate effect, leaving around 600,000 tourists stranded around the world.**
 
 </details>
 
-*Updated: 2026-09-22 20:40 UTC*
+*Updated: 2026-09-23 10:28 UTC*
 <!-- HISTORY_END -->
 
 ---
