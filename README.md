@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 23 — 2019:** The British travel company Thomas Cook Group ceased operations with immediate effect, leaving around 600,000 tourists stranded around the world.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Thomas_Cook_Group)
+**September 24 — 2019:** The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minister Boris Johnson to Queen Elizabeth II that Parliament should be prorogued was unlawful.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 23 — 2019: The British travel company Thomas Cook Group ceased operations with immediate effect, leaving around 600,000 tourists stranded around the world.**
+**September 24 — 2019: The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minister Boris Johnson to Queen Elizabeth II that Parliament should be prorogued was unlawful.**
 
 </details>
 
-*Updated: 2026-09-23 20:52 UTC*
+*Updated: 2026-09-24 10:45 UTC*
 <!-- HISTORY_END -->
 
 ---
