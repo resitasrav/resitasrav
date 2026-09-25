@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 24 — 2019:** The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minister Boris Johnson to Queen Elizabeth II that Parliament should be prorogued was unlawful.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom)
+**September 25 — 1990:** The Ram Rath Yatra, a political–religious rally organised to erect a temple to the Hindu deity Rama on the site of the Babri Masjid in Ayodhya, began in the Indian state of Gujarat.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Ram_Rath_Yatra)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 24 — 2019: The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minister Boris Johnson to Queen Elizabeth II that Parliament should be prorogued was unlawful.**
+**September 25 — 1990: The Ram Rath Yatra, a political–religious rally organised to erect a temple to the Hindu deity Rama on the site of the Babri Masjid in Ayodhya, began in the Indian state of Gujarat.**
 
 </details>
 
-*Updated: 2026-09-24 20:56 UTC*
+*Updated: 2026-09-25 10:49 UTC*
 <!-- HISTORY_END -->
 
 ---
