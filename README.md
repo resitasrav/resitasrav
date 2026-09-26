@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 25 — 1990:** The Ram Rath Yatra, a political–religious rally organised to erect a temple to the Hindu deity Rama on the site of the Babri Masjid in Ayodhya, began in the Indian state of Gujarat.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Ram_Rath_Yatra)
+**September 26 — 2016:** The Ecnomiohyla rabborum became extinct when the last known surviving member died in captivity.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Ecnomiohyla_rabborum)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 25 — 1990: The Ram Rath Yatra, a political–religious rally organised to erect a temple to the Hindu deity Rama on the site of the Babri Masjid in Ayodhya, began in the Indian state of Gujarat.**
+**September 26 — 2016: The Ecnomiohyla rabborum became extinct when the last known surviving member died in captivity.**
 
 </details>
 
-*Updated: 2026-09-25 20:52 UTC*
+*Updated: 2026-09-26 10:30 UTC*
 <!-- HISTORY_END -->
 
 ---
