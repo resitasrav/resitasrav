@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 26 — 2016:** The Ecnomiohyla rabborum became extinct when the last known surviving member died in captivity.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Ecnomiohyla_rabborum)
+**September 27 — 2014:** Mount Ontake in central Japan unexpectedly erupted, killing 63 people in the nation's deadliest eruption in more than 100 years.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mount_Ontake)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 26 — 2016: The Ecnomiohyla rabborum became extinct when the last known surviving member died in captivity.**
+**September 27 — 2014: Mount Ontake in central Japan unexpectedly erupted, killing 63 people in the nation's deadliest eruption in more than 100 years.**
 
 </details>
 
-*Updated: 2026-09-26 20:23 UTC*
+*Updated: 2026-09-27 11:02 UTC*
 <!-- HISTORY_END -->
 
 ---
