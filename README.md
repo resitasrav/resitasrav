@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 27 — 2014:** Mount Ontake in central Japan unexpectedly erupted, killing 63 people in the nation's deadliest eruption in more than 100 years.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mount_Ontake)
+**September 28 — 2023:** The Sycamore Gap tree (pictured) in Northumberland, England, was illegally felled.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Sycamore_Gap_tree)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 27 — 2014: Mount Ontake in central Japan unexpectedly erupted, killing 63 people in the nation's deadliest eruption in more than 100 years.**
+**September 28 — 2023: The Sycamore Gap tree (pictured) in Northumberland, England, was illegally felled.**
 
 </details>
 
-*Updated: 2026-09-27 20:37 UTC*
+*Updated: 2026-09-28 12:22 UTC*
 <!-- HISTORY_END -->
 
 ---
