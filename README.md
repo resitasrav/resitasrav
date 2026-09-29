@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 28 — 2023:** The Sycamore Gap tree (pictured) in Northumberland, England, was illegally felled.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Sycamore_Gap_tree)
+**September 29 — 2006:** Gol Transportes Aéreos Flight 1907 collided in mid-air with an Embraer Legacy business jet near Peixoto de Azevedo, Brazil, killing 154 people and triggering a national aviation crisis.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Gol_Transportes_A%C3%A9reos_Flight_1907)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 28 — 2023: The Sycamore Gap tree (pictured) in Northumberland, England, was illegally felled.**
+**September 29 — 2006: Gol Transportes Aéreos Flight 1907 collided in mid-air with an Embraer Legacy business jet near Peixoto de Azevedo, Brazil, killing 154 people and triggering a national aviation crisis.**
 
 </details>
 
-*Updated: 2026-09-28 22:46 UTC*
+*Updated: 2026-09-29 11:48 UTC*
 <!-- HISTORY_END -->
 
 ---
