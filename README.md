@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 29 — 2006:** Gol Transportes Aéreos Flight 1907 collided in mid-air with an Embraer Legacy business jet near Peixoto de Azevedo, Brazil, killing 154 people and triggering a national aviation crisis.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Gol_Transportes_A%C3%A9reos_Flight_1907)
+**September 30 — 2019:** President Martín Vizcarra dissolved the Congress of Peru, resulting in a constitutional crisis.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mart%C3%ADn_Vizcarra)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 29 — 2006: Gol Transportes Aéreos Flight 1907 collided in mid-air with an Embraer Legacy business jet near Peixoto de Azevedo, Brazil, killing 154 people and triggering a national aviation crisis.**
+**September 30 — 2019: President Martín Vizcarra dissolved the Congress of Peru, resulting in a constitutional crisis.**
 
 </details>
 
-*Updated: 2026-09-29 21:40 UTC*
+*Updated: 2026-09-30 11:35 UTC*
 <!-- HISTORY_END -->
 
 ---
