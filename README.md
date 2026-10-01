@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**September 30 — 2019:** President Martín Vizcarra dissolved the Congress of Peru, resulting in a constitutional crisis.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mart%C3%ADn_Vizcarra)
+**October 01 — 2022:** After losing a league home match to their local rivals, Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch at Kanjuruhan Stadium, prompting police to fire tear gas and causing a stampede that killed 135.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2022%E2%80%9323_Liga_1_(Indonesia))
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**September 30 — 2019: President Martín Vizcarra dissolved the Congress of Peru, resulting in a constitutional crisis.**
+**October 01 — 2022: After losing a league home match to their local rivals, Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch at Kanjuruhan Stadium, prompting police to fire tear gas and causing a stampede that killed 135.**
 
 </details>
 
-*Updated: 2026-09-30 21:40 UTC*
+*Updated: 2026-10-01 12:03 UTC*
 <!-- HISTORY_END -->
 
 ---
