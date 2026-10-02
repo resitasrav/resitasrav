@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 01 — 2022:** After losing a league home match to their local rivals, Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch at Kanjuruhan Stadium, prompting police to fire tear gas and causing a stampede that killed 135.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2022%E2%80%9323_Liga_1_(Indonesia))
+**October 02 — 2018:** The Washington Post journalist Jamal Khashoggi was assassinated in the Saudi consulate in Istanbul, Turkey.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/The_Washington_Post)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 01 — 2022: After losing a league home match to their local rivals, Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch at Kanjuruhan Stadium, prompting police to fire tear gas and causing a stampede that killed 135.**
+**October 02 — 2018: The Washington Post journalist Jamal Khashoggi was assassinated in the Saudi consulate in Istanbul, Turkey.**
 
 </details>
 
-*Updated: 2026-10-01 22:08 UTC*
+*Updated: 2026-10-02 11:35 UTC*
 <!-- HISTORY_END -->
 
 ---
