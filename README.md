@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 02 — 2018:** The Washington Post journalist Jamal Khashoggi was assassinated in the Saudi consulate in Istanbul, Turkey.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/The_Washington_Post)
+**October 03 — 2013:** A boat carrying migrants from Libya to Italy sank off the Italian island of Lampedusa, resulting in more than 360 deaths.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2013_Lampedusa_migrant_shipwreck)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 02 — 2018: The Washington Post journalist Jamal Khashoggi was assassinated in the Saudi consulate in Istanbul, Turkey.**
+**October 03 — 2013: A boat carrying migrants from Libya to Italy sank off the Italian island of Lampedusa, resulting in more than 360 deaths.**
 
 </details>
 
-*Updated: 2026-10-02 21:36 UTC*
+*Updated: 2026-10-03 10:49 UTC*
 <!-- HISTORY_END -->
 
 ---
