@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 03 — 2013:** A boat carrying migrants from Libya to Italy sank off the Italian island of Lampedusa, resulting in more than 360 deaths.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2013_Lampedusa_migrant_shipwreck)
+**October 04 — 1943:** World War II: Allied forces executed Operation Leader, an air raid against German shipping near Bodø, Norway.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/World_War_II)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 03 — 2013: A boat carrying migrants from Libya to Italy sank off the Italian island of Lampedusa, resulting in more than 360 deaths.**
+**October 04 — 1943: World War II: Allied forces executed Operation Leader, an air raid against German shipping near Bodø, Norway.**
 
 </details>
 
-*Updated: 2026-10-03 20:21 UTC*
+*Updated: 2026-10-04 11:31 UTC*
 <!-- HISTORY_END -->
 
 ---
