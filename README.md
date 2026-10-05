@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 04 — 1943:** World War II: Allied forces executed Operation Leader, an air raid against German shipping near Bodø, Norway.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/World_War_II)
+**October 05 — 2014:** Formula One racing driver Jules Bianchi crashed at the Japanese Grand Prix, sustaining fatal head injuries that would kill him the following year.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Jules_Bianchi)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 04 — 1943: World War II: Allied forces executed Operation Leader, an air raid against German shipping near Bodø, Norway.**
+**October 05 — 2014: Formula One racing driver Jules Bianchi crashed at the Japanese Grand Prix, sustaining fatal head injuries that would kill him the following year.**
 
 </details>
 
-*Updated: 2026-10-04 20:39 UTC*
+*Updated: 2026-10-05 13:02 UTC*
 <!-- HISTORY_END -->
 
 ---
