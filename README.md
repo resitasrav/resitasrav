@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 05 — 2014:** Formula One racing driver Jules Bianchi crashed at the Japanese Grand Prix, sustaining fatal head injuries that would kill him the following year.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Jules_Bianchi)
+**October 06 — 2008:** The MESSENGER probe discovered Mercury's Rembrandt (pictured) – the second largest impact crater on the planet.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/MESSENGER)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 05 — 2014: Formula One racing driver Jules Bianchi crashed at the Japanese Grand Prix, sustaining fatal head injuries that would kill him the following year.**
+**October 06 — 2008: The MESSENGER probe discovered Mercury's Rembrandt (pictured) – the second largest impact crater on the planet.**
 
 </details>
 
-*Updated: 2026-10-05 23:29 UTC*
+*Updated: 2026-10-06 12:25 UTC*
 <!-- HISTORY_END -->
 
 ---
