@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 07 — 2008:** 2008 TC3 exploded above the Nubian Desert in Sudan, in the first time that an asteroid impact had been predicted prior to atmospheric entry.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2008_TC3)
+**October 08 — 2019:** Anti-government protests calling for free and fair elections began in Baku, Azerbaijan.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019_Baku_protests)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 07 — 2008: 2008 TC3 exploded above the Nubian Desert in Sudan, in the first time that an asteroid impact had been predicted prior to atmospheric entry.**
+**October 08 — 2019: Anti-government protests calling for free and fair elections began in Baku, Azerbaijan.**
 
 </details>
 
-*Updated: 2026-10-07 22:26 UTC*
+*Updated: 2026-10-08 12:28 UTC*
 <!-- HISTORY_END -->
 
 ---
