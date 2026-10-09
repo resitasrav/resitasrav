@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 08 — 2019:** Anti-government protests calling for free and fair elections began in Baku, Azerbaijan.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019_Baku_protests)
+**October 09 — 2019:** Syrian civil war: Turkish forces began an offensive into north-eastern Syria following the withdrawal of U.S. troops from the region.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Syrian_civil_war)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 08 — 2019: Anti-government protests calling for free and fair elections began in Baku, Azerbaijan.**
+**October 09 — 2019: Syrian civil war: Turkish forces began an offensive into north-eastern Syria following the withdrawal of U.S. troops from the region.**
 
 </details>
 
-*Updated: 2026-10-08 22:39 UTC*
+*Updated: 2026-10-09 12:17 UTC*
 <!-- HISTORY_END -->
 
 ---
