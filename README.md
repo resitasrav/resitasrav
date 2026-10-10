@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 09 — 2019:** Syrian civil war: Turkish forces began an offensive into north-eastern Syria following the withdrawal of U.S. troops from the region.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Syrian_civil_war)
+**October 10 — 2004:** Eight-year-old Huang Na was abducted and murdered; her body was found three weeks later after a search across Singapore and Malaysia.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Murder_of_Huang_Na)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 09 — 2019: Syrian civil war: Turkish forces began an offensive into north-eastern Syria following the withdrawal of U.S. troops from the region.**
+**October 10 — 2004: Eight-year-old Huang Na was abducted and murdered; her body was found three weeks later after a search across Singapore and Malaysia.**
 
 </details>
 
-*Updated: 2026-10-09 22:01 UTC*
+*Updated: 2026-10-10 11:35 UTC*
 <!-- HISTORY_END -->
 
 ---
