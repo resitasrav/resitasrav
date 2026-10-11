@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 10 — 2004:** Eight-year-old Huang Na was abducted and murdered; her body was found three weeks later after a search across Singapore and Malaysia.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Murder_of_Huang_Na)
+**October 11 — 2002:** A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured), resulting in seven deaths and 159 injuries.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Myyrmanni_bombing)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 10 — 2004: Eight-year-old Huang Na was abducted and murdered; her body was found three weeks later after a search across Singapore and Malaysia.**
+**October 11 — 2002: A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured), resulting in seven deaths and 159 injuries.**
 
 </details>
 
-*Updated: 2026-10-10 20:54 UTC*
+*Updated: 2026-10-11 11:49 UTC*
 <!-- HISTORY_END -->
 
 ---
