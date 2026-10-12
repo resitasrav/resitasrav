@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 11 — 2002:** A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured), resulting in seven deaths and 159 injuries.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Myyrmanni_bombing)
+**October 12 — 2013:** Twelve people were killed in an apartment-building collapse (pictured) in Medellín, leading to new construction laws being passed in Colombia.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Collapse_of_the_Space_Building)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 11 — 2002: A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured), resulting in seven deaths and 159 injuries.**
+**October 12 — 2013: Twelve people were killed in an apartment-building collapse (pictured) in Medellín, leading to new construction laws being passed in Colombia.**
 
 </details>
 
-*Updated: 2026-10-11 21:15 UTC*
+*Updated: 2026-10-12 13:54 UTC*
 <!-- HISTORY_END -->
 
 ---
