@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 13 — 2019:** At the Chicago Marathon, Kenyan runner Brigid Kosgei (pictured) set the marathon world record for women running in a mixed-sex race.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2019_Chicago_Marathon)
+**October 14 — 2021:** Approximately 10,000 John Deere employees went on strike in one of the largest private-sector strikes in the United States.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/John_Deere)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 13 — 2019: At the Chicago Marathon, Kenyan runner Brigid Kosgei (pictured) set the marathon world record for women running in a mixed-sex race.**
+**October 14 — 2021: Approximately 10,000 John Deere employees went on strike in one of the largest private-sector strikes in the United States.**
 
 </details>
 
-*Updated: 2026-10-13 22:05 UTC*
+*Updated: 2026-10-14 10:51 UTC*
 <!-- HISTORY_END -->
 
 ---
