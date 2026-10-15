@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 14 — 2021:** Approximately 10,000 John Deere employees went on strike in one of the largest private-sector strikes in the United States.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/John_Deere)
+**October 15 — 2018:** Thirteen-year-old Jayme Closs was kidnapped from her home in Barron, Wisconsin, and held captive for 88 days.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Kidnapping_of_Jayme_Closs)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 14 — 2021: Approximately 10,000 John Deere employees went on strike in one of the largest private-sector strikes in the United States.**
+**October 15 — 2018: Thirteen-year-old Jayme Closs was kidnapped from her home in Barron, Wisconsin, and held captive for 88 days.**
 
 </details>
 
-*Updated: 2026-10-14 21:07 UTC*
+*Updated: 2026-10-15 10:33 UTC*
 <!-- HISTORY_END -->
 
 ---
