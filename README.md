@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 15 — 2018:** Thirteen-year-old Jayme Closs was kidnapped from her home in Barron, Wisconsin, and held captive for 88 days.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Kidnapping_of_Jayme_Closs)
+**October 16 — 2017:** The Maltese journalist and anti-corruption activist Daphne Caruana Galizia was killed in a car bomb attack in Bidnija.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Daphne_Caruana_Galizia)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 15 — 2018: Thirteen-year-old Jayme Closs was kidnapped from her home in Barron, Wisconsin, and held captive for 88 days.**
+**October 16 — 2017: The Maltese journalist and anti-corruption activist Daphne Caruana Galizia was killed in a car bomb attack in Bidnija.**
 
 </details>
 
-*Updated: 2026-10-15 20:43 UTC*
+*Updated: 2026-10-16 10:20 UTC*
 <!-- HISTORY_END -->
 
 ---
