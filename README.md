@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 16 — 2017:** The Maltese journalist and anti-corruption activist Daphne Caruana Galizia was killed in a car bomb attack in Bidnija.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Daphne_Caruana_Galizia)
+**October 17 — 2001:** Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Rehavam_Ze'evi)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 16 — 2017: The Maltese journalist and anti-corruption activist Daphne Caruana Galizia was killed in a car bomb attack in Bidnija.**
+**October 17 — 2001: Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.**
 
 </details>
 
-*Updated: 2026-10-16 20:16 UTC*
+*Updated: 2026-10-17 09:53 UTC*
 <!-- HISTORY_END -->
 
 ---
