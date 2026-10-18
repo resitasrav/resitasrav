@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 17 — 2001:** Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Rehavam_Ze'evi)
+**October 18 — 2019:** Protests in Santiago that started 11 days prior escalated into open battle against the Chilean national police, forcing President Sebastián Piñera to declare a state of emergency.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Santiago)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 17 — 2001: Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.**
+**October 18 — 2019: Protests in Santiago that started 11 days prior escalated into open battle against the Chilean national police, forcing President Sebastián Piñera to declare a state of emergency.**
 
 </details>
 
-*Updated: 2026-10-17 19:52 UTC*
+*Updated: 2026-10-18 10:06 UTC*
 <!-- HISTORY_END -->
 
 ---
