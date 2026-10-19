@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 18 — 2019:** Protests in Santiago that started 11 days prior escalated into open battle against the Chilean national police, forcing President Sebastián Piñera to declare a state of emergency.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Santiago)
+**October 19 — 2017:** Canadian astronomer Robert Weryk discovered ʻOumuamua (depicted), the first known interstellar object detected passing through the Solar System.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Robert_Weryk)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 18 — 2019: Protests in Santiago that started 11 days prior escalated into open battle against the Chilean national police, forcing President Sebastián Piñera to declare a state of emergency.**
+**October 19 — 2017: Canadian astronomer Robert Weryk discovered ʻOumuamua (depicted), the first known interstellar object detected passing through the Solar System.**
 
 </details>
 
-*Updated: 2026-10-18 19:52 UTC*
+*Updated: 2026-10-19 11:34 UTC*
 <!-- HISTORY_END -->
 
 ---
