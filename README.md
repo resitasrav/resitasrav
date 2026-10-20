@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 19 — 2017:** Canadian astronomer Robert Weryk discovered ʻOumuamua (depicted), the first known interstellar object detected passing through the Solar System.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Robert_Weryk)
+**October 20 — 2024:** Prabowo Subianto and Gibran Rakabuming Raka were sworn in as president and vice president of Indonesia, becoming the oldest and the youngest person to assume respective offices.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Prabowo_Subianto)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 19 — 2017: Canadian astronomer Robert Weryk discovered ʻOumuamua (depicted), the first known interstellar object detected passing through the Solar System.**
+**October 20 — 2024: Prabowo Subianto and Gibran Rakabuming Raka were sworn in as president and vice president of Indonesia, becoming the oldest and the youngest person to assume respective offices.**
 
 </details>
 
-*Updated: 2026-10-19 21:51 UTC*
+*Updated: 2026-10-20 10:39 UTC*
 <!-- HISTORY_END -->
 
 ---
