@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 20 — 2024:** Prabowo Subianto and Gibran Rakabuming Raka were sworn in as president and vice president of Indonesia, becoming the oldest and the youngest person to assume respective offices.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Prabowo_Subianto)
+**October 21 — 1994:** North Korea and the United States signed the Agreed Framework to limit the former's nuclear weapons program and to normalize relations between the two countries.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Agreed_Framework)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 20 — 2024: Prabowo Subianto and Gibran Rakabuming Raka were sworn in as president and vice president of Indonesia, becoming the oldest and the youngest person to assume respective offices.**
+**October 21 — 1994: North Korea and the United States signed the Agreed Framework to limit the former's nuclear weapons program and to normalize relations between the two countries.**
 
 </details>
 
-*Updated: 2026-10-20 21:00 UTC*
+*Updated: 2026-10-21 10:50 UTC*
 <!-- HISTORY_END -->
 
 ---
