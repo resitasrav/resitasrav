@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 21 — 1994:** North Korea and the United States signed the Agreed Framework to limit the former's nuclear weapons program and to normalize relations between the two countries.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Agreed_Framework)
+**October 22 — 2015:** A sword-wielding man attacked students and teachers at a high school in Trollhättan, killing three people in Sweden's deadliest school attack.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2015_Trollh%C3%A4ttan_school_attack)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 21 — 1994: North Korea and the United States signed the Agreed Framework to limit the former's nuclear weapons program and to normalize relations between the two countries.**
+**October 22 — 2015: A sword-wielding man attacked students and teachers at a high school in Trollhättan, killing three people in Sweden's deadliest school attack.**
 
 </details>
 
-*Updated: 2026-10-21 21:02 UTC*
+*Updated: 2026-10-22 10:51 UTC*
 <!-- HISTORY_END -->
 
 ---
