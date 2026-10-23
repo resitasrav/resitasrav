@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 22 — 2015:** A sword-wielding man attacked students and teachers at a high school in Trollhättan, killing three people in Sweden's deadliest school attack.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2015_Trollh%C3%A4ttan_school_attack)
+**October 23 — 2022:** Myanmar civil war: Burmese military forces launched airstrikes that killed at least 80 concertgoers in Kachin State.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present))
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 22 — 2015: A sword-wielding man attacked students and teachers at a high school in Trollhättan, killing three people in Sweden's deadliest school attack.**
+**October 23 — 2022: Myanmar civil war: Burmese military forces launched airstrikes that killed at least 80 concertgoers in Kachin State.**
 
 </details>
 
-*Updated: 2026-10-22 20:59 UTC*
+*Updated: 2026-10-23 10:42 UTC*
 <!-- HISTORY_END -->
 
 ---
