@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 23 — 2022:** Myanmar civil war: Burmese military forces launched airstrikes that killed at least 80 concertgoers in Kachin State.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present))
+**October 24 — 2015:** Lam Wing-kee, the owner of Causeway Bay Books in Hong Kong, known for publishing political books banned in mainland China, was abducted by Chinese authorities.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Lam_Wing-kee)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 23 — 2022: Myanmar civil war: Burmese military forces launched airstrikes that killed at least 80 concertgoers in Kachin State.**
+**October 24 — 2015: Lam Wing-kee, the owner of Causeway Bay Books in Hong Kong, known for publishing political books banned in mainland China, was abducted by Chinese authorities.**
 
 </details>
 
-*Updated: 2026-10-23 20:48 UTC*
+*Updated: 2026-10-24 09:59 UTC*
 <!-- HISTORY_END -->
 
 ---
