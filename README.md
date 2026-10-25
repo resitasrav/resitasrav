@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 24 — 2015:** Lam Wing-kee, the owner of Causeway Bay Books in Hong Kong, known for publishing political books banned in mainland China, was abducted by Chinese authorities.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Lam_Wing-kee)
+**October 25 — 2022:** At 49 days, Liz Truss concluded the shortest tenure as prime minister of the United Kingdom.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Liz_Truss)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 24 — 2015: Lam Wing-kee, the owner of Causeway Bay Books in Hong Kong, known for publishing political books banned in mainland China, was abducted by Chinese authorities.**
+**October 25 — 2022: At 49 days, Liz Truss concluded the shortest tenure as prime minister of the United Kingdom.**
 
 </details>
 
-*Updated: 2026-10-24 19:59 UTC*
+*Updated: 2026-10-25 10:23 UTC*
 <!-- HISTORY_END -->
 
 ---
