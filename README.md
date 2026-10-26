@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 25 — 2022:** At 49 days, Liz Truss concluded the shortest tenure as prime minister of the United Kingdom.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Liz_Truss)
+**October 26 — 2004:** Rockstar Games released Grand Theft Auto: San Andreas, considered one of the best video games ever made, in North America.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Rockstar_Games)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 25 — 2022: At 49 days, Liz Truss concluded the shortest tenure as prime minister of the United Kingdom.**
+**October 26 — 2004: Rockstar Games released Grand Theft Auto: San Andreas, considered one of the best video games ever made, in North America.**
 
 </details>
 
-*Updated: 2026-10-25 20:09 UTC*
+*Updated: 2026-10-26 11:52 UTC*
 <!-- HISTORY_END -->
 
 ---
