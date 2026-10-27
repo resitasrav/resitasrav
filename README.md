@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 26 — 2004:** Rockstar Games released Grand Theft Auto: San Andreas, considered one of the best video games ever made, in North America.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Rockstar_Games)
+**October 27 — 2019:** The Mocking of Christ (pictured) by Cimabue sold at auction in France for €19.5 million, a record for a pre-1500 artwork.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue))
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 26 — 2004: Rockstar Games released Grand Theft Auto: San Andreas, considered one of the best video games ever made, in North America.**
+**October 27 — 2019: The Mocking of Christ (pictured) by Cimabue sold at auction in France for €19.5 million, a record for a pre-1500 artwork.**
 
 </details>
 
-*Updated: 2026-10-26 22:06 UTC*
+*Updated: 2026-10-27 11:16 UTC*
 <!-- HISTORY_END -->
 
 ---
