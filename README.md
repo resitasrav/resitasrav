@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 27 — 2019:** The Mocking of Christ (pictured) by Cimabue sold at auction in France for €19.5 million, a record for a pre-1500 artwork.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue))
+**October 28 — 2013:** Members of the Turkistan Islamic Party drove a vehicle into a crowd in Tiananmen Square, Beijing, China, killing five people and injuring thirty-eight others.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Turkistan_Islamic_Party)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 27 — 2019: The Mocking of Christ (pictured) by Cimabue sold at auction in France for €19.5 million, a record for a pre-1500 artwork.**
+**October 28 — 2013: Members of the Turkistan Islamic Party drove a vehicle into a crowd in Tiananmen Square, Beijing, China, killing five people and injuring thirty-eight others.**
 
 </details>
 
-*Updated: 2026-10-27 21:37 UTC*
+*Updated: 2026-10-28 11:50 UTC*
 <!-- HISTORY_END -->
 
 ---
