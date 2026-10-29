@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 28 — 2013:** Members of the Turkistan Islamic Party drove a vehicle into a crowd in Tiananmen Square, Beijing, China, killing five people and injuring thirty-eight others.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Turkistan_Islamic_Party)
+**October 29 — 2013:** The first phase of the Marmaray project opened with an undersea rail tunnel (train pictured) across the Bosphorus strait.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Marmaray)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 28 — 2013: Members of the Turkistan Islamic Party drove a vehicle into a crowd in Tiananmen Square, Beijing, China, killing five people and injuring thirty-eight others.**
+**October 29 — 2013: The first phase of the Marmaray project opened with an undersea rail tunnel (train pictured) across the Bosphorus strait.**
 
 </details>
 
-*Updated: 2026-10-28 22:00 UTC*
+*Updated: 2026-10-29 11:58 UTC*
 <!-- HISTORY_END -->
 
 ---
