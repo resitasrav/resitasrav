@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 29 — 2013:** The first phase of the Marmaray project opened with an undersea rail tunnel (train pictured) across the Bosphorus strait.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Marmaray)
+**October 30 — 2020:** A magnitude-7.0 earthquake occurred in the Aegean Sea between Greece and Turkey, triggering a tsunami and causing 119 deaths.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_Aegean_Sea_earthquake)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 29 — 2013: The first phase of the Marmaray project opened with an undersea rail tunnel (train pictured) across the Bosphorus strait.**
+**October 30 — 2020: A magnitude-7.0 earthquake occurred in the Aegean Sea between Greece and Turkey, triggering a tsunami and causing 119 deaths.**
 
 </details>
 
-*Updated: 2026-10-29 22:12 UTC*
+*Updated: 2026-10-30 11:52 UTC*
 <!-- HISTORY_END -->
 
 ---
