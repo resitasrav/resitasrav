@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 30 — 2020:** A magnitude-7.0 earthquake occurred in the Aegean Sea between Greece and Turkey, triggering a tsunami and causing 119 deaths.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2020_Aegean_Sea_earthquake)
+**October 31 — 2017:** An Uzbek immigrant drove a rented truck into cyclists and runners in Lower Manhattan, New York City, killing eight people.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2017_New_York_City_truck_attack)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 30 — 2020: A magnitude-7.0 earthquake occurred in the Aegean Sea between Greece and Turkey, triggering a tsunami and causing 119 deaths.**
+**October 31 — 2017: An Uzbek immigrant drove a rented truck into cyclists and runners in Lower Manhattan, New York City, killing eight people.**
 
 </details>
 
-*Updated: 2026-10-30 21:48 UTC*
+*Updated: 2026-10-31 11:25 UTC*
 <!-- HISTORY_END -->
 
 ---
