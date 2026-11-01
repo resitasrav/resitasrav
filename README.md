@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**October 31 — 2017:** An Uzbek immigrant drove a rented truck into cyclists and runners in Lower Manhattan, New York City, killing eight people.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2017_New_York_City_truck_attack)
+**November 01 — 1998:** Karl Bushby set off from Punta Arenas, Chile, beginning his attempt to walk around the world towards England, a journey that remains ongoing.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Karl_Bushby)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**October 31 — 2017: An Uzbek immigrant drove a rented truck into cyclists and runners in Lower Manhattan, New York City, killing eight people.**
+**November 01 — 1998: Karl Bushby set off from Punta Arenas, Chile, beginning his attempt to walk around the world towards England, a journey that remains ongoing.**
 
 </details>
 
-*Updated: 2026-10-31 20:48 UTC*
+*Updated: 2026-11-01 12:19 UTC*
 <!-- HISTORY_END -->
 
 ---
