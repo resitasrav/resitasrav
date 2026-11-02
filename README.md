@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 01 — 1998:** Karl Bushby set off from Punta Arenas, Chile, beginning his attempt to walk around the world towards England, a journey that remains ongoing.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Karl_Bushby)
+**November 02 — 2008:** Lewis Hamilton overtook Timo Glock in the final corners of the Brazilian Grand Prix to become the Formula One World Drivers' Champion by one point.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Lewis_Hamilton)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 01 — 1998: Karl Bushby set off from Punta Arenas, Chile, beginning his attempt to walk around the world towards England, a journey that remains ongoing.**
+**November 02 — 2008: Lewis Hamilton overtook Timo Glock in the final corners of the Brazilian Grand Prix to become the Formula One World Drivers' Champion by one point.**
 
 </details>
 
-*Updated: 2026-11-01 21:29 UTC*
+*Updated: 2026-11-02 14:13 UTC*
 <!-- HISTORY_END -->
 
 ---
