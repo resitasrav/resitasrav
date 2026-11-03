@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 02 — 2008:** Lewis Hamilton overtook Timo Glock in the final corners of the Brazilian Grand Prix to become the Formula One World Drivers' Champion by one point.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Lewis_Hamilton)
+**November 03 — 2002:** A CIA drone strike kills six militants in Yemen, constituting the first targeted killing of the war on terror.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2002_Marib_airstrike)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 02 — 2008: Lewis Hamilton overtook Timo Glock in the final corners of the Brazilian Grand Prix to become the Formula One World Drivers' Champion by one point.**
+**November 03 — 2002: A CIA drone strike kills six militants in Yemen, constituting the first targeted killing of the war on terror.**
 
 </details>
 
-*Updated: 2026-11-02 21:01 UTC*
+*Updated: 2026-11-03 00:12 UTC*
 <!-- HISTORY_END -->
 
 ---
