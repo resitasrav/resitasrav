@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 03 — 2002:** A CIA drone strike kills six militants in Yemen, constituting the first targeted killing of the war on terror.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2002_Marib_airstrike)
+**November 04 — 2025:** A UPS Airlines plane crashed in Louisville, Kentucky, killing at least twelve people.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/UPS_Airlines)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 03 — 2002: A CIA drone strike kills six militants in Yemen, constituting the first targeted killing of the war on terror.**
+**November 04 — 2025: A UPS Airlines plane crashed in Louisville, Kentucky, killing at least twelve people.**
 
 </details>
 
-*Updated: 2026-11-03 22:42 UTC*
+*Updated: 2026-11-04 13:28 UTC*
 <!-- HISTORY_END -->
 
 ---
