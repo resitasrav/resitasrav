@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 04 — 2025:** A UPS Airlines plane crashed in Louisville, Kentucky, killing at least twelve people.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/UPS_Airlines)
+**November 05 — 2013:** The Indian Space Research Organisation launched the Mars Orbiter Mission, India's first interplanetary probe.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/ISRO)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 04 — 2025: A UPS Airlines plane crashed in Louisville, Kentucky, killing at least twelve people.**
+**November 05 — 2013: The Indian Space Research Organisation launched the Mars Orbiter Mission, India's first interplanetary probe.**
 
 </details>
 
-*Updated: 2026-11-04 22:59 UTC*
+*Updated: 2026-11-05 13:43 UTC*
 <!-- HISTORY_END -->
 
 ---
