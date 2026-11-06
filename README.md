@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 05 — 2013:** The Indian Space Research Organisation launched the Mars Orbiter Mission, India's first interplanetary probe.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/ISRO)
+**November 06 — 2016:** Syrian civil war: The Syrian Democratic Forces launched a successful military campaign to isolate and eventually capture Raqqa, the Islamic State's capital.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Syrian_civil_war)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 05 — 2013: The Indian Space Research Organisation launched the Mars Orbiter Mission, India's first interplanetary probe.**
+**November 06 — 2016: Syrian civil war: The Syrian Democratic Forces launched a successful military campaign to isolate and eventually capture Raqqa, the Islamic State's capital.**
 
 </details>
 
-*Updated: 2026-11-05 23:02 UTC*
+*Updated: 2026-11-06 13:27 UTC*
 <!-- HISTORY_END -->
 
 ---
