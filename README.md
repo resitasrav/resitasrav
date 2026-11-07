@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 06 — 2016:** Syrian civil war: The Syrian Democratic Forces launched a successful military campaign to isolate and eventually capture Raqqa, the Islamic State's capital.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Syrian_civil_war)
+**November 07 — 2000:** Hillary Clinton was elected as a US senator from New York, the first time a first lady had been elected to public office.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Hillary_Clinton)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 06 — 2016: Syrian civil war: The Syrian Democratic Forces launched a successful military campaign to isolate and eventually capture Raqqa, the Islamic State's capital.**
+**November 07 — 2000: Hillary Clinton was elected as a US senator from New York, the first time a first lady had been elected to public office.**
 
 </details>
 
-*Updated: 2026-11-06 22:32 UTC*
+*Updated: 2026-11-07 12:06 UTC*
 <!-- HISTORY_END -->
 
 ---
