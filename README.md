@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 07 — 2000:** Hillary Clinton was elected as a US senator from New York, the first time a first lady had been elected to public office.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Hillary_Clinton)
+**November 08 — 2020:** Second Nagorno-Karabakh War: Azerbaijani forces defeated the self-proclaimed Republic of Artsakh at the Battle of Shusha, reclaiming the town of Shusha after 28 years.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 07 — 2000: Hillary Clinton was elected as a US senator from New York, the first time a first lady had been elected to public office.**
+**November 08 — 2020: Second Nagorno-Karabakh War: Azerbaijani forces defeated the self-proclaimed Republic of Artsakh at the Battle of Shusha, reclaiming the town of Shusha after 28 years.**
 
 </details>
 
-*Updated: 2026-11-07 21:14 UTC*
+*Updated: 2026-11-08 12:27 UTC*
 <!-- HISTORY_END -->
 
 ---
