@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 08 — 2020:** Second Nagorno-Karabakh War: Azerbaijani forces defeated the self-proclaimed Republic of Artsakh at the Battle of Shusha, reclaiming the town of Shusha after 28 years.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War)
+**November 09 — 2019:** The Alabama Crimson Tide and LSU Tigers football teams, both with undefeated records thus far that season, played in a "Game of the Century".  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 08 — 2020: Second Nagorno-Karabakh War: Azerbaijani forces defeated the self-proclaimed Republic of Artsakh at the Battle of Shusha, reclaiming the town of Shusha after 28 years.**
+**November 09 — 2019: The Alabama Crimson Tide and LSU Tigers football teams, both with undefeated records thus far that season, played in a "Game of the Century".**
 
 </details>
 
-*Updated: 2026-11-08 21:28 UTC*
+*Updated: 2026-11-09 14:42 UTC*
 <!-- HISTORY_END -->
 
 ---
