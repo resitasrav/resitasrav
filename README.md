@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 09 — 2019:** The Alabama Crimson Tide and LSU Tigers football teams, both with undefeated records thus far that season, played in a "Game of the Century".  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football)
+**November 10 — 2020:** The British government announced that it had removed the last land mine from the Falkland Islands, laid by Argentine forces during the 1982 Falklands War.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Land_mines_in_the_Falkland_Islands)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 09 — 2019: The Alabama Crimson Tide and LSU Tigers football teams, both with undefeated records thus far that season, played in a "Game of the Century".**
+**November 10 — 2020: The British government announced that it had removed the last land mine from the Falkland Islands, laid by Argentine forces during the 1982 Falklands War.**
 
 </details>
 
-*Updated: 2026-11-09 21:43 UTC*
+*Updated: 2026-11-10 00:59 UTC*
 <!-- HISTORY_END -->
 
 ---
