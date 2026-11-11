@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 10 — 2020:** The British government announced that it had removed the last land mine from the Falkland Islands, laid by Argentine forces during the 1982 Falklands War.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Land_mines_in_the_Falkland_Islands)
+**November 11 — 2008:** After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed Nasheed as the president of the Maldives.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Maumoon_Abdul_Gayoom)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 10 — 2020: The British government announced that it had removed the last land mine from the Falkland Islands, laid by Argentine forces during the 1982 Falklands War.**
+**November 11 — 2008: After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed Nasheed as the president of the Maldives.**
 
 </details>
 
-*Updated: 2026-11-10 22:39 UTC*
+*Updated: 2026-11-11 13:12 UTC*
 <!-- HISTORY_END -->
 
 ---
