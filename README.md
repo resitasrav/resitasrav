@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 12 — 2014:** The European Space Agency's lander Philae  touched down on 67P/Churyumov–Gerasimenko, becoming the first spacecraft to land on a comet.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/European_Space_Agency)
+**November 13 — 2015:** Coordinated terrorist attacks in Paris perpetrated by the Islamic State killed 130 people and injured 413 others.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/November_2015_Paris_attacks)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 12 — 2014: The European Space Agency's lander Philae  touched down on 67P/Churyumov–Gerasimenko, becoming the first spacecraft to land on a comet.**
+**November 13 — 2015: Coordinated terrorist attacks in Paris perpetrated by the Islamic State killed 130 people and injured 413 others.**
 
 </details>
 
-*Updated: 2026-11-12 22:59 UTC*
+*Updated: 2026-11-13 13:38 UTC*
 <!-- HISTORY_END -->
 
 ---
