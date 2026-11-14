@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 13 — 2015:** Coordinated terrorist attacks in Paris perpetrated by the Islamic State killed 130 people and injured 413 others.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/November_2015_Paris_attacks)
+**November 14 — 2010:** Red Bull Racing's Sebastian Vettel won the Drivers' Championship after winning the final race of the season, becoming the youngest Formula One champion.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Red_Bull_Racing)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 13 — 2015: Coordinated terrorist attacks in Paris perpetrated by the Islamic State killed 130 people and injured 413 others.**
+**November 14 — 2010: Red Bull Racing's Sebastian Vettel won the Drivers' Championship after winning the final race of the season, becoming the youngest Formula One champion.**
 
 </details>
 
-*Updated: 2026-11-13 23:01 UTC*
+*Updated: 2026-11-14 12:42 UTC*
 <!-- HISTORY_END -->
 
 ---
