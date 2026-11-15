@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 14 — 2010:** Red Bull Racing's Sebastian Vettel won the Drivers' Championship after winning the final race of the season, becoming the youngest Formula One champion.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Red_Bull_Racing)
+**November 15 — 2012:** Xi Jinping replaced Hu Jintao as General Secretary of the Chinese Communist Party, succeeding as the paramount leader of China.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Xi_Jinping)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 14 — 2010: Red Bull Racing's Sebastian Vettel won the Drivers' Championship after winning the final race of the season, becoming the youngest Formula One champion.**
+**November 15 — 2012: Xi Jinping replaced Hu Jintao as General Secretary of the Chinese Communist Party, succeeding as the paramount leader of China.**
 
 </details>
 
-*Updated: 2026-11-14 21:49 UTC*
+*Updated: 2026-11-15 13:10 UTC*
 <!-- HISTORY_END -->
 
 ---
