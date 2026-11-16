@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 15 — 2012:** Xi Jinping replaced Hu Jintao as General Secretary of the Chinese Communist Party, succeeding as the paramount leader of China.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Xi_Jinping)
+**November 16 — 2020:** The El Dorado Fire in California, United States, was extinguished after 71 days, having destroyed 20 structures and killed one firefighter.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/El_Dorado_Fire)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 15 — 2012: Xi Jinping replaced Hu Jintao as General Secretary of the Chinese Communist Party, succeeding as the paramount leader of China.**
+**November 16 — 2020: The El Dorado Fire in California, United States, was extinguished after 71 days, having destroyed 20 structures and killed one firefighter.**
 
 </details>
 
-*Updated: 2026-11-15 22:17 UTC*
+*Updated: 2026-11-16 14:18 UTC*
 <!-- HISTORY_END -->
 
 ---
