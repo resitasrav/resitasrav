@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 16 — 2020:** The El Dorado Fire in California, United States, was extinguished after 71 days, having destroyed 20 structures and killed one firefighter.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/El_Dorado_Fire)
+**November 17 — 2013:** Tatarstan Airlines Flight 363 crashed during an aborted landing at Kazan International Airport, Russia, killing all 50 people on board and leading to the revocation of the airline's operating certificate.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Tatarstan_Airlines_Flight_363)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 16 — 2020: The El Dorado Fire in California, United States, was extinguished after 71 days, having destroyed 20 structures and killed one firefighter.**
+**November 17 — 2013: Tatarstan Airlines Flight 363 crashed during an aborted landing at Kazan International Airport, Russia, killing all 50 people on board and leading to the revocation of the airline's operating certificate.**
 
 </details>
 
-*Updated: 2026-11-16 21:24 UTC*
+*Updated: 2026-11-17 01:17 UTC*
 <!-- HISTORY_END -->
 
 ---
