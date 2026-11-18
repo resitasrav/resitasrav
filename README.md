@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 17 — 2013:** Tatarstan Airlines Flight 363 crashed during an aborted landing at Kazan International Airport, Russia, killing all 50 people on board and leading to the revocation of the airline's operating certificate.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Tatarstan_Airlines_Flight_363)
+**November 18 — 2017:** Cyclone Numa, a rare "medicane", made landfall in Greece to become the worst weather event that the country had experienced since 1977.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Cyclone_Numa)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 17 — 2013: Tatarstan Airlines Flight 363 crashed during an aborted landing at Kazan International Airport, Russia, killing all 50 people on board and leading to the revocation of the airline's operating certificate.**
+**November 18 — 2017: Cyclone Numa, a rare "medicane", made landfall in Greece to become the worst weather event that the country had experienced since 1977.**
 
 </details>
 
-*Updated: 2026-11-17 20:12 UTC*
+*Updated: 2026-11-18 00:14 UTC*
 <!-- HISTORY_END -->
 
 ---
