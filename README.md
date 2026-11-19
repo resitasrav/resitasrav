@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 18 — 2017:** Cyclone Numa, a rare "medicane", made landfall in Greece to become the worst weather event that the country had experienced since 1977.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Cyclone_Numa)
+**November 19 — 2013:** A double suicide bombing at the Iranian embassy in Beirut, Lebanon, killed 23 people and injured at least 160 others.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2013_Iranian_embassy_bombing_in_Beirut)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 18 — 2017: Cyclone Numa, a rare "medicane", made landfall in Greece to become the worst weather event that the country had experienced since 1977.**
+**November 19 — 2013: A double suicide bombing at the Iranian embassy in Beirut, Lebanon, killed 23 people and injured at least 160 others.**
 
 </details>
 
-*Updated: 2026-11-18 23:42 UTC*
+*Updated: 2026-11-19 14:54 UTC*
 <!-- HISTORY_END -->
 
 ---
