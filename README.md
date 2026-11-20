@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 19 — 2013:** A double suicide bombing at the Iranian embassy in Beirut, Lebanon, killed 23 people and injured at least 160 others.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2013_Iranian_embassy_bombing_in_Beirut)
+**November 20 — 2003:** Suicide bombers blew up the British consulate and the headquarters of HSBC Bank in Istanbul, killing 31 people, including consul general Roger Short and actor Kerem Yılmazer.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2003_Istanbul_bombings)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 19 — 2013: A double suicide bombing at the Iranian embassy in Beirut, Lebanon, killed 23 people and injured at least 160 others.**
+**November 20 — 2003: Suicide bombers blew up the British consulate and the headquarters of HSBC Bank in Istanbul, killing 31 people, including consul general Roger Short and actor Kerem Yılmazer.**
 
 </details>
 
-*Updated: 2026-11-19 19:43 UTC*
+*Updated: 2026-11-20 00:01 UTC*
 <!-- HISTORY_END -->
 
 ---
