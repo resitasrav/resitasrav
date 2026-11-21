@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 20 — 2003:** Suicide bombers blew up the British consulate and the headquarters of HSBC Bank in Istanbul, killing 31 people, including consul general Roger Short and actor Kerem Yılmazer.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2003_Istanbul_bombings)
+**November 21 — 2015:** The Belgian government imposed a four-day security lockdown in Brussels based on information about potential terrorist attacks.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2015_Brussels_lockdown)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 20 — 2003: Suicide bombers blew up the British consulate and the headquarters of HSBC Bank in Istanbul, killing 31 people, including consul general Roger Short and actor Kerem Yılmazer.**
+**November 21 — 2015: The Belgian government imposed a four-day security lockdown in Brussels based on information about potential terrorist attacks.**
 
 </details>
 
-*Updated: 2026-11-20 23:29 UTC*
+*Updated: 2026-11-21 13:54 UTC*
 <!-- HISTORY_END -->
 
 ---
