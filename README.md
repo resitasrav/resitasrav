@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 21 — 2015:** The Belgian government imposed a four-day security lockdown in Brussels based on information about potential terrorist attacks.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/2015_Brussels_lockdown)
+**November 22 — 2013:** Norwegian chess grandmaster Magnus Carlsen (pictured) defeated India's Viswanathan Anand to become world chess champion.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Magnus_Carlsen)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 21 — 2015: The Belgian government imposed a four-day security lockdown in Brussels based on information about potential terrorist attacks.**
+**November 22 — 2013: Norwegian chess grandmaster Magnus Carlsen (pictured) defeated India's Viswanathan Anand to become world chess champion.**
 
 </details>
 
-*Updated: 2026-11-21 22:36 UTC*
+*Updated: 2026-11-22 13:46 UTC*
 <!-- HISTORY_END -->
 
 ---
