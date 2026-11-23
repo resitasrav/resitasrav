@@ -108,7 +108,7 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 
 </details>
 
-*Updated: 2026-11-23 16:51 UTC*
+*Updated: 2026-11-23 23:01 UTC*
 <!-- HISTORY_END -->
 
 ---
