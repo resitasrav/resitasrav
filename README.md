@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 22 — 2013:** Norwegian chess grandmaster Magnus Carlsen (pictured) defeated India's Viswanathan Anand to become world chess champion.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Magnus_Carlsen)
+**November 23 — 2011:** Arab Spring: After months of protests in Yemen, President Ali Abdullah Saleh (pictured) agreed to step down; he subsequently ceded power to Vice President Abdrabbuh Mansour Hadi in February 2012.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Arab_Spring)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 22 — 2013: Norwegian chess grandmaster Magnus Carlsen (pictured) defeated India's Viswanathan Anand to become world chess champion.**
+**November 23 — 2011: Arab Spring: After months of protests in Yemen, President Ali Abdullah Saleh (pictured) agreed to step down; he subsequently ceded power to Vice President Abdrabbuh Mansour Hadi in February 2012.**
 
 </details>
 
-*Updated: 2026-11-22 22:59 UTC*
+*Updated: 2026-11-23 16:51 UTC*
 <!-- HISTORY_END -->
 
 ---
