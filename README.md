@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 23 — 2011:** Arab Spring: After months of protests in Yemen, President Ali Abdullah Saleh (pictured) agreed to step down; he subsequently ceded power to Vice President Abdrabbuh Mansour Hadi in February 2012.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Arab_Spring)
+**November 24 — 2023:** Hibiscus Rising (pictured), a sculpture commemorating the life of David Oluwale, was unveiled in Leeds.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Hibiscus_Rising)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 23 — 2011: Arab Spring: After months of protests in Yemen, President Ali Abdullah Saleh (pictured) agreed to step down; he subsequently ceded power to Vice President Abdrabbuh Mansour Hadi in February 2012.**
+**November 24 — 2023: Hibiscus Rising (pictured), a sculpture commemorating the life of David Oluwale, was unveiled in Leeds.**
 
 </details>
 
-*Updated: 2026-11-23 23:01 UTC*
+*Updated: 2026-11-24 03:37 UTC*
 <!-- HISTORY_END -->
 
 ---
