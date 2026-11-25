@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 24 — 2023:** Hibiscus Rising (pictured), a sculpture commemorating the life of David Oluwale, was unveiled in Leeds.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Hibiscus_Rising)
+**November 25 — 2013:** English-Irish boy band One Direction released their third studio album Midnight Memories which debuted at number one on the Billboard 200 and became the best-selling album of 2013.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/One_Direction)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 24 — 2023: Hibiscus Rising (pictured), a sculpture commemorating the life of David Oluwale, was unveiled in Leeds.**
+**November 25 — 2013: English-Irish boy band One Direction released their third studio album Midnight Memories which debuted at number one on the Billboard 200 and became the best-selling album of 2013.**
 
 </details>
 
-*Updated: 2026-11-24 21:41 UTC*
+*Updated: 2026-11-25 01:45 UTC*
 <!-- HISTORY_END -->
 
 ---
