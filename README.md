@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 25 — 2013:** English-Irish boy band One Direction released their third studio album Midnight Memories which debuted at number one on the Billboard 200 and became the best-selling album of 2013.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/One_Direction)
+**November 26 — 2011:** In a friendly-fire incident, a skirmish occurred between U.S.-led NATO forces and Pakistani security forces at two military checkposts along the Afghanistan–Pakistan border.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Friendly_fire)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 25 — 2013: English-Irish boy band One Direction released their third studio album Midnight Memories which debuted at number one on the Billboard 200 and became the best-selling album of 2013.**
+**November 26 — 2011: In a friendly-fire incident, a skirmish occurred between U.S.-led NATO forces and Pakistani security forces at two military checkposts along the Afghanistan–Pakistan border.**
 
 </details>
 
-*Updated: 2026-11-25 20:49 UTC*
+*Updated: 2026-11-26 01:20 UTC*
 <!-- HISTORY_END -->
 
 ---
