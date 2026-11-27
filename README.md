@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 26 — 2011:** In a friendly-fire incident, a skirmish occurred between U.S.-led NATO forces and Pakistani security forces at two military checkposts along the Afghanistan–Pakistan border.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Friendly_fire)
+**November 27 — 2020:** Nuclear physicist Mohsen Fakhrizadeh, regarded as the chief of Iran's nuclear program, was assassinated, allegedly by Mossad.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 26 — 2011: In a friendly-fire incident, a skirmish occurred between U.S.-led NATO forces and Pakistani security forces at two military checkposts along the Afghanistan–Pakistan border.**
+**November 27 — 2020: Nuclear physicist Mohsen Fakhrizadeh, regarded as the chief of Iran's nuclear program, was assassinated, allegedly by Mossad.**
 
 </details>
 
-*Updated: 2026-11-26 20:41 UTC*
+*Updated: 2026-11-27 01:18 UTC*
 <!-- HISTORY_END -->
 
 ---
