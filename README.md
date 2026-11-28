@@ -99,16 +99,16 @@ Building systems that operate at the edge — from bare-metal embedded firmware 
 <!-- HISTORY_START -->
 ### 📅 On This Day
 
-**November 27 — 2020:** Nuclear physicist Mohsen Fakhrizadeh, regarded as the chief of Iran's nuclear program, was assassinated, allegedly by Mossad.  
-🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh)
+**November 28 — 2016:** LaMia Flight 2933 crashed near Medellín, Colombia, killing 71 people, many of whom were players from Chapecoense Football Club.  
+🔗 [Read on Wikipedia](https://en.wikipedia.org/wiki/LaMia_Flight_2933)
 <details>
 <summary>🇹🇷 Türkçe Çevirisi</summary>
 
-**November 27 — 2020: Nuclear physicist Mohsen Fakhrizadeh, regarded as the chief of Iran's nuclear program, was assassinated, allegedly by Mossad.**
+**November 28 — 2016: LaMia Flight 2933 crashed near Medellín, Colombia, killing 71 people, many of whom were players from Chapecoense Football Club.**
 
 </details>
 
-*Updated: 2026-11-27 20:27 UTC*
+*Updated: 2026-11-28 14:45 UTC*
 <!-- HISTORY_END -->
 
 ---
